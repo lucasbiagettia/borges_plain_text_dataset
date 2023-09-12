@@ -1,0 +1,804 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+A los setenta años de la muerte de Leopoldo Lugones, publicamos este breve ensayo que jorge Luis Borges escribió con la colaboración de Betina Edelberg y que sigue siendo importante para abordar la obra de quien fue, sin dudas, el más prestigioso hombre de letras de su tiempo. En una rápida incursión por la historia de la literatura argentina y de la literatura hispanoamericana, el libro se propone despertar y orientar la curiosidad del lector contemporáneo. Sus capítulos: El modernismo; Lugones Poeta; El prosista y lo argentino; Lugones y lo helénico; Lugones y la política, etc. resumen el pensamiento maduro de Borges sobre su admirable colega.
+«Lugones encarnó en grado heroico las cualidades de nuestra literatura, buenas y malas. Por un lado, el goce verbal, la música instintiva, la facultad de comprender y reproducir cualquier artificio, por el otro, cierta indiferencia esencial, la posibilidad de encarar un tema desde diversos ángulos, de usarlo para la exaltación o para la burla».
+
+
+
+
+
+
+
+
+
+
+
+
+
+Título original: Leopoldo Lugones
+Jorge Luis Borges & Betina Edelberg, 1955
+Editor digital: Moro
+
+
+
+ePub base r1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JORGE FRANCISCO ISIDORO LUIS BORGES (Buenos Aires, 24 de agosto de 1899 – Ginebra, 14 de junio de 1986) fue un escritor argentino, uno de los autores más destacados de la literatura del siglo XX. Publicó ensayos breves, cuentos y poemas. Su obra, fundamental en la literatura y en el pensamiento humano, ha sido objeto de minuciosos análisis y de múltiples interpretaciones, trasciende cualquier clasificación y excluye cualquier tipo de dogmatismo.
+Es considerado como uno de los eruditos más grandes del siglo XX, lo cual no impide que la lectura de sus escritos suscite momentos de viva emoción o de simple distracción. Ontologías fantásticas, genealogías sincrónicas, gramáticas utópicas, geografías novelescas, múltiples historias universales, bestiarios lógicos, silogismos ornitológicos, éticas narrativas, matemáticas imaginarias, thrillers teológicos, nostálgicas geometrías y recuerdos inventados son parte del inmenso paisaje que las obras de Borges ofrecen tanto a los estudiosos como al lector casual. Y sobre todas las cosas, la filosofía, concebida como perplejidad, el pensamiento como conjetura, y la poesía, la forma suprema de la racionalidad. Siendo un literato puro pero, paradójicamente, preferido por los semióticos, matemáticos, filólogos, filósofos y mitólogos, Borges ofrece —a través de la perfección de su lenguaje, de sus conocimientos, del universalismo de sus ideas, de la originalidad de sus ficciones y de la belleza de su poesía— una obra que hace honor a la lengua española y la mente universal.
+Ciego a los 55 años, personaje polémico, con posturas políticas que le impidieron ganar el Premio Nobel de Literatura al que fue candidato durante casi treinta años.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notas
+
+[1] Recuérdese la inscripción de los relojes de sol: «Omnes vulnerara, ultima necat» (Todas hieren, la última mata). <<
+
+
+[2] En los Poémes Saturniens (1867), el soneto «Lassitude» lleva como paradójico epígrafe: a batallas de amor campo de pluma (Soledad Primera). <<
+
+
+[3] De 1897 son las Ballades Franpaises, de Paul Fort, en las que se observa el mismo recurso. <<
+
+
+[4] Véase la revista Nosotros (2a época), número dedicado a Lugones (Na 26-28), págs. 225-266. <<
+
+
+[5] La prosa de Lugones es tan múltiple, que no podemos mantener en este capítulo el orden cronológico que hemos observado para su poesía. Nos ha parecido preferible una clasificación por temas. <<
+
+
+[6] GROUSSAC, Estudios de historia argentina, 1918, páginas 56-57. <<
+
+
+[7] Las «Nuevas Generaciones» Literarias. El Hogar, febrero, 1937. <<
+
+
+[8] También se conjetura que es púnico el vasto nombre de África, que originariamente se aplicó al territorio cartaginés. <<
+
+
+
+
+
+
+
+
+
+
+
+
+Advertencia
+Este libro es una introducción a la obra de Leopoldo Lugones. Situar esta obra en la historia de la literatura argentina y de la literatura hispanoamericana, proponerla a la curiosidad del lector y esbozar un principio de orientación por su poblado ámbito, son los propósitos fundamentales de este trabajo.
+Queden para otros los exhaustivos análisis estilísticos y la historia de un hombre solitario, orgulloso y valiente, cuyos libros despertaron la admiración, pero no el afecto, y que murió, tal vez, sin haber escrito la palabra que lo expresara.
+J. L. B. - B. E.
+
+
+
+
+
+
+
+
+
+
+
+A Leopoldo Lugones
+Los rumores de la plaza quedan atrás y entro en la Biblioteca. De una manera casi física siento la gravitación de los libros, el ámbito sereno de un orden, el tiempo disecado y conservado mágicamente. A izquierda y a derecha, absortos en su lúcido sueño, se perfilan los rostros momentáneos de los lectores, a la luz de las lámparas estudiosas, como en la hipálage de Milton. Recuerdo haber recordado ya esa figura, en este lugar y después aquel otro epíteto que también define por el contorno, el árido camello del Lunario, y después aquel hexámetro de la Eneida, que maneja y supera el mismo artificio:
+Ibant obscuri sola sub nocte per umbram.
+Estas reflexiones me dejan en la puerta de su despacho. Entro; cambiamos unas cuantas convencionales y cordiales palabras y le doy este libro. Si no me engaño, usted no me malquería, Lugones, y le hubiera gustado que le gustara algún trabajo mío. Ello no ocurrió nunca, pero esta vez usted vuelve las páginas y lee con aprobación algún verso, acaso porque en él ha reconocido su propia voz, acaso porque la práctica deficiente le importa menos que la sana teoría.
+En este punto se deshace mi sueño, como el agua en el agua. La vasta biblioteca que me rodea está en la calle México, no en la calle Rodríguez Peña, y usted, Lugones, se mató a principios del treinta y ocho. Mi vanidad y mi nostalgia han armado una escena imposible. Así será (me digo), pero mañana yo también habré muerto y se confundirán nuestros tiempos y la cronología se perderá en un orbe de símbolos y de algún modo será justo afirmar que yo le he traído este libro y que usted lo ha aceptado.
+
+J. L. B.
+Buenos Aires, 9 de agosto de 1960.
+
+
+
+
+
+
+
+
+
+
+
+
+Leopoldo Lugones
+Como el de Quevedo, como el de Joyce, como el de Claudel, el genio de Leopoldo Lugones es fundamentalmente verbal. No hay una página de su numerosa labor que no pueda leerse en voz alta, y que no haya sido escrita en voz alta. Períodos que en otros escritores resultarían ostentosos y artificiales, corresponden, en él, a la plenitud y a las amplias evoluciones de su entonación natural.
+Para Lugones, el ejercicio literario fue siempre la honesta y aplicada ejecución de una tarea precisa, el riguroso cumplimiento de un deber que excluía los adjetivos triviales, las imágenes previsibles y la construcción azarosa. Las ventajas de esa conducta son evidentes; su peligro es que el sistemático rechazo de lugares comunes conduzca a meras irregularidades que pueden ser oscuras o ineficaces. Lugones tuvo la vanidad de trabajar detenidamente su obra, línea por línea; un resultado de esta dedicación es el elevado número de páginas de índole antológica.
+Desdeñoso de lo español, el autor de La guerra gaucha, paradójicamente adoleció de dos supersticiones muy españolas: la creencia de que el escritor debe usar todas las palabras del diccionario, la creencia de que en cada palabra el significado es lo esencial y nada importan su connotación y su ambiente. Sin embargo en algunos poemas de tono criollo, empleó con delicadeza un vocabulario sencillo; esto prueba su sensibilidad y nos permite suponer que sus ocasionales fealdades eran audacias y respondían a la ambición de medirse con todas las palabras. Fatalmente muchas de aquellas novedades se han anticuado pero la obra, en conjunto, es una de las mayores aventuras del idioma español. El siglo XVII quiso innovar, regresando al latín; Lugones quiso incorporar a su idioma los ritmos, las metáforas, las libertades que el romanticismo y el simbolismo habían dado al francés.
+La literatura de América aún se nutre de la obra de este gran escritor; escribir bien es, para muchos, escribir a la manera de Lugones. Desde el ultraísmo hasta nuestro tiempo, su inevitable influjo perdura creciendo y transformándose. Tan general es ese influjo que para ser discípulo de Lugones, no es necesario haberlo leído. En La pipa de Kifde Valle Inclán se advierte el Lunario sentimental; sin menoscabo de su originalidad, dos grandes poetas, Ramón López Velarde y Martínez Estrada, provienen de Lugones.
+Alcanzar en un medio indiferente una obra tan fértil y tan plena es una empresa heroica; su vida entera fue una laboriosa jornada, que desdeñó las recompensas, los aplausos y los honores y hasta la gloria que ahora lo sustenta y lo justifica. Su destino le impuso la soledad, porque no había otros como él y en esa soledad lo encontró la muerte.
+
+
+
+
+
+
+
+
+
+
+
+El Modernismo
+La historia de Leopoldo Lugones es inseparable de la historia del modernismo, aunque su obra, en conjunto, excede los límites de esta escuela. A fines del siglo XIX y a principios del XX, el modernismo renovó las literaturas de lengua española. Esta renovación era necesaria; después del siglo de oro y del barroco, la literatura hispánica decae y los siglos XVIII y XIX son igualmente pobres.
+España nunca fue clásica; la impetuosa irregularidad de su drama y la evocación, acaso arbitraria, de su color local, inspiran la reacción romántica; Alemania descubre a Calderón, lo traduce Shelley y su obra sirve de argumento contra el rigor de las tres unidades clásicas.
+Es curioso observar que el romanticismo, esencialmente afín a la índole de España, no produce en este país un solo poeta de la significación de Keats o de Hugo.
+La circunstancia de que algunos críticos españoles ignoraran esta indigencia contribuía a hacerla más irreparable; así Menéndez y Pelayo, en la antología que se titula Las cien mejores poesías líricas de la lengua castellana, admite inexplicablemente una desmesurada proporción de poetas de su época.
+Con esta decadencia contrastan la complejidad y el vigor de las otras literaturas de Europa; en la poesía de Francia, cuyo influjo en el modernismo será decisivo, el Parnaso sucede al romanticismo y el simbolismo al Parnaso. De estas escuelas, excluyentes en Francia, las dos últimas son recibidas con igual devoción por las jóvenes generaciones americanas y se difunden con facilidad. En lo que se refiere al romanticismo, se observa una reacción contra su elocuencia y su pompa, pero aún se admira a Víctor Hugo.
+Por aquellos años, en Buenos Aires o en Méjico no se concibe una persona culta que no sepa francés y es prestigioso ir a París para perfeccionar los estudios. Todavía cercana la guerra de la Independencia, el odio a lo español no se había extinguido; las injuriosas expresiones godo y gallego eran habituales. La admiración por lo francés llega al exceso; Eduardo Wilde se burla de ella en su artículo Vida moderna.
+La imitación del clasicismo español persistía en ciertos poetas, pero su obra constituyó, para los jóvenes, un testimonio más de la esterilidad de esa tradición. Recordemos la obra de Oyuela.
+Agotado el placer que podían suministrar el vocabulario y los metros clásicos, se sentía la urgencia de renovarlos. Oscuramente se anhelaba y se vislumbraba otra cosa; adelantándose a ello, algunos poetas anteriores parecían señalar nuevas direcciones.
+Así el revolucionario cubano José Martí decía en el prólogo de sus Versos libres (1882): «Estos son mis versos. Son como son. A nadie los pedí prestados… Recortar versos también sé, pero no quiero. Así como cada hombre trae su fisonomía, cada inspiración trae su lenguaje. Amo las sonoridades difíciles…» En 1891, agregaba: «Amo la sencillez y creo en la necesidad de poner el sentimiento en formas llanas y sinceras.» El mérito de Martí, como poeta, se limita a haber preferido la sencillez; en sus mejores versos hay algo de copla popular. Se considera que Ismaelillo, escrito en 1882 para su hijo, marca el principio de esta nueva tendencia en las letras americanas, que culminará en Azul, de Rubén Darío.
+Otro cubano, Julián del Casal (1863-1893), prefigura los temas del hastío, de la evasión y del exotismo, que serán luego predilectos de los modernistas. Influido por Baudelaire, entre lo artificial y lo natural elige lo primero:
+
+Tengo el impuro amor de las ciudades
+Ya este sol que ilumina las edades
+Prefiero yo delgas las claridades.
+A mis sentidos lánguidos arroba,
+Más que el olor de un bosque de caoba,
+El ambiente enfermizo de una alcoba.
+
+Otro famoso precursor, José Asunción Silva (1865-1896), ferviente lector de Poe, de Baudelaire, de Verlaine, de los prerrafaelistas ingleses, trunca su desdichada vida a la edad de treinta años, pero deja los Nocturnos, que América aún no ha olvidado:
+
+… Era el frío del sepulcro, era el hielo de la muerte,
+era el frío de la nada…
+Y mi sombra
+por los rayos de la luna proyectada,
+iba sola,
+iba sola,
+iba sola, por la estepa solitaria-,
+y tu sombra esbelta y ágil,
+fina y lánguida,
+como en esa noche tibia de la muerta primavera,
+como en esa noche llena de murmullos,
+de perfumes y de música de alas,
+se acercó y marchó con ella,
+se acercó y marchó con ella,
+se acercó y marchó con ella…
+¡Oh las sombras enlazadas!
+¡Oh las sombras de los cuerpos que se juntan
+con las sombras de las almas!
+¡Oh las sombras que se buscan en las noches
+de tristezas y de lágrimas!…
+
+Entre los iniciadores del modernismo se halla también el mejicano Manuel Gutiérrez Nájera (1859-1895), fundador de la Revista azul, que con tanta hospitalidad acogió la poesía de los jóvenes. Dice Pedro Henríquez Ureña: «Hay en su melancolía un dejo otoñal, que concuerda con el constante clima otoñal de las altas mesetas de Méjico. Es el más mejicano de los poetas —un mejicano del valle de Anáhuac, en el que está la capital— como Casal es uno de los más cubanos en su amor por los colores vivos. Su poesía es también pictórica, especialmente en las Odas breves, llenas de reminiscencias griegas y latinas.» Ejemplo de estos ejercicios clásicos, ensayados por un poeta esencialmente romántico, es la oda Ultima Necat,[1] donde se imita no sólo la brevedad y las alusiones mitológicas sino también las apretadas yuxtaposiciones de ciertos estilos helénicos:
+
+¡Huyen los años como raudas naves!
+¡rápidos huyen!
+Infecunda Parca
+pálida espera. La salobre Estigia
+calla dormida.
+¡Voladores años!
+¡Dado me fuera detener convulso,
+horas fugaces, vuestra blanca veste!
+Pasan las dichas y temblando llegan
+mudos inviernos…
+Las fragantes rosas
+mustias se vuelven, y el enhiesto cáliz
+cae de la mano. Pensativa el alba
+baja del monte. Los placeres todos
+duermen rendidos…
+En mis brazos flojos
+Cintia descansa.
+
+Pero José Martí, Julián del Casal, José Asunción Silva y Manuel Gutiérrez Nájera se limitan a preparar el advenimiento de un gran poeta: Rubén Darío.
+De igual manera que el romanticismo francés cabe en el solo nombre de Hugo, así lo que será el modernismo —su nostalgia, sus excesos decorativos, su esplendor verbal— cabe en el de Darío.
+La historia de la nueva escuela comienza en 1888 con la publicación de Azul… en Valparaíso. De este libro, cuya importancia histórica es innegable, quizá lo único que aún sobreviva sea algún soneto como el dedicado a Walt Whitman. En 1896 aparece en Buenos Aires Prosas profanas. Temas, palabras, metáforas, emociones, están muy lejos de nosotros, pero es indiscutible que con este libro de versos entró en el idioma español una nueva música, un nuevo juego de posibilidades sonoras. Las predilecciones de Rubén Darío por el esdrújulo, por el tono agudo y por cierta espontánea o estudiada facilidad oral se manifiestan en estrofas, acaso gastadas ahora, pero que entonces debieron sorprender por su osadía:
+
+Boga y boga en el lago sonoro
+donde el sueño a los tristes espera,
+donde aguarda una góndola de oro
+a la novia de Luis de Baviera.
+(Blasón)
+
+
+Padre y maestro mágico, liróforo celeste
+que al instrumento olímpico y a la siringa agreste
+diste tu acento encantador;
+¡Panida! Pan tú mismo, que coros condujiste
+hacia el propíleo sacro que amaba tu alma triste,
+¡al son del sistro y del tambor!
+(Responso a Verlaine)
+
+Darío publica después Cantos de vida y esperanza (1905) y El canto errante (1907). En estos libros perfecciona sus esplendores (Visión, Metempsicosis), y alcanza aquello que Lugones no alcanzará, tal vez, en toda su vida: un vínculo amistoso con el lector, la confidencia íntima. Detrás de la magnificencia verbal y de los hallazgos métricos se vislumbra el destino trágico de Darío. Recuérdese Yo soy aquel que ayer nomás decía…, Canción de otoño en primavera, Melancolía. Lo fatal, ¡Eheu!
+El modernismo, por obra de Darío, triunfó en América y en España. Darío, en este último país, no es un forastero; se ha incorporado a la tradición nacional y se habla de él como de Garcilaso o de Góngora. Darío es así, para la historia de la literatura, un gran poeta de España y de América.
+Dos poetas norteamericanos, Edgar Allan Poe y Walt Whitman, habían influido esencialmente, por su teoría y por su obra, en la literatura francesa; Rubén Darío, hombre de Hispanoamérica, recoge este influjo a través de la escuela simbolista; y lo lleva a España.
+Hemos dicho que la evasión fue uno de los rasgos diferenciales del modernismo; podría señalarse también los temas de la mitología griega, heredados del Parnaso francés y, en general, usados de manera decorativa. En Prosas profanas, Rubén Darío llegó a decir:
+
+Amo más que la Grecia de los griegos
+la Grecia de la Francia, porque en Francia,
+al eco de las Risas y los fuegos,
+su más dulce licor Venus escancia.
+Verlaine es más que Sócrates; y Arsenio
+Houssaye supera al viejo Anacreonte
+
+La profusión de mitos helénicos no basta al modernismo; Ricardo Jaimes Freyre, en Castalia bárbara (1899), reemplaza las divinidades griegas por las escandinavas. Cambian así los personajes, no el espíritu.
+Alguien podría objetar la frecuencia de temas, mitológicos en la literatura de nuestro tiempo (Yeats, Valéry, Kafka, Gide); pero su empleo, ahora, no es puramente ornamental, es también significativo de situaciones individuales.
+El modernismo abarcó todas las naciones de Sudamérica. Sus poetas, quizás a través de Heredia y de Hugo, descubrieron las posibilidades literarias del continente; a Grecia y a Versailles suceden la historia y la geografía americanas. Sus orígenes los conducen a España y, por ende, al descubrimiento de su Edad Media y de la lírica barroca. Góngora, reprobado por la Academia y admirado, acaso desde lejos, por Verlaine,[2] es de nuevo propuesto a la admiración por los modernistas.
+Pedro Henríquez Ureña, en el libro Las corrientes literarias en la América Hispánica, divide la historia del modernismo en dos períodos: el primero, va de 1882 a 1896, integrado por Martí, Casal, Gutiérrez Nájera, Asunción Silva y Darío; el segundo va de 1896 a 1920. «Martí, Casal, Gutiérrez Nájera y Silva mueren entre 1893 y 1896; Darío queda, pues, como cabeza indiscutible para los veinte años siguientes.» Agrega Henríquez Ureña que entre 1896 y 1900 el centro de este movimiento estuvo en el sur, en Buenos Aires y Montevideo.
+Como se habrá observado, el primer período del esquema propuesto por Henríquez Ureña comprende, con excepción de Darío, a los poetas que nosotros, por juzgarlos aún vinculados al romanticismo, hemos considerado precursores. No hay que olvidar que las clasificaciones literarias son artificiales y responden a la necesidad de organizar el conocimiento; los lectores pueden elegir cualquiera de las dos posibilidades.
+En el modernismo predominó la poesía, pero también hubo prosistas. Darío cultivó ambas formas; nadie ignora que fue más afortunado en el verso. Veremos que en el caso de Lugones la decisión no es fácil. Alguno (Carlos Reyles, Rodó), se limitó a la prosa. Y un género intermedio, el breve «poema en prosa», a la manera de Aloysius Bertrand y de Baudelaire, encontró asimismo cultores. En El cencerro de cristal (1915), Güiraldes, influido por Laforgue, alternó en una misma composición la prosa y el verso.
+Hoy las literaturas de lengua española han traspuesto sus límites geográficos y merecen interés y respeto; esto es obra del modernismo. No, acaso, de los libros que fueron expresión de esta escuela, pero sí del impulso que ella dio a las letras españolas y americanas. Hasta la reacción contra el modernismo, que se observa a partir de mil novecientos veintitantos, es consecuencia o parte del modernismo, y hereda su ímpetu.
+
+
+
+
+
+
+
+
+
+
+
+Lugones, Poeta
+El primer libro de Lugones, Las montañas del oro, se publicó en 1897 y desconcertó o entusiasmó a los lectores. Todo en él era deliberadamente nuevo, hasta el artificio tipográfico de dar a los versos, sólo separados por guiones, apariencia de prosa. En esta disposición acaso influyeron Rimbaud y Maeterlinck;[3] como tantas otras innovaciones, ésta era también un arcaísmo, ya que los más antiguos monumentos de la poesía medieval —el Beowulf, el Cantar de los Nibelungos y el Poema del Cid— presentaban esta forma.
+Los guiones, en el Primer Ciclo, separan versos endecasílabos asonantados:
+…«Entonces comprendí ( Santa Miseria! ) —el misterioso amor de los pequeños; —i odié la dicha de las nobles sedas, —i las prosapias con raíz de hierro; —i hallé en tu lodo gérmenes de lirios, —i puse la amargura de mis besos — sobre bocas purpúreas que eran llagas — …»
+En el Segundo Ciclo, marcan las pausas entre versos irregulares:
+…«Son las vacas que han venido a media noche, — olfateando en las distancias de la sombra, — el sutil olor de muerte que levantan de la tierra — mojada por el degüello, las frescuras de la fronda. — Con pesados trotes llegan — las salvajes plañideras, — en la niebla que envolviendo los zarzales — flota, — absorbiendo los cuajados alientos de sus narices, — que sobre la muda tierra con ronco estertor sollozan, —i destilan grandes lágrimas — llenas de candor salvaje, sus pupilas soñadoras, —i la sangre derramada se humedece — empapada de jemidos y congojas. — …»
+Cierra el volumen un largo poema en prosa rítmica, el Himno de las torres. Hay, asimismo, composiciones en verso alejandrino (Reposorio) o endecasílabo (Salmos del combate), en lo que cada verso ocupa, a la manera tradicional, una línea.
+En todo el libro es evidente la presencia de Hugo. Este influjo, más de una vez, ha sido reprochado a Lugones. Mucho podría decirse contra esa acusación. Imitar a Hugo no es fácil; imitarlo sin incurrir en la mera grandilocuencia y sin que el tono desfallezca es una tarea difícil, aun para el propio Hugo; Lugones, sin embargo, la ejecuta con felicidad. No sólo hereda las sonoridades del maestro —que tanto daño suscitaron en imitadores mediocres—, sino la facultad narrativa y una expresión directa y concreta. No ignora que lo épico acepta, entre muchas cosas, el efecto aparentemente prosaico. En el Himno de las torres, escribe:
+…«i va Cristóbal Colón con una cruz i una espada bien leal; i Marco Polo, con un tratado cosmográfico de Cosmas en la mano… i la May-Flower con la carta del rei Juan; i Dumond Durville con un planisferio i una áncora; i Tasman con una brújula; i Stanley con el lápiz del New York Herald y su casco de corcho; i Livingstone con su Biblia y su esposa —David Livingstone el padre del Nilo.»
+Al recuerdo de Hugo y de Whitman se agrega, acaso el de Baudelaire, que asoma en la blasfemia y en la sensualidad de ciertas imágenes. Dante y Homero, dos admiraciones que lo acompañarán hasta el fin de sus días, ya son celebrados en este libro.
+Sin afectación de criollismo, el lenguaje de Las montañas del oro, resulta espontáneamente argentino.
+A la fama literaria del segundo libro de Lugones, Los crepúsculos del jardín (1905), se agrega otra de carácter polémico y casi judicial. Se trata de una acusación de plagio. En 1904, el poeta uruguayo Julio Herrera y Reissig publicó Los éxtasis de la montaña; Blanco Fombona, en el prólogo de la edición Garnier (París, 1912), destacó las afinidades de este libro con Los crepúsculos del jardín y acusó a Lugones de haber calcado a Herrera. El argumento, así formulado, parece irrefutable; pero como señalan, entre otros, conocidos escritores del Uruguay —Horacio Quiroga, Víctor Pérez Petit, Emilio Frugoni—, las poesías de Lugones ya habían aparecido en revistas de Buenos Aires y de Montevideo, antes de ser reunidas en un volumen. Así Los doce gozos se publicaron en revistas argentinas hacia 1898 y 1899.[4]
+Lo cierto es que Lugones y Herrera habían leído a Samain.
+Telas, crepúsculos, jardines, suspiros, estanques y fragancias invaden la poesía de Lugones y destierran las vastas divinidades de Hugo. Pero los motivos que en Samain aparecen desdibujados, en función de la melancolía, de la nostalgia y de la contenida pasión, son prodigados ostentosamente por su émulo y sirven para el escándalo y la jactancia. Hugo y Baudelaire están lejos de Los crepúsculos del jardín, pero su recuerdo a veces asoma y perturba la unidad del estilo. Veamos estos versos de Samain:
+
+Voici que lesjardins de la Nuit vontfleurir,
+Les lignes, les couleurs, les sons deviennent vagues.
+Vois, le dernier rayón agonise a tes bagues.
+Ma soeur, entends-tupas quelque chose mourir!…
+(Elégie)
+
+Compárense con éstos de Lugones:
+
+Tal como una bandera derrotada
+Se ajó la tarde, hundiéndose en la nada.
+A la sombra del tálamo enemigo,
+Se apagó en tu collar la última gema,
+Y sobre el broche de tu liga crema
+Crucifiqué mi corazón mendigo.
+(En color exótico)
+
+Y con los siguientes de Herrera y Reissig:
+
+Con viperinas gulas, la onda impía
+mordió los aromáticos billetes,
+y el sol se desangró en la fantasía
+de tus sortijas y tus brazaletes.
+La tarde ahogóse entre opalinas franjas…
+(Holocausto)
+
+En conjunto, el libro de Lugones es harto desigual. Al verso admirable: Se extenuaba de amor la tarde quieta, sigue: Con la ducal decrepitud del raso. Abundan estrofas como ésta:
+
+Fúnebre es tu candor adolescente
+Que la luna sonámbula histeriza,
+Y el perfume de nardo decadente
+En que tu alma pueril se exterioriza.
+(Romántica)
+
+En este libro, Lugones logra una mayor destreza formal, no así un mayor rigor. Su empeño es ser original y no se resigna a sacrificar el menor hallazgo, o lo que él considera hallazgo. Cada adjetivo y cada verbo tiene que ser inesperado. Esto lo lleva a ser barroco, y es bien sabido que lo barroco engendra su propia parodia.
+De este volumen, acaso inaccesible al gusto de nuestro tiempo, perduran algunas composiciones: Emoción aldeana, cuyos versos irregulares prefiguran al Lunario sentimental; el soneto parnasiano León cautivo y el sensible poema El solterón, cuyo atribulado protagonista, a diferencia de otros del libro, parece real. En El solterón las muchas descripciones no entorpecen la fluidez y simplicidad del conjunto. La primera estrofa ya nos da el tono melancólico de la historia:
+
+Largas brumas violetas
+Flotan sobre el río gris,
+Y allá en las dársenas quietas
+Sueñan oscuras goletas
+Con un lejano país.
+
+En el Lunario sentimental (1909), se trasluce el ejemplo del simbolista francés Jules Laforgue y de su Imitación de Notre-Da-me la Lune. Sin embargo, como Lugones fue algo más que un espejo de los libros que iba leyendo, es posible conjeturar que aun sin Laforgue hubiera llegado a despojarse de la juvenil y excesiva solemnidad de Los crepúsculos del jardín. La abundancia léxica y metafórica de este libro habrá despertado sonrisas; Lugones no renuncia a ella, pero gracias al tono festivo, logra una mayor levedad.
+El prólogo del Lunario sentimental es polémico. En él se lee que «el verso vive de la metáfora» y que «hallar imágenes nuevas y hermosas, expresándolas con claridad y concisión, es enriquecer el idioma». Lugones, en efecto, presenta una de las mayores colecciones de metáforas de la literatura española. Es innegable que estas metáforas son originales y, a veces, muy hermosas; su desventaja es ser tan visibles que obstruyen lo que deberían expresar; la estructura verbal es más evidente que la escena o la emoción que describen:
+
+Mas ya dejan de estregar los grillos
+Sus agrios esmeriles,
+Y suena en los pensiles
+La cristalería de los pajarillos.
+(Himno a la luna)
+
+La variedad de evocaciones y la vehemencia llegan a anonadar:
+
+Farol glacial del invierno:
+Cuando se paralice toda savia,
+Y muera como un tigre el sol eterno,
+Y temple el cierzo formidable la gravia,
+Y petrifique el boreal infierno
+En suplicio de mármol toda la Escandinavia,
+Tu ojo de pez antediluviano
+Coagulará en su influjo maligno
+La desolada extensión, en signo
+De esplendor soberano.
+(El sol de medianoche)
+
+«La rima —dice Lugones en el prólogo—, es el elemento esencial del verso moderno.» En el texto se prodigan las rimas insólitas: apio - Esculapio, astro - alabastro, sarao - cacao, ampo -crisolampo, copos - Átropos, anda - Irlanda, garbo - ruibarbo, apogeo - Orfeo, oréganos - lléganos, insufla - pantufla, picara - jicara, hongos - oblongos, orla - por la, petróleo - mole o, náyade - haya de, pretéritas - in vino veritas… Esta exigencia de que la poesía no prescinda de rimas invalidaría, por cierto, a poetas como Whitman, Cari Sandburg, Apollinaire y al propio Lugones del Himno de las torres.
+Lugones iguala y tal vez supera a Laforgue en el número y en la variedad de artificios verbales, pero estos artificios, que en Laforgue como en Byron, sirven para traducir una individualidad y corresponden, o parecen corresponder, a una idiosincrasia, en Lugones son meras habilidades, son deliberados juegos retóricos y no trascienden el plano literario.
+Como en los más antiguos monumentos de la épica del Indostán o como en Las Mil y Una Noches, prosa y verso conviven en el Lunario sentimental. Quizás Une saison en enfer de Rimbaud sugirió a Lugones esta combinación, que en 1909 era rara; ahora es más frecuente.
+La unidad del libro está dada por el tema de la luna, expresado en odas, cuentos, sonetos y en lo que el autor llama Teatro quimérico: el diálogo en prosa, Dos ilustres lunáticos; una égloga, La copa inhallable, una pantomima, El pierrot negro, y el «cuento de hadas» Los tres besos. Cierra el volumen la narración titulada Francesca, que ofrece una nueva interpretación del famoso episodio del canto quinto del Infierno.
+«Ojo izquierdo del mundo» llamaron a la luna los cabalistas, «puerta del cielo», una de las Upanishadas, donde también se lee que la luna interroga a los muertos y crece o mengua según entren o salgan de ella sus almas. De este sentido mítico de la luna (tan evidente, para citar un solo ejemplo, en la obra de Yeats) casi no hay conciencia en Lugones, que recurre a ella como un pretexto para anécdotas irónicas o amorosas. Es significativo, que la apostrofe así en el poema inicial:
+
+Yo te hablaré con maneras corteses
+Aunque sé que sólo eres un esqueleto…
+
+En realidad, esta actitud corresponde a las preferencias escépticas y materialistas de cierta literatura de aquella época.
+En 1910, año de nuestro Centenario, publicó las Odas seculares. Al propósito, sin duda sincero, de conmemorar poéticamente aquella fecha y de participar en la emoción colectiva, acaso se agregó una necesidad de acercarse a la gente y de atenuar la impresión de extravagancia provocada por el libro anterior. Por primera vez aparecen en su poesía los temas argentinos en los que tanto insistiría después. Sin embargo, la entonación es más española que criolla y el vocabulario sigue exhibiendo una vanidosa riqueza. No faltan prosaísmos deliberados, que responden al deseo de probar que todo cabe en la obra del poeta y que éste debe medirse con cualquier tema. Tal es la verosímil explicación de versos como éstos:
+
+Reclamemos la enmienda pertinente
+Del código rural cuya reforma,
+En la nobleza del derecho agrícola
+Y en la equidad pecuaria tiene normas.
+(A los ganados y las mieses)
+
+El defecto del libro reside en lo que algunos han considerado su mayor mérito: la tenacidad prolija y enciclopédica que induce a Lugones a versificar todas las disciplinas de la agricultura y de la ganadería. Felizmente, hay confidencias personales que mitigan el fatigoso catálogo:
+
+Como era fiesta el día de la patria,
+Y en mi sierra se nublan casi todas
+Las mañanas de mayo, el veinticinco
+Nuestra madre salía a buena hora
+De paseo campestre con nosotros,
+A buscar por las breñas más recónditas
+El panal montaraz que ya el otoño
+Azucaraba en madurez preciosa,
+Embellecía un rubio aseado y grave
+Sus pacíficas trenzas de señora.
+Seguíanla el peón y la muchacha.
+Y adelante, en pandilla juguetona,
+Corríamos nosotros con el perro
+Que describía en arco pistas locas.
+Con certeza cabal decía el hombre:
+—Aquí esta el camoatí, misia Custodia.
+Que así su nombre maternal y pío
+Como atributo natural la adorna.
+Aunque aquí vaya junto con la patria
+Toda luz, es seguro que no estorba.
+Adelgazada por penosos años,
+Como el cristal casi no tiene sombra.
+Después se nos ha puesto muy anciana,
+Y si muere sería triste cosa
+Que no la hubiese honrado como debe
+Su hijo mayor por vanidad retórica.
+
+También en determinadas estrofas de composiciones como A los Andes y A los gauchos, se abre camino la emoción a través de la constante grandilocuencia:
+
+Yo, que soy montañés, sé lo que vale
+La amistad de la piedra para el alma.
+
+Con este libro, Lugones vuelve a los temas civiles de su primera época. Es evidente la sinceridad patriótica del poeta; hay en sus palabras un estremecimiento que, por cierto, no se encontrará en el Canto a la Argentina, de Rubén Darío, obra de compromiso elaborada para la misma ocasión.
+El libro fiel (1912) no es la obra más característica de Lugones (probablemente lo sea el Lunario sentimental), pero es la obra que mejor parece corresponder a una exigencia íntima. En otros libros se adivina el deliberado propósito de versificar determinados temas; en ellos, el autor, en lugar de abandonarse a la emoción, cumple una tarea que se ha impuesto. En éste, en cambio, el tono es confidencial. Ya títulos como El dolor de amar, La joven esposa, La estrella del dolor, Historia de mi muerte, anuncian una melancólica madurez que contrasta con los juegos o con las doctrinas de páginas anteriores.
+En este libro, hasta las alusiones mitológicas han superado su carácter decorativo y las sentimos recreadas por el poeta:
+
+Porque es así que sin pavor ni estruendo,
+Viene y nos clava el peligroso infante,
+Tras la gota de miel dardo tremendo.
+(Oda al amor)
+
+Lugones regresa a su predilección por la luna en el mismo poema:
+
+Pero también, por singular fortuna,
+Te comunicará en noche bendita
+El dulce bien de descubrir la luna.
+También en La blanca soledad:
+La luna cava un blanco abismo
+De quietud, en cuya cuenca
+Las cosas son cadáveres
+Y las sombras viven como ideas.
+Y uno se pasma de lo próxima
+Que está la muerte de la blancura aquella,
+De lo bello que es el mundo
+Poseído por la antigüedad de la luna llena
+Y el ansia tristísima de ser amado
+En el corazón doloroso tiembla.
+
+En estos versos sentimos la presencia de la luna con más convicción que en las laboriosas metáforas del Lunario.
+Hacia 1897, Rubén Darío había comparado a Lugones con Poe; Historia de mi muerte y El canto de la angustia confirman por su ambiente de terror esta sorprendente opinión:
+
+Y contemplaba mis manos
+Sobre la mesa qué extraordinarios miembros;
+Mis manos tan pálidas,
+Manos de muerto.
+Y noté que no sentía
+Mi corazón desde hacía mucho tiempo.
+Y sentí que te perdía para siempre,
+Con la horrible certidumbre de estar despierto.
+Y grité tu nombre
+Con un grito interno
+Con una voz extraña.
+Que no era la mía y que estaba muy lejos.
+Y entonces, en aquel grito,
+Sentí que mi corazón muy adentro,
+Como un racimo de lágrimas
+Se deshacía en un llanto benéfico.
+Y que era el dolor de tu ausencia
+Lo que había soñado despierto.
+
+También recordamos el ambiente sombrío de Silva y de Gutiérrez Nájera.
+La gravedad y la ternura del Libro fiel se prolongan en algunas composiciones del Libro de los paisajes (1917):
+
+Oh amiga que tan dulcemente amparas
+En tu suave amistad mi hosca fatiga,
+Purificando con tus manos claras
+Mi oscuro corazón, oh dulce amiga.
+(Sonata primaveral)
+
+El primer vuelo. La tarde clara, Salmo pluvial figuran entre los más famosos poemas de Lugones. Salmo pluvial termina admirablemente con los versos que siguen.
+
+CALMA
+Delicia de los árboles que abrevó el aguacero.
+Delicia de los gárrulos raudales en desliz.
+Cristalina delicia del trino del jilguero.
+Delicia serenísima de la tarde feliz.
+PLENITUD
+El cerro azul estaba fragante de romero,
+Y en los profundos campos silbaba la perdiz.
+
+Una de las partes, Alas, reúne composiciones dedicadas a pájaros argentinos. Por momentos la entonación, también vernácula, anticipa los futuros romances criollos. En las descripciones de los pájaros se prodigan toques realistas; ese realismo fragmentario es característico de todo el volumen. Decimos fragmentario, porque esos toques están como perdidos entre ornamentos retóricos y vagas efusiones líricas. No vemos los paisajes de Lugones como vemos, por ejemplo, los de Fernández Moreno; las estrofas de Mapamundi o de Horas campestres evocan a lo sumo acuarelas y óleos, no una inmediata realidad.
+El libro fiel, El libro de los paisajes y Las horas doradas (1922) componen, en cierto modo, una sola obra, pero en el último la versificación es más fluida. El terror sobrenatural, tema del Canto de la angustia y de Historia de mi muerte, reaparece con pareja eficacia en Los perros lunáticos-.
+
+Rozando interminables muros,
+Trotan sin fin. Su endeble traza
+Bajo la luna se adelgaza,
+Y ella los vuelve más oscuros.
+Y siguen con absurdo empeño
+En nuestra misma dirección,
+Los fatales perros sin dueño,
+Sordos al mimo y al baldón.
+Una esquivez de presidiario
+Manifiesta su intimidad
+Con los vampiros del osario
+Y el horror de la soledad.
+Afelpando su oblicua marcha,
+Toda la noche van así,
+Exasperado por la escarcha
+Su silencioso frenesí.
+O una demencia paralela,
+Su gañido histérico arranca,
+Y se pasan la noche en vela
+Ululando a la muerte blanca.
+(Romanzas del buen invierno, IX)
+
+El amor conyugal es otro de los temas que vuelven. De la admirable Balada del fino amor son los siguientes versos:
+
+Y ¿habrá quien no haya visto en un inerte
+Crepúsculo de gélidos candores,
+Caen las violetas ulteriores,
+De las lánguidas manos de la muerte?
+
+Los diptongos quebrados del tercer verso recuerdan los de Góngora: Entre las violetas fui herido. Ventura García Calderón ha señalado la ocasional afinidad de Lugones con Góngora; la siguiente estrofa reproduce no sólo el brillo sino la áspera dureza de las Soledades:
+
+Mordido de coloren cada poro,
+Friega de oro el metal su pulimento,
+Y exorbita hasta el cénit un violento
+Pavo real verde delirado en oro.
+(La tarde)
+
+Lugones, que iba buscándose y descubriéndose en los libros que leía, ahondó en su propia intimidad, gracias a los poemas de Heine. No sólo el título del Romancero (1924), atestigua esta influencia, sino los trece Heder, Intermezzo y el romance inicial Gaya ciencia, que es una deliberada variación del poema Der Asra.
+Algunas composiciones —Las fatales, El ausente, Romance de las dos hermanas— permiten entrever al novelista que Lugones, tal vez no logró ser cuando se propuso escribir novelas. Su predilección por el Libro de Las Mil y Una Noches y por la poesía islámica se refleja en Las tres kasidas y en ciertos poemas narrativos: Romance del rey de Persia, Tonada, El beso. El ropaje exótico no debe engañarnos; Lugones está mucho más cerca de estos poemas que, por ejemplo, de los ejercicios descriptivos que cultivó en las Odas seculares. El presentimiento y la curiosidad del amor, patéticos en un hombre maduro, asoman en muchas páginas de este libro {Chicas de octubre, Tennis, Perfil, Negro y blanco, Figurín) y les otorgan un interés humano que, acaso, estéticamente no alcanzan. En otras, la adivinación de la muerte se une al amor y es entonces cuando el lirismo de Lugones logra su plenitud:
+
+LA PALMERA
+Al llegar la hora esperada
+En que de amarla me muera,
+Que dejen una palmera
+Sobre mi tumba plantada.
+Así, cuando todo calle,
+En el olvido disuelto,
+Recordará el tronco esbelto
+La elegancia de su talle.
+Entregará con ternura
+La flor, al viento sonoro,
+El mismo reguero de oro
+Que dejaba su hermosura.
+Como un suspiro al pasar,
+Palpitando entre las hojas,
+Murmurará mis congojas
+La brisa crepuscular.
+Y mi recuerdo ha de ser,
+En su angustia sin reposo,
+El pájaro misterioso
+Que vuelve al anochecer.
+
+En Poemas solariegos (1927), uno de los libros capitales de la obra que estudiamos, Lugones quiere fundar su poesía en la realidad o, mejor dicho, quiere celebrar una realidad que justifique y documente los poemas. Comparado con libros como el Lunario, este volumen señala una reacción; el propósito de realizar una poesía argentina, ya ensayado en las Odas seculares, alcanza aquí su perfección. El lenguaje es más directo y más simple, sobre todo en El canto y en la perdurable Dedicatoria a los antepasados. Nuestra admiración por esta sencillez casi oral no debe hacernos olvidar que su eficacia, en buena parte, proviene del contraste con preciosismos anteriores. A pesar de las influencias que hemos indicado, la obra de Lugones es una; el estilo barroco de Los crepúsculos del jardín hace resaltar la simplicidad de la Dedicatoria.
+Recorre el libro un sentimiento elegiaco; Lugones ha querido rescatar viejas cosas criollas, olvidadas costumbres y personas. Las composiciones de inspiración cordobesa (El almuerzo, La sobremesa, El traspatio) son más auténticas que las Estampas porteñas, o que la demasiado famosa Salutación a Enbeita. En El payador (1916), Lugones menciona a «un mozo llamado Serapio Suárez que se ganaba la vida recitando el Martín Fierro en los ranchos y en las aldeas. Vivía feliz y no tenía otro oficio; lo cual demuestra que la poesía era uno, sí bien reducido a los cuatro granos diarios que constituyen el jornal del pájaro cantor». En los Poemas solariegos, dedica un largo romance a la memoria de aquel lejano amigo. Cierran el volumen unos cincuenta epigramas, Los ínfimos, que recuerdan las ocurrencias de Jules Renard o ciertos juegos de la poesía japonesa.
+Con la obra póstuma Romances de Río Seco (1938) culmina la poesía de Lugones. Durante toda su vida había sido devoto del Martín Fierro, que juzgaba el libro esencial de nuestra cultura; esta veneración lo llevó a crear poemas de ambiente y tono criollos. Fueron surgiendo, así, los Romances de Río Seco. En los primeros (La cabeza de Ramírez, La presa) el criollismo es todavía un poco deliberado y enfático. Gradualmente, Lugones se libera y escribe, acaso, sus mejores poemas. En general, los escritores gauchescos habían preferido la bravata y el desafío; Lugones, en El regalo, La visita, El Señor de Renca, pone de relieve un rasgo menos divulgado y que fue típico de los payadores: la cortesía criolla. Más importante que la anécdota es, en cada una de estas composiciones, el tono:
+
+Aunque a rigor esta vez
+La ley del canto me toque,
+Les narraré el sucedido
+Del gaucho Jacinto Roque.
+Tal condición de mi letra
+Puntualmente determino,
+Porque es, con perdón de ustedes,
+La historia de un asesino.
+(El malevo)
+
+En La visita admiramos, una vez más, la capacidad narrativa de Lugones. Conviven en este pausado relato el pudor, los buenos modales y la picardía del hombre de campo. El poema concluye con las significativas estrofas:
+
+Y como dándose tiempo
+De asentar los cojinillos-.
+—Me habían dicho, amigo Robles,
+Que tenía unos novillos…
+A estas palabras don Pepe,
+Como es de la misma laya,
+Regatea con desgano:
+—Puede ser que algunos haya.
+—¿Y costará mucho verlos?
+El otro sin contestar,
+Afirma, entregando el mate-.
+—Yo lo voy a acompañar.
+Montan juntos, y sin prisa
+Toman el camino al trote.
+—Es allá cerca, nomás,
+Trasmontando aquel mogote.
+Así podrá revisarlos
+Antes que asiente el calor.
+La hacienda estaba rodeada
+Desde la tarde anterior.
+
+Dos colecciones. Poesías diversas y La copa de jade, incluidas en sus Obras poéticas completas, nada esencial agregan a su labor.
+Nadie discute que Lugones sea un gran poeta; esta definición, aplicada en general a escritores de producción abundante, acepta la presencia de irregularidades y de cierta grandilocuencia.
+Paradójicamente, resulta más difícil decidir si fue o no poeta. La dificultad es sólo verbal. Si, para tipificar la poesía, pensamos en Anacreonte, en Keats, en Verlaine, en Garcilaso o, entre nosotros, en Enrique Banchs, hombres de tono íntimo, quizá no podamos incluir en esta categoría a Lugones. En cambio, si pensamos en Píndaro, en Milton, en Hugo, en Quevedo, es evidente que también Lugones tiene derecho a la fama de poeta.
+
+
+
+
+
+
+
+
+
+
+
+El Prosista Lugones Y Lo Argentino
+De los trabajos en prosa de Lugones,[5] ninguno se deja leer con mayor agrado que El imperio jesuítico (1904). En 1903, el gobierno argentino le encargó la redacción de esta memoria, que llegó a ser un erudito ensayo histórico. Lugones recorrió el territorio de las Misiones y el Paraguay para documentarse. Como lo indica el título, este libro historia y analiza el régimen teocrático que la Compañía de Jesús instauró en el Paraguay y en las zonas limítrofes. El primer capítulo es una descripción del estado de España durante la época de la Conquista; Lugones considera que para comprender la conquista es indispensable comprender la nación que la llevó a cabo. Más adelante, pasa a detallar el paisaje de las Misiones; en otros libros, su estilo barroco no condice con los temas que trata; en éste, hay una afinidad natural entre la exuberancia del paisaje y la de la prosa.
+«No tengo para los jesuitas y por de contado para los que ya no existen en el Paraguay —declara Lugones—, cariño ni animadversión. Los odios históricos, como la ojeriza contra Dios, son una insensatez que combate contra el infinito o contra la nada.»
+Es interesante comparar este «ensayo histórico» de Lugones con el trabajo análogo de Groussac sobre el Padre José Guevara y su historia del Paraguay. Lugones, por ejemplo, se limita a señalar las leyendas milagrosas que pululan en las historias de los jesuitas; Groussac insinúa, al pasar, que una fuente probable de esa milagrería fue cierta bula que se refiere a la canonización con estas palabras precisas: «las virtudes no bastan, sin los milagros».[6]
+En El imperio jesuítico, el sujeto preocupa menos al autor que las posibilidades literarias que aquél le ofrece.
+Piedras liminares (1910) integra con Didáctica, Odas seculares y Prometeo, el homenaje de Lugones al primer centenario argentino. Se trata de una obra desconcertante; menos resignado que otros ciudadanos de nuestro país a la agobiadora fealdad de los monumentos públicos, Lugones pretende que éstos sean bellos y sugiere varios minuciosos proyectos. Entre otros encara la construcción de un templo dedicado al himno argentino, en el que cada capitel representaría «una escena alusiva en mármol o en bronce, según la situación de las columnas».
+El primero y el último capítulo de la Historia de Sarmiento (1911), escritos con grandilocuencia, no corresponden al estilo general del libro, uno de los más fuertes y agradables de la obra de Lugones. Estos dos capítulos, en efecto, adolecen de gigantismo y de prolijidad. En uno de ellos no le basta al autor la comparación de Sarmiento con una montaña; la describe con pormenores geológicos: «Persiste la quemadura plutónica en el costillar de traquito, en la hacheadura de gneis que forman la grieta oblicua. En vano la náyade montañesa vertióle, por siglos compasiva, su escurridura de alcuza.» En otro, proyecta esta detallada pirámide: «La tumba de Sarmiento, es otro tema monumental. Paréceme que dado el personaje, debiera ser una pirámide de granito ocupada por un féretro de bronce… Deberíamos orientarla como aquellas otras de los faraones, por medio de la astronomía estelar, cuyo primer observatorio argentino fue una creación de Sarmiento. Quizá conviniera formarla con cincuenta bloques, grabando en cada uno de ellos el título de un libro suyo.»
+Felizmente, pasajes como los anteriores son excepcionales. La obra deja una imagen vivida de Sarmiento. La prolijidad que, aplicada a lo meramente verbal, es intolerable, resulta una virtud cuando Lugones la emplea para comunicar hechos reales. Las predilecciones, los hábitos de trabajo, el régimen de vida, las anécdotas, la sucesiva indumentaria, las comidas preferidas, todas las circunstancias de Sarmiento, están en este libro. Sin indiscreciones, el historiador nos da la intimidad del protagonista. Lugones admira a Sarmiento, pero no se propone justificar todos sus actos. Condena, por ejemplo, la muerte de Peñaloza.
+Años más tarde, el autor se desdijo de «la ideología liberal de este libro».
+Ciertos pasajes merecen un recuerdo especial: el capítulo titulado El innovador, la descripción de las orillas de Buenos Aires, las bien elegidas y bien comentadas citas del propio Sarmiento.
+En 1913 publica su Elogio de Ameghino. No corresponde analizar aquí el aspecto científico de este libro; en sus páginas, Lugones ha rescatado para la posteridad la modesta presencia de un gran hombre. Al iniciar su biografía, destaca una singular coincidencia, que bien puede ser una predestinación: en Lujan fueron descubiertos los grandes restos de los animales prehistóricos; en Lujan nació el estudioso que les dedicaría su vida. Lugones refiere la vicisitudes de esa labor, tardíamente reconocida, en nuestro país. Esta biografía, como la de Sarmiento, abunda en pormenores precisos. La obra entera ha sido escrita con emocionada amistad.
+Nos enfrentamos ahora con uno de los mejores libros de Lugones, El payador (1916). El propósito del autor era que esta obra, consagrada al Martín Fierro de Hernández, constase de tres partes: una introducción estética y descriptiva, un vocabulario y el texto original, comentado. Sólo apareció la primera, Hijo de la pampa, más conocida por el título de El payador. Lugones consideraba que el Martín Fierro era un poema épico: razonar esta idea era uno de los fines que se propuso. Movido por su pasión helenística, vio en la obra de Hernández una epopeya, que bien podía significar para nosotros lo que para los griegos la Ilíada. No todos estarán de acuerdo; nadie, sin embargo, podrá permanecer insensible a los esplendores y a la emoción de esta obra fervorosa. En una antología de la prosa española serían indispensables estas páginas que describen los orígenes pastoriles de nuestra sociedad: el desierto, los incendios, el regreso del padre, la yerra, los indios, los desafíos de la guitarra y del cuchillo.
+Roca (1938), la última producción de Lugones, ha quedado inconclusa. Esta biografía llega hasta la conquista del desierto. No hay en sus páginas un juicio directo sobre la ideología de su héroe, pero sí un ataque a la Constitución del 53, una censura del liberalismo y una apología de la política exterior de Rosas. No es fácil formular una opinión sobre esta biografía que el autor no alcanzó a corregir; cautiva menos que la Historia de Sarmiento o que El imperio jesuítico.
+Entristece que este libro póstumo cargue con un prólogo intempestivo de Octavio R. Amadeo, hecho de bromas débiles («Córdoba se sintió aliviada con la partida del hijo pródigo, y pudo decir: Vate!, vete!») y de metáforas indigentes («Ha llegado de Córdoba con cajones llenos de palabras eléctricas, de todos colores… El tanque cordobés hace fuego caiga quien caiga»).
+Imposible omitir en este capítulo dos preocupaciones de Lugones: los problemas del lenguaje y los pedagógicos.
+Vigoroso testimonio de lo primero es el fragmentario comienzo de un Diccionario etimológico del castellano usual, que abarca más de seiscientas páginas y que no alcanza a agotar la letra A. La Academia Argentina de Letras lo publicó en 1944.
+Lo pedagógico proviene de sus experiencias personales. Lugones, desde el año mil novecientos, ejercía el cargo de inspector de enseñanza; tres años después renuncia por solidaridad con el inspector general, Pablo Pizzurno, y publica La reforma educacional. Esta obra combate las arbitrarias innovaciones introducidas en el plan de estudios por el nuevo ministro. Se aprecia en ella la profunda versación pedagógica del autor. Censura, entre otras cosas, que el francés o el inglés no sean materias obligatorias y satiriza el predominio concedido a la gramática, en detrimento de otras asignaturas.
+Otro libro, Didáctica (1911), recoge la experiencia de esos años de labor escolar. Es una obra extensa, que condesciende a las más minuciosas observaciones; analiza planes de estudio y el material de enseñanza; ni las dimensiones de los bancos ni la forma de los tinteros eluden su examen.
+
+
+
+
+
+
+
+
+
+
+
+Lugones Y Lo Helénico
+El amor de lo helénico acompañó siempre a Lugones. En una conferencia pronunciada en 1915, refirió que en «la gracia moderada» de las colinas de Córdoba, en «la vivacidad de su aire seco y transparente» y en los ríos «de sonora delgadez» había presentido el paisaje griego.
+Ya hemos dicho que los poetas del modernismo admiraban a Grecia; esta admiración, que en la mayoría se redujo al manejo retórico de algunos temas o palabras, fue genuina en Lugones. Lo llevó a estudiar la mitología, las costumbres, las artes, y aun los dialectos.
+Prometeo (1910) forma parte del homenaje que Lugones quiso tributar a la patria, en su centenario. Es significativo que el tema central de este libro sean las ideas griegas; Lugones, en el prólogo, afirma que éstas «constituyen el fundamento de la civilización a la cual pertenecemos». El cristianismo, considerado por Lugones una religión oriental, ha oscurecido nuestra vinculación con la cultura helénica. Lugones quiere recordar a los argentinos este lejano origen y contribuir a la formación de «lo que ahora nos falta: una civilización, una moral y un culto». En 1910 pensó que esa Argentina que se afanaba con su progreso material valía mucho menos que la otra que atravesó los Andes, creó repúblicas y fundó la libertad «con su miseria generosa». Querría que nuestro segundo siglo de historia organizara un nuevo tipo de vida basada en lo espiritual.
+Prometeo es una exposición y una interpretación de la mitología griega. Lugones rechaza la tendencia, entonces en auge, a ver en los fenómenos naturales el fundamento de los mitos; desentraña o quiere desentrañar la parte de verdad que en ellos se oculta. En el capítulo titulado Un proscripto del Sol, niega que el descubrimiento del fuego sea el tema esencial del mito de Prometeo. Otros capítulos analizan el arte, las costumbres y las instituciones. En algunos pasajes de la obra asoma el influjo de las doctrinas teosóficas. Lugones, en este libro, reverencia una vez más a Platón.
+En 1915 publicó El ejército de la Ilíada, que reproduce una conferencia pronunciada siete años antes en el Círculo Militar.
+Con los apuntes de unas conferencias dictadas en la Universidad de Tucumán en 1915, compone el libro Las industrias de Atenas, que apareció en 1919. El trabajo ateniense, la cerámica, la construcción de las flautas y la industria de la miel son los temas principales. Como de costumbre, Lugones emplea con un propósito aleccionador las analogías de lo griego con lo argentino. Señala, entre otras cosas, que el pueblo ateniense, como el nuestro, se formó por inmigración: «Atenas fue un resultado de la tolerancia y hospitalidad con que supo acoger en el suelo ático a los emigrantes corridos por la invasión dórica.» En otra disertación observa un parecido local: se refiere a «la industria de la miel que, como se sabe, era el azúcar de los antiguos. Reviste, pues, una especial importancia para Tucumán donde también existe una civilización de la dulzura…»
+Estudios helénicos (1923) y Nuevos estudios helénicos (1928) reúnen varios trabajos dedicados a los poemas homéricos e incluyen traducciones del texto original en alejandrinos rimados. Se recordará que en el prólogo del Lunario sentimental, Lugones había afirmado que la rima es el elemento esencial del verso moderno; en Estudios helénicos aclara que ésta reemplazó al ritmo o cantidad prosódica del verso antiguo. La elección del alejandrino se debe a que Lugones lo consideraba «el hexámetro romanceado». Este metro le permitió mantener en su traducción el mismo número de versos del original.
+«Tengo la convicción —escribe Lugones— de que mi comentario es interesante y de que mis traducciones son buenas.» Acaso le parecieron buenas porque en cada palabra seguía oyendo el texto original; tal ilusión es frecuente en los traductores, y casi inevitable. Esa iluminación indirecta no alcanza al lector, que no ve sino el resultado último del trabajo.
+Más atento al significado de las palabras que a su valor estético, Lugones las combinaba y las prodigaba con extraña insensibilidad. Construía así dificultosos pasajes como éste:
+
+—Oh Hermano, El Raudo Aquiles Te Acosa Grandemente
+Con Pie Veloz, En Torno De La Ciudad De Príamo.
+Mas, Ea, Detengámonos Ya Y Hagámosle Frente.
+Contestóle El Grande Héctor Del Casco Tremólente:
+—Siempre Fuiste, Deífobo, Mi Hermano Más Querido
+Entre Los Que Hijos De Hécuba Y Príamo Hemos Sido;
+Pero Aun Sabrá Mi Estima Crecer En Adelante,
+Pues A Dejar Los Muros Por Mí Te Has Atrevido
+Al Ver Mi Riesgo, Mientras Los Demás Se Quedaron.
+Y La Ojizarca Atena Díjole:
+—Hermano, Es Cierto
+Que Padre, Augusta Madre Y Amigos, Abrazaron
+Mis Rodillas Rodeándome, Y Harto Me Suplicaron
+Quedase Allá (Pues Todos De Terror Están Yertos).
+(Ilíada, Canto XXII.)
+
+Estudios helénicos y Nuevos estudios helénicos proceden de conferencias dictadas en Buenos Aires.
+
+
+
+
+
+
+
+
+
+
+
+Lugones Y La Política
+Lugones, hombre de múltiples intereses, no podía sustraerse a los problemas que suscitó la Primera Guerra Mundial; en 1912, previo que el conflicto de los Balcanes era el anuncio de otro más vasto y así lo declaró en una correspondencia enviada a La Nación desde Europa.
+Para la imaginación popular, el auge posterior de la literatura pacifista —Sin novedad en el frente es acaso el ejemplo más divulgado, aunque estéticamente haya otros mejores— ha reducido la guerra de 1914 a una torpe matanza de hombres aprisionados en trincheras. El horror de esta imagen no debe hacernos olvidar que la causa de los aliados era fundamentalmente justa. La invasión de Bélgica y el hundimiento del Lusitania fueron sentidos como algo terrible por los contemporáneos. Lo cierto es que, por sus crecientes atrocidades, Alemania ha logrado, en cada guerra, renovar el estupor y la indignación. Lugones, que compartía estos sentimientos, los expresó con fervor en los artículos de Mi beligerancia (1917) y de La torre de Casandra (1919), continuación del anterior.
+Nada, en el Lugones de aquella época, anuncia el venidero apóstol de «la hora de la espada», salvo la entonación dogmática que es común a los dos. Más fácil es simpatizar con aquél que con éste. Lugones publicó ambos libros con un propósito esclarecedor, según lo manifiesta en el prólogo de Mi beligerancia:
+«He creído que la eficacia con que algunos de mis escritos contribuyeron a esclarecer en este país el concepto de nuestra posición y de nuestros deberes ante la guerra, duraría más si coleccionaba yo aquellas páginas; pues, aunque su relativo mérito dependiera en gran parte de la oportunidad circunstancial, uno mayor y permanente asignaríamos, de suyo, a los principios de verdad y de honor en ellas expuestos.»
+Más tarde, para propagar las convicciones que la posguerra suscitó en él, Lugones no sólo se valió de artículos, sino de conferencias. Aún se recuerdan las que pronunció en el Coliseo, en 1923, y que recogió ese mismo año en Acción. Este libro inauguró la serie de trabajos que clausuraría, en 1923, con El estado equitativo} A través de ellos puede seguirse la evolución que lo llevó a un credo totalitario. Sin detenernos a juzgar, y por cierto a condenar ese credo, labor que no incumbe a estas páginas, queremos sin embargo dejar a salvo la indiscutible sinceridad de Lugones. Exaltó la espada porque la creyó necesaria para la redención de la patria. Es sabido que participó en la revolución de septiembre; a poco de triunfar este movimiento, Uriburu le ofreció la dirección de la Biblioteca Nacional; Lugones rehusó, porque su militancia había sido desinteresada.
+
+
+
+
+
+
+
+
+
+
+
+El Narrador
+En 1905, el barroquismo de Lugones llega a sus últimas consecuencias tanto en el verso de Los crepúsculos del jardín como en la prosa de La guerra gaucha. El farragoso léxico, la sintaxis a veces inextricable y el abuso de los pronombres demostrativos, que con frecuencia obligan al lector a retroceder, entorpecen la lectura seguida. El tema —las incursiones de los milicianos de Güemes hacia 1814— desaparece bajo la frondosidad del estilo: «Rejuveneciendo en la ablución del rocío, el paisaje se embelesaba sonreído de aurora. Las montañas del oeste empolvábanse de violácea ceniza. La evanescencia verdosa del naciente desleíase en un matiz escarlatino, especie de agüita etérea cuyo rosicler aún se sutilizaba como si una idea adviniese a color. La luz varió sobre el follaje de los cebiles. El horizonte pulíase en un topacio clarísimo sobre las montañas, azules las distantes, verdes de cardenillo las próximas, retrocediendo sus depresiones en perspectivas de planisferio. Manchas de sulfatado azul debilitábanse en los declives. Un farallón de cerro oblicuaba sus estratos, semejante a un inmenso costillar; y orlaban los repliegues de las colinas desbordamientos de arcilla como una desolladura de carnazas. El cénit de cinc resucitaba en celeste.»
+No en vano una de las últimas reimpresiones incluye un erudito y minucioso vocabulario de 1257 palabras, indispensable para la buena inteligencia del libro. Por obra del contexto, hasta las voces más familiares parecen rebuscadas:
+…«Pasado el primer ímpetu de pavor, lo arrastraban a la brusca, irguiendo el testuz, mosqueando la oreja, como clavo de punta el ojo, prontos a venirse sobre el lazo en un bote ventajero, el moro a ras de tierra, la papada cimbrándose entre las manos. Aquel novillo se portó maula; huyó, y lo malogran a la fija, si un concurrente no se comide. Le faltaba lazo, iba en pelo, y para colmo, estorbado por los árboles, erró su tiro de boleadoras; pero en alcanzando al animal, desnudó su cuchillo, tendióse a la paleta del caballo, y cogiéndose con la izquierda a las crines, con la otra desjarretó. Desplomóse el vacuno con un baladro…» Los rasgos brutales que figuran en este libro —el moreno que guarda para su perro el brazo de un soldado español— son quizá verdaderos, pero no logran ser verosímiles.
+Por su adaptación al cinematógrafo y por su argumento patriótico, no por su lectura, cuya dificultad ya hemos indicado, La guerra gaucha ha logrado gran difusión. La escritura de estas páginas ampulosas sirvió de desahogo a Lugones; en obras ulteriores su estilo gradualmente se simplifica.
+Las fuerzas extrañas (1906) comprende doce cuentos fantásticos y un ensayo de cosmogonía. Ambos géneros inevitablemente evocan al autor de Eureka y de Cuentos de lo grotesco y arabesco. El estímulo de Edgar Allan Poe es, en efecto muy probable; pero ni la literatura fantástica de Lugones ni la cosmogónica se parecen a las del antecesor.
+Ya en 1896, Lugones cultivaba el Cuento fantástico. Quedan, en revistas de la época, muchos testimonios de esa predilección, no recogidos posteriormente, pero que llevan su firma. De los incluidos en Las fuerzas extrañas, acaso los mejores sean La lluvia de fuego (que revive, con minuciosa probidad, la destrucción de las ciudades de la llanura), Los caballos de Abdera, Yzur, La estatua de sal. Estas páginas se cuentan entre las más logradas de las literaturas de lengua hispana. Lugones resuelve uno de los cuentos mediante la intervención de un dios; el burdo recurso del deus ex machina, tan reprochado a Eurípides, logra, gracias al arte de Lugones, una tremenda y sobrecogedora eficacia.
+Por el tema popular y por el estilo sencillo, nada frecuente en el autor, despierta interés El escuerzo. En este cuento, más que en otros, Lugones entra plenamente en lo sobrenatural.
+El Ensayo de una cosmogonía en diez lecciones tiene un proemio y un epílogo novelesco; es fácil adivinar que se trata de una precaución literaria o, para decirlo como Lugones, de una modestia. El propósito del autor es expresar seriamente una hipótesis. El marco narrativo sirve, pues, para disculpar esta intromisión de un profano en materia científica. La cosmogonía de Lugones reúne elementos de la física de su tiempo —energía, electricidad, materia— y otros del Vedanta y de la filosofía budista: aniquilaciones y recreaciones cíclicas del universo y trasmigración de las almas.
+En 1921, Lugones volverá a la astronomía y a sus problemas en la conferencia titulada El tamaño del espacio, que es una exposición y una apología de las doctrinas de Einstein.
+Filosofícula (1924) reúne prosas breves y poemas de índole sentenciosa. Entre las prosas, unas son de ambiente oriental y otras de ambiente helénico. Las primeras recogen temas de Las Mil y Una Noches y de la Biblia y son, quizá, las de ejecución más feliz. Recomendamos a la curiosidad del lector: El talismán de la dicha y El tesoro de Scheherezada. En cambio, es difícil aprobar las parábolas en que aparece Cristo; imaginar una sola frase que sin desdoro pueda soportar la proximidad de las que han conservado los Evangelios, excede, acaso, la capacidad de la literatura. Lugones, verosímilmente, no pensaba en los textos evangélicos sino en ciertas páginas similares de Osear Wilde o de Anatole France, pero no alcanza su ingenio y su levedad.
+Al propósito de continuar Las fuerzas extrañas responde el libro Cuentos fatales (1924). La pompa de ciertas descripciones, algo mecánica, traduce la fatiga del escritor y su alejamiento de los temas tratados. Da cierta realidad a estas imaginaciones fantásticas, un procedimiento que ha encontrado muchos imitadores: el mismo Lugones es protagonista de lo que narra y en la acción intervienen amigos suyos, con su nombre verdadero. Aparece el tema del suicidio, que volveremos a encontrar en El ángel de la sombra (1926). En esta novela, redactada con languidez, es difícil reconocer a Lugones, que, si bien ha eludido la extravagancia y el exceso retórico, no se ha librado de la trivialidad.
+Por la activa pasión de su inteligencia, por la pluralidad de sus inquietudes, por la constante busca de una verdad que tantas veces lo llevó a contradecirse, Lugones constituye en este país un fenómeno insólito. Su personalidad excede sus libros; la imagen de sí mismo que un escritor deja en los otros es también parte de su obra.
+En el caso de Leopoldo Lugones, la imagen del hombre ha oscurecido la literatura escrita por él. Admirables trabajos como El payador, como la Historia de Sarmiento, como Las fuerzas extrañas y como El imperio jesuítico permanecerán virtualmente inéditos hasta que nuestro tiempo los redescubra.
+
+
+
+
+
+
+
+
+
+
+
+Las «Nuevas Generaciones» Literarias
+Leo en las respetuosas páginas de una revista joven (los jóvenes, ahora, son respetuosos y optan por la urbanidad, no por el martirio): «la nueva generación o heroica, como también se la llama, cumplió plenamente su cometido: arrasó con la Bastilla de los prejuicios literarios, imponiendo a la consideración de achacosos simbolistas nuevas ideas estéticas…» Esa generación impositiva, arrasadora y cumplidora es la mía: he sido, pues, calificado, siquiera colectivamente, de héroe. No sé qué opinarán de ese ascenso mis compañeros de apoteosis; de mí puedo jurar que la gratitud no excluye el estupor, la zozobra, el leve remordimiento y la suma incomodidad.
+Generación heroica… El texto de Cambours Ocampo, del que acabo de distraer ese párrafo laudatorio, se refiere a la de Prisma, Proa, Inicial, Martín Fierro y Valoraciones. Es decir, a los años comprendidos entre 1921 y 1928. En el recuerdo, el sabor de esos años es muy variado; yo juraría, sin embargo, que predomina el agridulce sabor de la falsedad. De la insinceridad, si una palabra más cortés se requiere. De una insinceridad peculiar, donde colaboran la pereza, la lealtad, la diablura, la resignación, el amor propio, el compañerismo y tal vez el rencor. No culpo a nadie, ni siquiera a mi yo de entonces; ensayo meramente —a través del «grande espacio de tiempo» a que alude Tácito— un ejercicio cristalino de introspección. No me arredra el temor (nada inverosímil, por lo demás) de revelar a un mundo distraído le secret de Polichinela. Estoy seguro de decir la verdad: una verdad superflua y anacrónica, bien lo sé, pero que debe ser manifestada por alguien. Por alguien de la «generación heroica», precisamente.
+Nadie ignora (mejor dicho: todos han olvidado) que el rasgo diferencial de esa generación literaria fue el empleo abusivo de cierto tipo de metáfora cósmica y ciudadana. Ya irreverentes (bajo la pluma de Sergio Pinero, de Soler Darás, de Oliverio Girondo, de Leopoldo Marechal o de Antonio Vallejo); ya piadosas (bajo las de Norah Lange, Brandan Caraffa, Eduardo González Lanuza, Carlos Mastronardi, Francisco Pinero, Francisco Luis Bernárdez, Guillermo Juan o J. L. B.), esas alarmantes imágenes combinaban hechos actuales, cosas del cielo intemporal o siquiera cíclico, y de la inestable ciudad. Recuerdo que asimismo recomendamos, como todas las nuevas generaciones, el retorno a la Naturaleza y a la Verdad y la muerte de la vana retórica. También tuvimos el arrojo de ser hombres de nuestro tiempo —como si la contemporaneidad fuera un acto difícil y voluntario y no un rasgo fatal—. En el primer impulso abolimos —¡oh definitiva palabra!— los signos de puntuación: abolición del todo inservible, porque uno de los nuestros los substituyó con las «pausas», que a despecho de constituir (en la venturosa teoría) «un valor nuevo ya incorporado para siempre a las letras», no pasaron (en la práctica lamentable) de grandes espacios en blanco, que remedaban toscamente a los signos. He pensado, después, que hubiera sido más encantador el ensayo de nuevos signos: signos de indecisión, de conmiseración, de ternura, signos de valor psicológico o musical… Opinamos también —entiendo que con toda razón y con el beneplácito secular de los rapsodas homéricos, de los salmistas de la Sagrada Escritura, de Shakespeare, de William Blake, de Heine y de Whitman— que la rima es menos imprescindible de lo que cree Leopoldo Lugones. La importancia de esa opinión fue considerable. Nos permitió no parecer lo que éramos: involuntarios y fatales alumnos —sin duda la palabra «continuadores» queda mejor— del abjurado Lunario sentimental.
+Lugones publicó ese volumen el año 1909- Yo afirmo que la obra de los poetas de Martín Fierro y Proa —toda la obra anterior a la dispersión que nos dejó ensayar o ejecutar obra personal— está prefigurada, absolutamente, en algunas páginas del Lunario. En Los fuegos artificiales, en Luna ciudadana, en Un trozo de selenologia, en las vertiginosas definiciones del Himno a la luna… Lugones exigía, en el prólogo, riqueza de metáforas y de rimas. Nosotros, doce y catorce años después, acumulamos con fervor las primeras y rechazamos ostentosamente las últimas. Fuimos los herederos tardíos de un solo perfil de Lugones. Nadie lo señaló, parece mentira. La falta de asonantes y consonantes perturbó para siempre a nuestros lectores, que prefirieron —escasos, distraídos y coléricos— juzgar que nuestra poesía era un mero caos, obra casual y deplorable de la locura o de la incompetencia. Otros, muy jóvenes, contrapusieron a ese injusto desdén una veneración no menos injusta. La reacción de Lugones fue razonable. Que nuestros ejercicios metafóricos no acabaran de interesarle, me parece muy natural: él mismo ya los había agotado hace tiempo. Que nuestra omisión de las consonantes mereciera y consiguiera su desaprobación, tampoco es ilógico. Lo inverosímil, lo increíble, es que ahora, en 1937,[7] siga persistiendo en ese debate, que ya se parece tanto al monólogo.
+¿Y nosotros? No demorábamos los ojos en la luna del patio o de la ventana sin el insoportable y dulce recuerdo de alguna de las imágenes de Lugones; no contemplábamos un ocaso vehemente sin repetir el verso «Y muera como un tigre el sol eterno». Yo sé que nos defendíamos de esa belleza y de su inventor. Con la injusticia, con la denigración, con la burla. Hacíamos bien: teníamos el deber de ser otros.
+Examine el incrédulo lector el Lunario sentimental, examine después los Veinte poemas para ser leídos en el tranvía o mi Fervor de Buenos Aires o Alcándara, y no percibirá la transición de un clima a otro clima. No me refiero a repeticiones lineales, aunque las hay. Tampoco a los intrínsecos valores de cada libro, por cierto incomparables. Tampoco a sus propósitos desiguales, tampoco a su feliz o adversa fortuna. Me refiero a la plena identidad de sus hábitos literarios, de los procedimientos utilizados, de la sintaxis. Más de quince años dista el primero de los libros del último; este orden cronológico no impide que sean contemporáneos los cuatro. Esencial y realmente contemporáneos, aunque una mera diferencia de tiempo lo quiere desmentir.
+Es muy sabido que no hay generación literaria que no elija dos o tres precursores: varones venerados y anacrónicos que por motivos singulares se salvan de la demolición general. La nuestra eligió a dos. Uno fue el indiscutiblemente genial Macedonio Fernández, que no sufrió de otros imitadores que yo; otro, el inmaduro Güiraldes del Cencerro de cristal, libro donde la influencia de Lugones —del Lugones humorístico del Lunario—, es un poco más que evidente. Por cierto, el hecho no es desfavorable a mi tesis.
+
+
+
+
+
+
+
+
+
+
+
+Lugones
+Decir que ha muerto el primer escritor de nuestra república, decir que ha muerto el primer escritor de nuestro idioma, es decir la verdad y es decir muy poco. Muerto Groussac, la primera de esas dos primacías le corresponde; muerto Unamuno, la segunda. Ambas proceden de una eliminación; nos dicen de Lugones y de otros hombres, no de Lugones íntimo; ambas lo dejan solo. Las dos en fin (aunque no incapaces de prueba) son vagas como todo superlativo.
+Nadie habla de Lugones sin hablar de sus múltiples inconstancias. Hacia 1897 —época de Las montañas de oro— era socialista; hacia 1916 —época de Mi beligerancia—, demócrata; desde 1923 —época de las conferencias del Coliseo—, profeta pertinaz y dominical de la Hora de la Espada. También parece que en Las fuerzas extrañas (1906) incurrió en la culpa de no prever las dos teorías de Einstein, que sin embargo contribuyó a divulgar el año veinticuatro. Tampoco le perdonan el paso del ateísmo irreverente a la fe cristiana, como si ambas no fueran evidencias de una misma pasión. El hombre que es sincero y meditativo no puede no cambiar: sólo no cambian los políticos. Para ellos el fraude electoral y la prédica democrática no son incompatibles.
+He aquí lo indudable. Esos «cambios múltiples», que son escándalo o admiración de los argentinos, son de carácter ideológico y nadie ignora que las ideas de Lugones —mejor, las opiniones de Lugones—, son menos importantes que la convicción y que la retórica espléndida que les dedicó. Retórica espléndida he dicho, no retórica útil, ya que Lugones prefería la intimidación a la persuasión. Chesterton o Shaw enriquecieron de problemas y de razones las doctrinas que profesaban; Lugones no aportaba a sus empresas otra cosa que su adhesión, acompañada por algunas metáforas. Habitualmente, simplificaba hasta lo monstruoso las discusiones. Por ejemplo: recuerdo que postulaba una diferencia moral entre el recurso métrico de repetir determinadas sílabas (rimar) y el de no repetirlas.
+Sus razones casi nunca tenían razón; sus epítetos, casi siempre. Conviene, pues, buscarlos en aquellos lugares de su obra no maculados de polémica: verbigracia, en las páginas descriptivas de El payador. «Era el monstruoso banquete de carne, para hombres, perros y aves de presa… Junto a los fogones inmensos, hombres sentenciosos, enguantados de sangre, comentaban las peripecias del día, dibujando marcas en el suelo, o limpiando los engrasados dedos con lentitud en el empeine de la bota…» o en algún admirable cuento fantástico —La lluvia de fuego, Los caballos de Abdera, Yzur— o en aquel Lunario sentimental que es el inconfesado arquetipo de toda la poesía profesionalmente «nueva» del continente, desde El cencerro de cristal de Güiraldes hasta El retorno maléfico o La suave patria, de López Velarde, acaso superiores al modelo. (¿A qué aludir a remedos incompetentes, como La pipa de Kif)
+Se deplora —no sin justicia— el mal gusto de Lugones. Yo también lo deploro, pero me incomoda menos que el de otros: digamos el de Ortega y Gasset. El uno —«Y cumbres siempre, cumbres, en torno, cumbres en el horizonte, como si al bienvenido, todo aquel suelo, de un solo bloque, se erigiera en montañas»— está mitigado por la pasión; el otro —«Me hizo meditar mucho cierta damita en flor, toda juventud y actualidad, estrella de primera magnitud en el zodíaco de la elegancia madrileña»— es mera y fríamente feo.
+En vida, Lugones era juzgado por el último artículo ocasional que su indiferencia había consentido. Muerto, tiene el derecho póstumo de que lo juzguen por su obra más alta.
+En cuanto a lo demás, a lo que sabemos… En el tercero de los cuatro Estudios helénicos están estas palabras: «Dueño de su vida el hombre, lo es también de su muerte.» (El contexto merece recordación. Ulises rehúsa la inmortalidad que Calipso le ofrece; Lugones arguye que rehusar la inmortalidad equivale a un suicidio, a plazo remoto.)
+
+
+
+
+
+
+
+
+
+
+
+Lugones, Herrera, Cartago
+Los hechos, como se verá, son muy simples. En 1904, Herrera y Reissig publicó Los éxtasis de la montaña (Eglogánimas); al año siguiente aparecieron Los crepúsculos del jardín, de Lugones. Los hábitos sintácticos y prosódicos, el vocabulario y las metáforas de ambos libros son fundamentalmente iguales; en 1912, Rufino Blanco-Fombona acusó al «poeta de Buenos Aires» de haber saqueado al «poeta de Montevideo». Éste había muerto. Lugones no se dignó responder a la acusación, pero otros lo hicieron por él desde el Uruguay, muy honrosamente. José Pereira Rodríguez, Emilio Frugoni, Horacio Quiroga y Víctor Pérez Petit dieron su testimonio y refutaron de manera definitiva el argumento cronológico de Blanco-Fombona, que parecía irrefutable. Recordaron que Lugones, que estuvo en la ciudad de Montevideo a principios de 1901, recitó algunas de sus composiciones a los poetas que integraban El Consistorio del Gay Saber y, a sus instancias, las grabó en un cilindro fonográfico. Estas composiciones (precisamente las que incriminaría Blanco-Fombona) ya habían aparecido, por lo demás, en revistas argentinas de 1898. Herrera, por aquellos años elaboraba cantos a España, a Castelar, a Guido Spano y a Lamartine… Max Henríquez Ureña {Breve historia del modernismo, México, 1954) cierra de ese modo su exposición: «En cuanto a la vieja disputa, provocada por un error de información de Blanco-Fombona, el fallo no lo han emitido los pareceres individuales, sino las fechas, que son las que han hablado de manera concluyente.» Quienes requieran más pormenores, pueden interrogar el número extraordinario que Nosotros dedicó a Leopoldo Lugones en el año 1938.
+Reducida a sus elementos, la causa célebre que agitó a los cenáculos no es mucho más que un quid pro quo. Su futilidad se agrava si recordamos, con Víctor Pérez Petit, que el tipo de poema cuya prioridad se discute procede, notoriamente, de Albert Samain. No sólo de una imitación, sino de una vulgarización puede hablarse; el desconcertado lector comprueba que el instrumento forjado por Samain para la expresión de estados sentimentales (Et le del, oú la fin du jour se subtilisé) sirve a Lugones para la jactanciosa conmemoración de hazañas eróticas («…y el viejo banco/sintió gemir sobre su activo flanco/ el vigor de mi torva aristocracia ') ya Herrera para construir el caos:
+
+Un estremecimiento de Sibilas
+epilepsiaba a ratos la ventana,
+cuando de pronto un mito tarambana
+rodó en la oscuridad de mis pupilas.
+
+Lo singular es que este debate, ya sin misterio, siga preocupando a la gente.
+«La polémica no ha terminado —comprueba Guillermo de Torre (La aventura y el orden, Buenos Aires, 1943)— y resucita a cada nueva sazón conmemorativa de uno u otro poeta». Aun más interesante es observar, en las dos márgenes del Atlántico, una inclinación general y casi instintiva a favor de Herrera. Indagar las razones de esa tendencia es el propósito de esta nota.
+La primera es de índole novelesca. Imaginar que un gran escritor famoso alevosamente saqueó a un poeta casi ignorado es más poético que imaginar la humilde verdad: Herrera, discípulo de Lugones. El doctor Johnson ha observado que nadie se resigna a ser deudor de sus contemporáneos; Herrera, muerto, no era otra cosa que los versos dejados por él y admirarlo en 1912 era más fácil que admirar a Lugones, hombre polémico, asertivo e incómodo. Sus desagradables y enfáticas opiniones políticas dañaron su reputación literaria.
+Otra razón podemos conjeturar, que Blanco-Fombona no declaró, y acaso no supo, pero que militó a su favor, y sigue militando. Las íntimas razones que hacen que un hombre se decida a profesar una tesis o a rechazarla suelen no figurar en las polémicas; adivinarlas es tarea de la crítica. La acusación de Blanco-Fombona, redactada en estilo comercial, habla de novedades creadas por el poeta de Montevideo y puestas en circulación por el poeta de Buenos Aires; tales epítetos o apodos responden a la superstición académica de variar las palabras, de eludir la enojosa repetición de los nombres Herrera y Lugones, pero en ellos está el nervio del argumento. Buenos Aires en 1912 era ya, o todavía, una gran ciudad; su nombre, opuesto a la apacible Montevideo, era inmediatamente traducible en Babel o en Cartago.
+Hay ciudades que el tiempo ha desbaratado, otras que ha ido olvidando; Cartago, al cabo de la tercera y última guerra púnica, fue borrada por los romanos, que arrasaron las casas, prohibieron toda habitación humana en su territorio y lo dedicaron con solemnes imprecaciones a los dioses del Tártaro. Diecisiete días duró el incendio de la vasta ciudad. Escipión el Africano, general de los ejércitos de Roma, repitió tristemente, al verlo, aquel pasaje de la Ilíada que dice. «El día vendrá, bien lo sé, en que la sagrada Troya será destruida», porque en ese fuego vio el fuego en que ardería Roma. Así se lo dijo a Polibio, que lo escribiría en su Historia. Los romanos pasaron el arado sobre el terreno y sembraron sal. Borrada Cartago, que bien pudo producir ilustres poetas, nada nos queda de sus letras y de sus artes salvo unas pocas inscripciones, unas palabras conservadas en una comedia romana, la famosa tarifa de Marsella —tantas monedas de plata a los sacerdotes por el sacrificio de un buey, tantas por el de un carnero, tantas por el de una cabra, tantas por el de un ave— y una versión griega del Periplo del navegante Hannon.[8] Cartago, ahora, significa ciudad de mercaderes, que ignora la poesía.
+Tal idea corresponde a un prejuicio romántico o demagógico. El hecho es que toda ciudad, toda gran ciudad propaga civilización; no en vano esta palabra contiene la palabra civil, que quiere decir ciudadano.
+La poesía nace de la ciudad y también la poesía que celebra los motivos del campo; hombres de Buenos Aires y de Montevideo inventaron el estilo gauchesco, y Teócrito, padre de la poesía pastoril, la engendró en la corte de Siracusa o en la Biblioteca de Alejandría.
+La ciudad (que esencialmente es el calor y el diálogo de los hombres) ha creado un número infinito de cosas, y una de ellas es la vasta labor que Lugones, hombre de Córdoba, ejecutó bajo su estímulo, y otra es la fatiga que inspiró a Horacio el Beatus Ule y a Swift el elogio de la barbarie y que nos mueve a exagerar, paradójicamente, las virtudes de la soledad y de la provincia.
+Porque la gente no quiere admitir que Cartago tiene, también, poetas, prosperó y persiste la acusación de Blanco-Fombona.
+
+
+
+
+
+
+
+
+
+
+
+Página Final
+Ya escrito el libro, ya entregadas las páginas a la imprenta, los editores tal vez abrumados por tantos nombres propios y fechas, por tal acopio bibliográfico o estadístico, me indican la conveniencia de un juicio personal sobre Lugones, de un poco de esa intimidad cuya falta deploramos en el maestro.
+Como Kipling (con el que tiene tantas afinidades, pero de quien los años hicieron un hombre más complejo y más desdichado) Lugones es de los primeros autores que me fue dado leer; juzgarlo es juzgar a mi generación y acaso a toda la literatura argentina.
+Lugones es un hecho histórico; antes de investigarlo tenemos que investigar sus causas. Mi punto de partida será Flaubert, cuya doctrina y cuyo destino, más que su obra, son ejemplares en la literatura de nuestro tiempo. Flaubert pensaba que hay un modo de decir cada cosa y que es deber del escritor descubrir ese modo único. Postuló, además, una armonía preestablecida de lo eufónico y de lo exacto y se maravilló de que la palabra justa fuera, invariablemente la musical.
+Al exponer esta doctrina, escribió: Je parle en platonicien, y el hecho es que tal imaginación tiene mucho de mística. Podemos oponerle este párrafo de Alfred North Whitehead:
+«Existe la común certidumbre de que la Humanidad ya posee todas las ideas fundamentales que son aplicables a su experiencia. Se pretende asimismo que esas ideas han encontrado explícita expresión en el lenguaje humano, en palabras sueltas o en frases. A esa postulación yo la nombro Falacia del Diccionario Perfecto.» Ya Chesterton, en 1904, había escrito: «El hombre sabe que hay en el alma tintes más desconcertantes, más innumerables y más anónimos que los colores de una selva otoñal… Cree, sin embargo, que esos tintes, en todas sus fusiones y conversiones, son representables con precisión por un mecanismo arbitrario de gruñidos y de chillidos. Cree que del interior de un corredor de bolsa salen realmente ruidos que significan todos los misterios de la memoria y todas las agonías del anhelo.»
+La imprecisión que Chesterton denuncia y que la precisión y belleza de su alegato parecen contradecir tiene una confirmación en el hecho, fácilmente observable, de que ciertas cosas pueden decirse en determinados idiomas y en otros, no. Así, en inglés, o en alemán, o en francés actual no hay manera de decir estaba sólita, y en español no cabe decir to laugh it offo to explain away… Pero volvamos a Flaubert:
+El mot juste de Flaubert, la palabra justa, no es necesariamente la palabra anómala o asombrosa; el lenguaje de Madame Bovary o de Bouvard et Pécuchet es normal y no excluye (la comprobación es fácil) los lugares comunes y las metáforas imprecisas, aunque nunca enigmáticas o violentas. Suele definir lo mental o sentimental con imágenes físicas; esta mala costumbre no corresponde a lo más perdurable de su labor. Así en L'education sentimental, compara el recuerdo de unas palabras con el tañer de una campana que trae el viento…
+En otro escritor, el culto de la palabra, la ansiedad de la palabra, hubiera parado fatalmente en la formación de un pequeño dialecto; tendríamos, en el peor de los casos, a Rene Ghil; en el mejor, a Stefan George, Swinburne o Mallarmé. Un persa o un polaco, digamos que estudiara francés en la prosa y el verso de Mallarmé, correría el albur de descubrir, al cabo de arduos años de aprendizaje, que Boileau y Voltaire manejaron un dialecto nocturno.
+Bajo la pluma de Leopoldo Lugones, el mot juste, degeneró en el mot surprenant, y la página proba en la mera página de antología hecha de triunfos técnicos, menos aptos para conmover o para persuadir que para deslumbrar. Su literatura, por exceso de aplicación o por una aplicación perversa, quedó así maculada de vanidad; detrás de los epítetos inauditos y de las metáforas alarmantes, el lector percibe, o cree percibir, ese grave defecto moral.
+Escéptico de tantas cosas, Lugones no lo fue jamás del lenguaje y, a juzgar por su práctica, creyó con valerosa simplicidad en cada una de las palabras que lo componen. Para el diccionario las voces azulado, azuloso, azulino y azulenco son estrictamente sinónimas; asimismo lo fueron para Lugones, que, sólo atento a la significación, no advirtió, no quiso advertir, que su connotación es distinta. Azulado y tal vez azuloso son palabras que pueden entrar en un párrafo sin destacarse demasiado; azulino y azulenco pecan de énfasis.
+Moore observó que, desde Shakespeare, sólo Kipling escribió con todo el idioma; también Lugones abrigó alguna vez este desaforado propósito. El bien educado siglo XVIII buscó la máxima economía de vocabulario y la máxima precisión, el siglo XIX, especialmente el siglo XIX español, quiso aplicar a los idiomas un criterio estadístico y multiplicó las palabras. Lugones, que en Las montañas del oro usó un lenguaje austero, se propuso en La guerra gaucha superar en su propio campo a los españoles, y prodigó todas las palabras posibles.
+Wordsworth juzgó que a las composiciones de Goethe les faltaba inevitabilidad; el dictamen es aplicable a buena parte de la literatura de Lugones y aun de la literatura argentina. Muchos libros argentinos adolecen del pecado original de no ser necesarios. Los leemos con respeto o admiración, pero sentimos que el autor pudo haber redactado con pareja felicidad libros del todo opuestos.
+Leopoldo Lugones fue y sigue siendo el máximo escritor argentino. Recabar ese título para Sarmiento es olvidar que su obra escrita debe ser juzgada a la luz de su obra total, quiero decir de su vida; recabarlo para Groussac es olvidar que éste fue un crítico europeo que se produjo en español accidentalmente, si bien con maestría singular. El Facundo y el Martín Fierro significan más para los argentinos que cualquier libro de Lugones o que su heterogéneo conjunto, pero Lugones por su Historia de Sarmiento y El payador comprende de algún modo y supera aquellos libros fundamentales. Además, una cosa es el máximo escritor y otra el libro máximo; no hay libro de Quevedo que pueda equipararse al Quijote, pero Cervantes, juzgado como hombre de letras, es inferior a Quevedo, sin menoscabo de su gloria… Inversamente, hay composiciones poéticas de Ezequiel Martínez Estrada que igualan o sobrepasan a las mejores de Leopoldo Lugones, pero Martínez Estrada, poeta, no es más que una extensión de Lugones, y lo mismo podría acaso decirse del memorable y dulce López Velarde.
+Lugones encarnó en grado heroico las cualidades de nuestra literatura, buenas y malas. Por un lado, el goce verbal, la música instintiva, la facultad de comprender y reproducir cualquier artificio; por el otro, cierta indiferencia esencial, la posibilidad de encarar un tema desde diversos ángulos, de usarlo para la exaltación o para la burla. Así, Góngora pudo sonoramente saludar la Armada Invencible y denunciar en un soneto burlesco la cobardía de los defensores de Cádiz… Lugones está, por decirlo así, un poco lejos de su obra; ésta no es casi nunca la inmediata voz de su intimidad sino un objeto elaborado por él. En lugar de la inocente expresión tenemos un sistema de habilidades, un juego de destrezas retóricas. Raras veces un sentimiento fue el punto de partida de su labor; tenía la costumbre de imponerse a temas ocasionales y resolverlos mediante recursos técnicos. Un poema suyo famoso enumera y celebra todas las variedades de la ganadería, de la agricultura y de la industria; cuatro sonetos describen los paisajes del sur, del norte, del este y del oeste. Cíclicamente surgen poetas que parecen agotar la literatura, ya que se cifra en ellos toda la ciencia retórica de su tiempo; tales artífices, cuyo fin es el estupor (qui non safar stupire, vada alia striglia, decretó uno de ellos, Marino), acaban por cansar.
+Ya Samuel Johnson observó que el asombro es un placer trabajoso. La obra que maravilla a una generación suele parecer fría, inexplicable y hasta poco ingeniosa a las venideras, interesadas en otras novedades o novelerías.
+Acaso es lícito ir más lejos. Acaso cabe adivinar o entrever, o simplemente imaginar, la historia de un hombre que, sin saberlo, se negó a la pasión y laboriosamente erigió altos e ilustres edificios verbales hasta que el frío y la soledad lo alcanzaron. Entonces, aquel hombre, señor de todas las palabras y de todas las pompas de la palabra, sintió en la entraña que la realidad no es verbal y puede ser incomunicable y atroz, y fue callado y solo a buscar, en el crepúsculo de una isla, la muerte.
+
+
+
+
+
+
+
+
+
+
+
+
+Jorge Luis Borges & Betina Edelberg
+Leopoldo Lugones
+ePub r1.0
+Moro 17.06.13
+
+

@@ -1,0 +1,1210 @@
+Publicado en 1928 en una tirada de quinientos ejemplares, al igual que dos años antes «El tamaño de mi esperanza», El idioma de los argentinos corrió la misma suerte que este último e «Inquisiciones», quedando oficialmente desterrado de la obra del autor, quien no obstante recuperó textos sueltos de estos libros para la edición de sus obras en la prestigiosa colección francesa de La Pléiade. Sin embargo, igual que nadie puede renunciar al tiempo y a las cosas ya vividas, y menos hacerlas desaparecer, en estas páginas estaba ya sin duda Borges: «Tres direcciones cardinales rigen este libro. La primera es un recelo, el lenguaje; la segunda es un misterio y una esperanza, la eternidad; la tercera es esta gustación, Buenos Aires. Las dos últimas confluyen en la declaración intitulada Sentirse en muerte. La primera quiere vigilar en todo decir.»
+
+
+
+
+
+Jorge Luis Borges
+
+
+
+
+
+El idioma de los argentinos
+
+
+
+
+ePub r1.0
+
+Moro 24.06.13
+
+
+
+
+
+Título original: El idioma de los argentinos
+
+Jorge Luis Borges, 1928
+
+Editor digital: Moro
+
+ePub base r1.0
+
+
+
+
+
+Para el amor no satisfecho
+
+el mundo es misterio,
+
+un misterio que el amor satisfecho
+
+parece comprender.
+
+BRADLEY, Appearance and Reality, XV
+
+
+
+
+
+Prólogo
+
+
+Ningún libro menos necesitado de prólogo que éste de formación haragana, hecho sedimentariamente de prólogos, vale decir, de inauguraciones y principios. Si mi pluma está asistida de claridad, lo estará también en las páginas subsiguientes; si la oscuridad la mueve, no será más iluminativa su operación por el hecho de apellidarse prólogo lo que redacta. El prólogo quiere ser el tránsito de silencio a voz, su intermediación, su crepúsculo; pero es tan verbal, y tan entregado a las deficiencias de lo verbal, como lo precedido por él.
+
+Esta vocación de vivir que nos impone las elecciones ominosas de la pasión, de la amistad, de la enemistad, nos impone otra de menos responsable importancia: la de resolver este mundo. Nadie puede carecer de esa inclinación, expláyela o no en libro. Este que prologo es la relación de mis atenciones de ese orden, durante el veintisiete. Su aire enciclopédico y montonero —esperanza argentina, borradores de afición filológica, historia literaria, alucinaciones o lucideces finales de la metafísica, agrados del recuerdo, retórica— es más aparente que real. Tres direcciones cardinales lo rigen. La primera es un recelo, el lenguaje; la segunda es un misterio y una esperanza, la eternidad; la tercera es esta gustación, Buenos Aires. Las dos últimas confluyen en la declaración intitulada Sentirse en muerte. La primera quiere vigilar en todo decir.
+
+J. L. B.
+
+
+
+
+
+Indagación de la palabra
+
+
+I
+
+Quiero repartir una de mis ignorancias a los demás: quiero publicar una volvedora indecisión de mi pensamiento, a ver si algún otro dubitador me ayuda a dudarla y si su media luz compartida se vuelve luz. El sujeto es casi gramatical y así lo anuncio para aviso de aquellos lectores que han censurado (con intención de amistad) mis gramatiquerías y que solicitan de mí una obra humana. Yo podría contestar que lo más humano (esto es, lo menos mineral, vegetal, animal y aun angelical) es precisamente la gramática; pero los entiendo y así les pido su venia para esta vez. Queden para otra página mi padecimiento y mi regocijo, si alguien quiere leerlos.
+
+La tarea de mi cavilación es ésta: ¿Mediante qué proceso psicológico entendemos una oración?
+
+Para examinarlo (no me atrevo a pensar que para resolverlo) analicemos una oración cualquiera, no según las (artificiales) clasificaciones analógicas que registran las diversas gramáticas, sino en busca del contenido que entregan sus palabras al que las recorre. Séase esta frase conocidísima y de claridad no dudosa: En un lugar de la Mancha, de cuyo nombre no quiero acordarme, y lo que subsigue.
+
+Emprendo el análisis.
+
+En. Esta no es entera palabra, es promesa de otras que seguirán. Indica que las inmediatamente venideras no son lo principal del contexto, sino la ubicación de lo principal, ya en el tiempo, ya en el espacio.
+
+Un. Propiamente, esta palabra dice la unidad de la calificada por ella. Aquí, no. Aquí es anuncio de una existencia real, pero no mayormente individuada o delimitada.
+
+Lugar. Ésta es la palabra de ubicación, prometida por la partícula en. Su oficio es meramente sintáctico: no consigue añadir la menor representación a la sugerida por las dos anteriores. Representarse en y representarse en un lugar es indiferente, puesto que cualquier en está en un lugar y lo implica. Se me responderá que lugar es un nombre sustantivo, una cosa, y que Cervantes no lo escribió para significar una porción del espacio, sino con la acepción de villorrio, pueblo o aldea. A lo primero, respondo que es aventurado aludir a cosas en sí, después de Mach, de Hume y de Berkeley, y que para un sincero lector sólo hay una diferencia de énfasis entre la preposición en y el nombre sustantivo lugar; a lo segundo, que la distinción es verídica, pero que recién más tarde es notoria.
+
+De. Ésta suele ser palabra de dependencia, de posesión. Aquí es sinónima (algo inesperadamente) de en. Aquí significa que el teatro de la todavía misteriosa oración central de esta cláusula está situado a su vez en otro lugar, que nos será revelado en seguida.
+
+La. Esta casi palabra (nos dicen) es derivación de illa, que significaba aquella en latín. Es decir, antes fue palabra orientada, palabra justificada y como animada por algún gesto; ahora es fantasma de illa, sin más tarea que indicar un género gramatical: clasificación asexuadísima, desde luego, que supone virilidad en los alfileres y no en las lanzas. (De paso, cabe recordar lo que escribe Graebner acerca del género gramatical: Hoy prima la opinión de que, originariamente, los géneros gramaticales representan una escala de valor, y que el género femenino representa en muchas lenguas —en las semíticas— un valor inferior al masculino.)
+
+Mancha. Este nombre es diversamente representable. Cervantes lo escribió para que su realidad conocida prestase bulto a la realidad inaudita de su don Quijote. El ingenioso hidalgo ha sabido pagar con creces la deuda: si las naciones han oído hablar de la Mancha, obra es de él.
+
+¿Quiere decir lo anterior que la nominación de la Mancha ya era un paisaje para los contemporáneos del novelista? Me atrevo a asegurar lo contrario; su realidad no era visual, era sentimental, era realidad de provincianería chata, irreparable, insalvable. No precisaban visualizarla para entenderla; decir la Mancha era como decirnos Pigüé. El paisaje castellano de entonces era uno de los misterios manifiestos (offenbare Geheimnisse) goetheanos. Cervantes no lo vio: basta considerar las campiñas al itálico modo que para mayor amenidad de su novela fue distribuyendo. Más docto en paisajes manchegos que él, fue Quevedo: léase (en carta dirigida a don Alonso Messía de Leiva) esa su durísima descripción que empieza: Por la Mancha, en invierno, donde las nubes y los arroyos, como en otras partes producen alamedas, allí lodazales y pantanos.., y remata así, a los muchos renglones: Amaneció; bajeza me parece de la aurora acordarse de tal sitio.
+
+Creo inútil la pormenorizada continuación de este análisis. Notaré solamente que la terminación de este miembro está señalada por una coma. Esta rayita curva indica que la locución sucesiva: de cuyo nombre, debe referirse, no a la Mancha (de cuyo nombre sí quiso acordarse el autor), sino al lugar. Es decir, esta rayita curva o signo ortográfico o pausa breve para compendiar o átomo de silencio, no difiere sustancialmente de una palabra. Tan intencionadas son las comas o tan ínfimas las palabras.
+
+Investiguemos ahora lo general.
+
+Es doctrina de cuantas gramáticas he manejado (y hasta de la inteligentísima de Andrés Bello) que toda palabra aislada es un signo, y marca una idea autónoma. Esta doctrina se apoya en el consenso del vulgo y los diccionarios la fortalecen, ¿Cómo negar que es una unidad para el pensamiento, cada palabra, si el diccionario (en desorden alfabético) las registra a todas y las incomunica y sin apelación las define? La empresa es dura, pero nos la impone el análisis anterior. Imposible creer que el solo concepto En un lugar de la Mancha, de cuyo nombre no quiero acordarme, esté organizado por doce ideas. Tarea de ángeles y no de hombres sería conversar, si esto fuera así. No lo es y la prueba es que igual concepto cabe en mayor o menor número de palabras. En un pueblo manchego cuyo nombre no quiero recordar, es equivalente y son nueve signos en vez de doce. Es decir, las palabras no son la realidad del lenguaje, las palabras —sueltas— no existen.
+
+Ésa es la doctrina crociana. Croce, para fundamentarla, niega las partes de la oración y asevera que son una intromisión de la lógica, una insolencia. La oración (arguye) es indivisible y las categorías gramaticales que la desarman son abstracciones añadidas a la realidad. Una cosa es la expresión hablada y otra su elaboración póstuma en sustantivos o en adjetivos o en verbos.
+
+Manuel de Montolíu, en su declaración (y a veces refutación) del crocismo, dilucida bien esa tesis y la resume así, no sin demasiado misterio: La única realidad lingüística es la oración. Y este concepto de oración se ha de entender no en el sentido que se le da en las gramáticas, sino en el sentido de un organismo expresivo de sentido perfecto, que tanto comprende una sencilla exclamación como un vasto poema (El lenguaje como fenómeno estético. Buenos Aires, 1926).
+
+Psicológicamente, esa conclusión de Montolíu-Croce es insostenible. Su versión concreta sería: No entendemos primero la proposición en y después el artículo un y luego el nombre sustantivo lugar y en seguida la preposición de; preferimos apoderarnos, en un solo acto de cognición, de todo el capítulo y aun de toda la obra.
+
+Me dirán que hago trampa y que el alcance de esa doctrina no es psicológico, sino estético. A eso respondo que una equivocación psicológica no puede ser también un acierto estético. Además, ¿no dejó dicho ya Schopenhauer que la forma de nuestra inteligencia es el tiempo, línea angostísima que sólo nos presenta las cosas una por una? Lo espantoso de esa estrechez es que los poemas a que alude reverencialmente Montolíu-Croce alcanzan unidad en la flaqueza de nuestra memoria, pero no en la tarea sucesiva de quien los escribió ni en la de quien los lee. (Dije espantoso, porque esa heterogeneidad de la sucesión despedaza no sólo las dilatadas composiciones, sino toda página escrita.) Alguna cercanía de esa posible verdad fue la razonada por Poe, en su discurso del principio poético, al sentenciar que no hay poemas largos y que el Paraíso Perdido es (efectualmente) una serie de composiciones breves. Digo en español su parecer: Si para mantener la unidad de la obra de Milton, su totalidad de efecto o de impresión, la leemos (como sería preciso) de una sentada, el resultado es sólo un continuo vaivén de excitación y de abatimiento… De esto se sigue que el efecto final, colecticio o absoluto de la mejor epopeya bajo el sol, será forzosamente una nadería, y así es la verdad.
+
+¿Qué opinión asumir? Los gramáticos implican que deletreamos, palabra por palabra, la comprensión; los seguidores de Croce, que la abarcamos de un solo vistazo mágico. Yo descreo de ambas posibilidades. Spiller, en su hermosísima Psicología (conste que uso deliberadamente el epíteto) formula una tercera respuesta. La resumiré; demasiado bien sé que los resúmenes añaden un falso aire categórico y definitivo a lo que compendian.
+
+Spiller se fija en la estructura de las oraciones y las disocia en pequeños grupos sintácticos, que responden a unidades de representación. Así, en la frase ejemplar que hemos desarmado, es evidente que las dos palabras la Mancha son una sola. Es evidente que se trata de un nombre propio, tan indivisible por la conciencia como Castilla o las Cinco Esquinas o Buenos Aires. Sin embargo, aquí la unidad de representación es mayor: es la locución de la Mancha, sinónima, advertimos ya, de manchego. (En latín convivieron las dos fórmulas de posesión y para decir el valor de César, hubo virtus Cesárea y virtus Cesaris; en ruso, cualquier nombre sustantivo es variable en nombre adjetivo.) Otra unidad para el entendimiento es la locución no quiero acordarme, a la que añadiremos tal vez la palabra de, pues el verbo activo recordar y el verbo reflejo y construido con preposición acordarse de, sólo en las gramáticas son distintos. (Buena prueba de la arbitrariedad de nuestra escritura, es que hacemos de acordarme una sola palabra, y dos de me acuerdo.) Continuando el análisis, repartiremos en cuatro unidades nuestro período: En un lugar / de la Mancha / de cuyo nombre / no quiero acordarme, o En un lugar de / la Mancha / de (cuyo nombre) no quiero acordarme.
+
+He aplicado (tal vez con desaforada libertad) el método introspectivo de Spiller. Del otro, del que asevera que toda palabra es significativa, ya hice una reducción al absurdo (involuntaria, honesta y cuidada) en la primera mitad de este razonamiento. Ignoro si Spiller tiene razón; básteme demostrar la buena aplicabilidad de su tesis.
+
+Elijamos el problema conversadísimo de si el nombre sustantivo debe posponerse al nombre adjetivo (como en los idiomas germánicos) o el adjetivo al sustantivo, como en español. En Inglaterra dicen obligatoriamente a brown horse, un colorado caballo; nosotros, obligatoriamente también, posponemos el adjetivo. Herbert Spencer mantiene que la costumbre sintáctica del inglés es más servicial y la justifica así: Basta escuchar la voz caballo para imaginarlo y si después nos dicen que es colorado, esta añadidura no siempre se avendrá con la imagen de él que ya prefiguramos o tendimos a preformar. Es decir, deberemos corregir una imagen: tarea que la anteposición del adjetivo hace desaparecer. Colorado es noción abstracta y se limita a preparar la conciencia. Los contrarios pueden argumentar que las nociones de caballo y de colorado son parejamente concretas o parejamente abstractas para el espíritu. La verdad, sin embargo, es que la controversia es absurda: los símbolos amalgamados caballo-colorado y brown-horse ya son unidades de pensamiento.
+
+¿Cuántas unidades de pensamiento incluye el lenguaje? Esta pregunta carece de posibilidad de contestación. Para el jugador, son unidades las locuciones ajedrecísticas tomar al paso, enroque largo, gambito de dama, peón cuatro rey, caballo rey tres alfil; para el principiante, son verdaderas oraciones de intelección gradual.
+
+El inventario de todas las unidades representativas es imposible; su ordenación o clasificación lo es también. Evidenciar esto último, será lo inmediato de mi tarea.
+
+II
+
+La definición que daré de la palabra es —como las otras— verbal, es decir también de palabras, es sotodecir palabrera. Quedamos en que lo determinante de la palabra es su función de unidad representativa y en lo tornadizo y contingente de esa función. Así, el término inmanencia es una palabra para los ejercitados en la metafísica, pero es una genuina oración para el que sin saberla la escucha y debe desarmarla en in y en manere: dentro quedarse. (Innebleibendes Werk, dentroquedada acción, tradujo con prolijidad hermosa el maestro Eckhart.) Inversamente, casi todas las oraciones para el solo análisis gramatical, y verdaderas palabras —es decir, unidades representativas para el que muchas veces las oye. Decir En un lugar de la Mancha es casi decir pueblito, aldehuela (la connotación hispánica de ésta la hace mejor); decir La codicia en las manos de la suerte se arroja al mar es invitar una sola representación; distinta, claro está, según los oyentes, pero una sola al fin.
+
+Hay oraciones que son a manera de radicales y de las que siempre pueden deducirse otras con o sin voluntad de innovar, pero de un carácter derivativo tan sin embozo que no serán engaño de nadie. Séase la habitualísima frase luna de plata. Inútil forcejearle novedad cambiando el sufijo; inútil escribir luna de oro, de ámbar, de piedra, de marfil, de tierra, de arena, de agua, de azufre, de desierto, de caña, de tabaco, de herrumbre. El lector —que ya es un literato, también— siempre sospechará que jugamos a las variantes y sentirá ¡a lo sumo! una antítesis entre la desengañada sufijación de luna de tierra o la posiblemente mágica de agua, y la consabida. Escribiré otro caso. Es una sentencia de Joubert, citada favorablemente por Matías Arnold (Critical Essays, VII). Trata de Bossuet y es así: Más que un hombre es una naturaleza humana, con la moderación de un santo, la justicia de un obispo, la prudencia de un doctor y el poderío de un gran espíritu. Aquí Joubert jugó a las variantes no sin descaro; escribió (y acaso pensó) la moderación de un santo y acto continuo esa fatalidad que hay en el lenguaje se adueñó de él y eslabonó tres cláusulas más, todas de aire simétrico y todas rellenadas con negligencia. Es como si afirmara… con la moderación de un santo, el esto de un otro, el qué sé yo de un quién sabe qué y el cualquier cosa de un gran espíritu. El original no es menos borroso que esta armazón; las entonadas cláusulas de ambos equivalen —no ya a palabras— sino a simulaciones enfáticas de palabras. Si la prosa, con su mínima presencia de ritmo, trae estas servidumbres, ¿cuáles no traerá el verso, que simplona y temerariamente añade otras más a las no maliciadas por él y siempre en acecho?
+
+En lo atañedero a definiciones de la palabra, tan imprecisa es ella que el concepto heterodoxo aquí defendido (palabra = representación) puede caber en la fórmula sancionada: Llámase palabra la sílaba o conjunto de sílabas que tiene existencia independiente para expresar una idea. Eso, claro está, siempre que lo determinativo de esos conjuntos no sean los espacios en blanco que hay entre una seudo palabra escrita y las otras. De esa alucinación ortográfica se sigue que, aunque manchego es una sola palabra, de la Mancha es tres.
+
+Hablé de la fatalidad del lenguaje. El hombre, en declive confidencial de recuerdos, cuenta de la novia que tuvo y la exalta así: Era tan linda que... y esa conjunción, esa insignificativa partícula, ya lo está forzando a hiperbolizar, a mentir, a inventar un caso. El escritor dice de unos ojos de niña: Ojos como... y juzga necesario alegar un término especial de comparación. Olvida que la poesía está realizada por ese como, olvida que el solo acto de comparar (es decir, de suponer difíciles virtudes que sólo por mediación se dejan pensar) ya es lo poético. Escribe, resignado, ojos como soles.
+
+La lingüística desordena esa frase en dos categorías: semantemas, palabras de representación (ojos, soles) y morfemas, meros engranajes de la sintaxis. Como le parece un morfema aunque el entero clima emocional de la frase esté determinado por él. Ojos como soles le parece una operación del entendimiento, un juicio problemático que relaciona el concepto de ojos con el de sol. Cualquiera sabe intuitivamente que eso está mal. Sabe que no ha de imaginárselo al sol y que la intención es denotar ojos que ojalá me miraran siempre, o si no ojos con cuya dueña quiero estar bien. Es frase que se va del análisis.
+
+Es cosa servicial un resumen. Dos proposiciones, negativas la una de la otra, han sido postuladas por mí. Una es la no existencia de las categorías gramaticales o partes de la oración y el reemplazarlas por unidades representativas, que pueden ser de una palabra usual o de muchas. (La representación no tiene sintaxis. Que alguien me enseñe a no confundir el vuelo de un pájaro con un pájaro que vuela.) Otra es el poderío de la continuidad sintáctica sobre el discurso. Ese poderío es de avergonzar, ya que sabemos que la sintaxis no es nada. La antinomia es honda. El no atinar —el no poder atinar— con la solución, es tragedia general de todo escribir. Yo acepto esa tragedia, esa desviación traicionera de lo que se habla, ese no pensar del todo en cosa ninguna.
+
+Dos intentonas —ambas condenadas a muerte— fueron hechas para salvarnos. Una fue la desesperada de Lulio, que buscó refugio paradójico en el mismo corazón de la contingencia; otra, la de Spinoza. Lulio —dicen que a instigación de Jesús— inventó la sedicente máquina de pensar, que era una suerte de bolillero glorificado, aunque de mecanismo distinto; Spinoza no postuló arriba de ocho definiciones y siete axiomas para allanarnos, ordine geométrico, el universo. Como se ve, ni éste con su metafísica geometrizada, ni aquél con su alfabeto traducible en palabras y éstas en oraciones, consiguió eludir el lenguaje. Ambos alimentaron de él sus sistemas. Sólo pueden soslayarlo los ángeles, que conversan por especies inteligibles: es decir, por representaciones directas y sin ministerio alguno verbal.
+
+¿Y nosotros, los nunca ángeles, los verbales, los que
+
+en este bajo, relativo suelo
+
+
+
+escribimos, los que sotopensamos que ascender a letras de molde es la máxima realidad de las experiencias? Que la resignación-virtud a que debemos resignarnos sea con nosotros. Ella será nuestro destino: hacernos a la sintaxis, a su concatenación traicionera, a la imprecisión, a los talveces, a los demasiados énfasis, a los peros, al hemisferio de mentira y de sombra en nuestro decir. Y confesar (no sin algún irónico desengaño) que la menos imposible clasificación de nuestro lenguaje es la mecánica de oraciones de activa, de pasiva, de gerundio, impersonales y las que restan.
+
+La diferencia entre los estilos es la de su costumbre sintáctica. Es evidente que sobre la armazón de una frase pueden hacerse muchas. Ya registré cómo de luna de plata salió luna de arena; ésta —por la colaboración posible del uso— podría ascender de mera variante a representación autonómica. No de intuiciones originales —hay pocas—, sino de variaciones y casualidades y travesuras, suele alimentarse la lengua. La lengua: es decir, humilladoramente el pensar.
+
+No hay que pensar en la ordenación por ideas afines. Son demasiadas las ordenaciones posibles para que alguna de ellas sea única. Todas las ideas pueden ser palabras sinónimas para el arte: su clima, su temperatura emocional suele ser común. De esta no posibilidad de una clasificación psicológica no diré más: es desengaño que la organización (desorganización) alfabética de los diccionarios pone de manifiesto. Fritz Mauthner Wórterbuch der Philosophie, volumen primero, páginas 379-401) lo prueba con lindísima soma.
+
+
+
+
+
+El Truco
+
+
+Cuarenta naipes quieren desplazar la vida. En las manos cruje el mazo nuevo o se traba el viejo: morondangas de cartón que se animarán, un as de espadas que será omnipotente como don Juan Manuel, caballitos panzones de donde copió los suyos Velázquez. El tallador baraja esas pinturitas. La cosa es fácil de decir y aun de hacer, pero lo mágico y desaforado del juego —del hecho de jugar— despunta en la acción. 40 es el número de los naipes y 1 por 2 por 3 por 4… por 40, el de maneras en que pueden salir. Es una cifra delicadamente puntual en su enormidad, con inmediato predecesor y único sucesor, pero no escrita nunca. Es una remota cifra de vértigo que parece disolver en su muchedumbre a los que barajan. Así, desde el principio, el central misterio del juego se ve adornado con un otro misterio, el de que haya números. Sobre la mesa, desmantelada para que resbalen las cartas, esperan los garbanzos en su montón, aritmetizados también. La trucada se arma; los jugadores, acriollados de golpe, se aligeran del yo habitual. Un yo distinto, un yo casi antepasado y vernáculo, enreda los proyectos del juego. El idioma es otro de golpe. Prohibiciones tiránicas, posibilidades e imposibilidades astutas, gravitan sobre todo decir. Mencionar flor sin tener tres cartas de un palo, es hecho delictuoso y punible, pero si uno ya dijo envido, no importa. Mencionar uno de los lances del truco es empeñarse en él: obligación que sigue desdoblando en eufemismos a cada término. Quiebro vale por quiero, envite por envido, una olorosa o una jardinera por flor. Muy bien suele retumbar en boca de los que pierden este sentención de caudillo de atrio: A ley de juego, todo está dicho: falta envido y truco, y si hay flor ¡contraflor al resto! El diálogo se entusiasma hasta el verso, más de una vez. El truco sabe recetas de aguante para los perdedores; versos para la exultación.
+
+El truco es memorioso como una fecha. Milongas de fogón y de pulpería, jaranas de velorio, bravatas del roquismo y tejedorismo, zafadurías de las casas de Junín y de su madrastra del Temple, son del comercio humano por él. El truco es buen cantor, máxime cuando gana o finge ganar: canta en la punta de las calles de nochecita, desde los bodegones con luz.
+
+La habitualidad del truco es mentir. La manera de su engaño no es la del póker: mera desanimación o desabrimiento de no fluctuar, y de poner a riesgo un alto de fichas cada tantas jugadas; es acción de voz mentirosa, de rostro que se juzga semblanteado y que se defiende, de tramposa y desatinada palabrería. Una potenciación del engaño ocurre en el truco: ese jugador rezongón que ha tirado sus cartas sobre la mesa, puede ser ocultador de un buen juego (astucia elemental) o tal vez nos está mintiendo con la verdad para que descreamos de ella (astucia al cuadrado). Cómodo en el tiempo y conversador está el juego criollo, pero su cachaza es de picardía. Es una superposición de caretas, y su espíritu es el de los baratijeros Mosche y Daniel que en mitad de la gran llanura de Rusia se saludaron.
+
+— ¿Adonde vas, Daniel? —dijo el uno.
+
+—A Sebastopol —dijo el otro.
+
+Entonces Mosche lo miró fijo y dictaminó:
+
+—Mientes, Daniel. Me respondes que vas a Sebastopol para que yo piense que vas a Nijni-Novgórod, pero lo cierto es que vas realmente a Sebastopol. ¡Mientes, Daniel!
+
+Considero los jugadores de truco. Están como escondidos en el ruido criollo del diálogo; quieren espantar a gritos la vida. Cuarenta naipes —amuletos de cartón pintado, mitología barata, exorcismos— les bastan para conjugar el vivir común. Juegan de espaldas a las transitadas horas del mundo. La pública y urgente realidad en que estamos todos, linda con su reunión y no pasa; el recinto de su mesa es otro país. Lo pueblan el envido y el quiero, la olorosa cruzada y la inesperabilidad de su don, el ávido folletín de cada partida, el 7 de oros tintineando esperanza y otras apasionadas bagatelas del repertorio. Los truqueros viven ese alucinado mundito. Lo fomentan con dicharachos criollos que no se apuran, lo cuidan como a un fuego. Es un mundo angosto, lo sé: fantasma de política de parroquia y de picardías, mundo inventado al fin por hechiceros de corralón y brujos de barrio, pero no por eso menos reemplazador de este mundo real y menos inventivo y diabólico en su ambición.
+
+Pensar un argumento local como éste del truco y no salirse de él o no ahondarlo —las dos figuras pueden simbolizar aquí un acto igual, tanta es su precisión— me parece una gravísima fruslería. Yo deseo no olvidar aquí un pensamiento sobre la pobreza del truco. Las diversas estadas de su polémica, sus vuelcos, sus corazonadas, sus cábulas, no pueden no volver. Tienen con las experiencias que repetirse. ¿Qué es el truco para un ejercitado en él, sino una costumbre? Mírese también a lo rememorativo del juego, a su afición por fórmulas tradicionales. Todo jugador, en verdad, no hace ya más que reincidir en bazas remotas. Su juego es una repetición de juegos pasados, vale decir, de ratos de vivires pasados. Generaciones ya invisibles de criollos están como enterradas vivas en él: son él, podemos afirmar sin metáfora. Se trasluce que el tiempo es una ficción, por ese pensar. Así, desde los laberintos de cartón pintado del truco, nos hemos acercado a la metafísica: única justificación y finalidad de todos los temas.
+
+
+
+
+
+Ubicación de Almafuerte
+
+
+Escribo que casi todos los muchachos contemporáneos somos arrepentidos o apóstatas de Almafuerte: hoy lo hemos arrumbado, ayer fuimos parroquianos de su quejumbre, feligreses de su ira. No sabemos qué pensar de él y nos falta la fórmula que reconcilie el distanciamiento presente con la veneración ya gastada. Los definidores de Almafuerte no nos ayudan. Los panegiristas reinciden en el entusiasmado error de Juan Más y Pí que, en mil novecientos cinco, lo nombró maestro de la juventud: maestro, a un habitado de la desesperación y del odio. Los detractores, más equivocados aún, censuran su chabacanería, su gigantismo, sus ripios, su incivilidad. Ambas conductas me parecen impertinentes: ni Almafuerte debe repartirnos lecciones de vivir ni él sufriría que se las diéramos de retórica. Aceptemos su espectáculo humano, su idiosincrasia, como un aspecto más de la riqueza infatigable del mundo. No sé si le daremos nuestra intimidad, pero sí nuestra admiración.
+
+Antes, conviene resolver un pleito no muy reñido: el de la patria potestad que aquel Federico, su abuelo, quiero decir Nietzsche, ejerció sobre su amoral y atrabiliario nieto americano. Rojas, al referirse a las palabras que sufija con super, habla de su cursi tartamudeo nietzscheano; Oyuela escribe malhumoradamente que El misionero es una pésima rapsodia de Nietzsche, con superhombre y todo; Juan Más y Pí habla de coincidencias. A primera vista, la cortesía de Más y Pí no parece injustificada. ¿Por qué negarle a un criollo, maestro de escuela, la facultad de pensar algunas cosas que un profesor de griego, alemán, pensó antes que él? ¿A qué suponer que el jaguar es plagio del tigre y la yerba misionera del té y la pampa de las estepas del Don y Pedro Bonifacio Palacios de Federico Guillermo Nietzsche? Sin embargo, hay un argumento sencillo que puede invalidar la defensa. Lo diré: Es lícito aceptar que Almafuerte, partiendo del mismo orden de ideas que el alemán (esto es, del evolucionismo) llegara a conclusiones iguales sobre la caducidad de la moral cristiana y la urgencia del superhombre, pero es inadmisible que su terminología o simbología sea también igual. Desgraciadamente, hay sobradas frases de Almafuerte que pertenecen al dialecto nietzscheano.
+
+Yo sé que en la vía crucis larga, muy larga
+
+que hacen los supercuerdos con su demencia…
+
+
+
+Escribe en el Confíteor Deo, después de una mención (ignoro si traicionera o desafiadora) del mismo Nietzsche:
+
+Yo sé que mil carcomas roen de a poco
+
+las más equilibradas testas geniales:
+
+lleno está el manicomio de Nietzsches locos
+
+y de Cristos bohemios los arrabales.
+
+
+
+Alguna vez, con ese rastrero afán policial que hay en todos los pechos, me indignó que entre los nada menos que siete epígrafes que encabezan El misionero, no hubiese ninguno de Zarathustra; hoy me parece bien. ¿A qué fechar en eruditos libros remotos ese aconsejamiento final, de hombre a hombre, de desquicio humano a desquicio humano? ¿A qué autorizar con bibliotecas lo que decimos y no con ponientes, desesperaciones, huidas y Dios? La misma gravedad de la profecía requiere esa causalización en hechos eternos. Solo, sin medianeros, llega Moisés a la punta del monte Horeb (famoso por los pastizales) y habla con la voz del Señor en la zarza ardiente y es aleccionado por esa voz y baja, maravillado entre las ovejas, hecho un salvador de su pueblo. También Almafuerte, desde su conventillo y su pampa, quiere ser auditor directo de Dios.
+
+La necesidad de ser bueno y la estrafalaria inutilidad de la ética fueron las convicciones permanentes de su sentir, las dos confianzas que sobrevivieron a los vagabundeos de su discurso. Fue gran odiador de filántropos, de teólogos, de moralistas; no toleró siquiera el perdón (por lo que hay en él de condescendencia, de casero Juicio Final ejercido por un hombre sobre otro) y entendió que la única misericordia no humilladora sería la de volvernos tan oscuros como el ciego, tan arrumbados como el tullido y tan llorosos como el triste. Quiso literalmente compadecer. sufrir con los otros. Se hizo predicador energuménico de la bondad y fueron rajantes como una injuria sus bendiciones. Su cruz fue cruz de empuñadura. A diestra y siniestra, con filo, contrafilo y punta, blandió su incorruptible y dura virtud. Fue seguramente odioso y posiblemente genial. Fue discurseador a más no poder; hoy somos tasadores tacaños de los que alzan mucho la voz. Fue padre de casi infinitas metáforas, no inferiores, en eficacia de maravillar, a las de ninguno.
+
+Lo que fueran chocando tus besos
+
+si dos muchedumbres de besos chocaran,
+
+vocifera en La inmortal.
+
+
+
+A propósito he destacado esos dos renglones. Son abreviatura o cifra de la habitualidad de Almafuerte, pues encarnan bien su expresión: la originalidad, el rezongo pedagógico, el gigantismo, la cursilería, la robustez. ¿Rudeza y cursilería en una misma alma? En esa dualidad de Palacios han tropezado y siguen tropezando sus críticos, sin ver que ambas cualidades son maridables y que su convivencia es proverbial en un tipo criollo. Hablo del compadrito, que es (o fue) la convivencia de muchos énfasis: de la rudeza, simulación enfática del vigor; de la cursilería, simulación enfática de la elocuencia; del matonismo, énfasis del coraje. La compadrada es más que una agresividad de carrero, es el clavel atrás de la oreja y los ladinos entreveros del corte y la copla que manifiesta una flor. El suburbio es el agua abombada y los callejones, pero es también la balaustradita color de niña y el arriate y la jaula con el canario. Así lo entendió Carriego y esa dualidad de barro y finura fue su realización más feliz:
+
+En cuanto a las muchachas ¡con unos aires!
+
+como si trabajasen de señoritas…
+
+¡Han dejado la fama de sus desaires
+
+llenas de pretensiones las pobrecitas!
+
+
+
+Acabo de insinuar que Pedro Bonifacio Palacios, alias Almafuerte, fue un compadrón; ahora me aventuro a afirmarlo. Un compadre que ya hubiera cursado el Juicio Final, eso sí; un compadre glorificado y transfigurado, un efectivo San Juan Moreira; pero compadre al fin, con pinta orillera, si con alma de eternidad. Mi parecer no quiere enturbiarle la gloria o enflaquecérsela; lo propongo a manera de ubicación. Sospecho que confesar lo criollo y lo suburbano de nuestro poeta no es afantasmarlo: es añadirle realidad (atmósfera que precisan todos los muertos, hasta los que se hacen los inmortales) y es también añadirle asombro. Desatinado y casi mágico espectáculo el de un compadre que alardea —compadronamente— de castidad; sin embargo, ahí están las décimas de En el abismo que nos lo alcanzan:
+
+Yo voy en recta fatal
+
+hacia mi primer deseo;
+
+yo no palpo, yo no veo
+
+los muros de lo real:
+
+jamás la fiebre carnal
+
+conturbó mi luz interna:
+
+ni por feroz ni por tierna
+
+la pasión me deja rastro…
+
+¡ Yo palpito como un astro
+
+dentro de la paz eterna!
+
+Yo soy un palmar plantado
+
+sobre cal y pedregullo:
+
+la floración del orgullo,
+
+del orgullo sublimado.
+
+Soy un esporo lanzado
+
+tras la procesión astral;
+
+vil chorlo del pajonal
+
+que al par del águila vuela…
+
+¡Sombra de sombra que anhela
+
+ser una sombra inmortal!
+
+
+
+Así, con presumidas voces abstractas fáciles de rimar, atropellan las décimas los concurridos payadores de los recreos y así, en verso rudimentario aunque análogo, he oído celebrar una vez el nombre de Almafuerte…
+
+Seguramente, Carriego es el día y la noche del arrabal. La habitualidad del suburbio le pertenece: las chicuelas con su jarana y su secreteo, las calesitas en el terreno baldío, la rayuela y el rango en el veredón, la esquina comentada de taitas. Sin embargo, entre ese día y esa noche hay unas rendijas cuya pasión es demasiado vehemente para él y que en verso de Carriego no caben. Esas rendijas —durezas de ponientes y amaneceres, pampas furtivas del oeste y del sur, calles que se despedazan hacia el arroyo— están en la voz de Almafuerte. En la desesperada voz de Almafuerte.
+
+
+
+
+
+La felicidad escrita
+
+
+Ya he declarado que la finalidad permanente de la literatura es la presentación de destinos; hoy quiero añadir que la presentación de una dicha, de un destino que se realiza en felicidad, es tal vez el goce más raro (en las dos significaciones de la palabra: en la de inusual y en la de valioso) que puede ministrarnos el arte. Queremos ser felices y el aludir a felicidades o el entreverlas, ya es una deferencia a nuestra esperanza. A sabiendas o no, nunca dejamos de agradecer íntimamente esa cortesía. Muchos escritores la han intentado; casi ninguno la ha conseguido, salvo de refilón. Parece desalentador afirmar que la felicidad no es menos huidiza en los libros que en el vivir, pero mi observación lo comprueba.
+
+Sírvanos de repertorio el libro Las cien mejores poesías (líricas) de la lengua castellana, elegidas por Menéndez y Pelayo: antología famosa, cuyo título de Juicio Final no es imputable a su colector, sino a la empresa que lo obligó a juntar esas dos palabras que no se juntan, cien y mejores.
+
+Una de las primeras composiciones que veo es la Vida retirada de Fray Luis, imitación del horaciano beatus Ule y cuyo manifestado propósito es la descripción de un estado de felicidad. Pienso que no logra ni sugerirlo, pienso que en esa poesía tan festejada, el renombre sobrepuja a los méritos. ¿Cómo tenerle fe a esa dicha sermonera y vanagloriosa que se distrae, a cada rato, de su espectáculo sedicente de felicidad, para invehir contra medio mundo? ¿No es vergonzoso (para nosotros y para él) que el Padre Maestro Fray Luis de León no pueda ser feliz en el campo, sin complacerse, siquiera sea metafóricamente, con la imaginación de ausentes catástrofes y de ajenas calamidades?
+
+La combatida antena
+
+cruje, y en ciega noche el claro día
+
+se torna; al cielo suena
+
+confusa vocería
+
+y la mar enriquecen a porfía.
+
+
+
+No importa; ya el poeta se ha lavado las manos, prudencialmente:
+
+No es mío ver el lloro
+
+de los que desconfían
+
+cuando el cierzo y el ábrego porfían.
+
+
+
+Por tratarse de una poesía que es famosa y que muchos consideran inmejorable, quiero enfatizar otra equivocación de las que sobrelleva; por ejemplo, el traicionero renglón final de los que copio:
+
+El aire el huerto orea
+
+y ofrece mil olores al sentido,
+
+los árboles menea
+
+con un manso ruido
+
+que del oro y del cetro pone olvido.
+
+
+
+Oro y cetro en un jardincito… Acordarse tan inoportunamente de esos guarismos o arreos de la ambición, es mentir desprendimiento y adolecer de la más estrafalaria codicia. O, en el mejor de los casos, es recurrir a una metáfora perjudicial.
+
+Basta recorrer la antología para encontrar numerosísimas celebraciones de dichas pretéritas y ninguna de dicha actual. ¡Qué difícil y hasta imposible ha de ser la dicha, ahora que se perdieron los Infantes de Aragón y las señoras y niñas tan paquetas de la corte del Rey Don Juan y el hipódromo tan concurrido de Itálica y los rojos pimientos y ajos duros de los españoles vellosos y otras muy lloradas pretericiones! Sin embargo, no ironicemos demasiado: eso de ubicar la felicidad en las lejanías del espacio y en las del tiempo, es achaque universal y lo padecen nuestros mil y un versos a la tapera. Los tramways de caballos y los compadritos que empezaban por un amejicanado chambergo gris y terminaban en botines de charol ¿no solicitan acaso nuestra nostalgia? Hoy cantamos al gaucho; mañana plañiremos a los inmigrantes heroicos. Todo es hermoso; mejor dicho, todo suele ser hermoso, después. La belleza es más fatalidad que la muerte.
+
+La antología nos muestra sin embargo unas trovas (la palabra composición es demasiado envarada y premeditada) que dan idea cabal de felicidad. Aludo al romance del conde Arnaldos. Lo transcribo íntegro para desarmarlo después y para que averigüe el lector, la justicia o la equivocación de mi examen. Rezan así los versos:
+
+¡Quien hubiera tal ventura
+
+sobre las aguas del mar,
+
+como hubo el conde Arnaldos
+
+la mañana de San Juan!
+
+Con un falcan en la mano
+
+la caza iba a cazar,
+
+vio venir una galera
+
+que a tierra quiere llegar.
+
+Las velas traía de seda,
+
+la jarcia de un cendal,
+
+marinero que la manda
+
+diciendo viene un cantar
+
+que la mar facía en calma,
+
+los vientos hace amainar,
+
+los peces que andan nel hondo
+
+arriba los hace andar,
+
+las aves que andan volando
+
+nel mástil las faz posar.
+
+Allí fobló el conde Arnaldos,
+
+bien oiréis lo que dirá:
+
+—Por Dios te ruego, marinero,
+
+dígasme ora ese cantar.
+
+—Respondióle el marinero,
+
+tal respuesta le fue a dar:
+
+—Yo no digo esta canción
+
+sino a quien conmigo va.
+
+
+
+¿Cuál es la motivación del agrado peculiar de estos versos? He oído que su airecito misterioso es lo que nos gusta; personalmente, yo creo que lo de menos es la respuesta enigmática del final y que su aclaración no interesa a nadie. Si nos interesara, la buscaríamos o inventaríamos: empresa fácil, puesto que los cuentos de magia poseen su técnica, siempre de recursos parejos… Su agrado (supongo) está en el ejemplo de felicidad que los versos iniciales prenuncian y en nuestra sorpresa, al saber que tan codiciada y mentada felicidad no es una aventura de amor ni un tesoro, sino el solo espectáculo de un barquito. Dichosa edad y dichosos tiempos aquellos (pensamos) en que un hombre lograba crédito de feliz sólo por haber visto alguna mañana un barco distinto, con marinero cantor y mástil con pájaros. Adivinamos que detrás de las coplas hay un vivir liso y remansado, y eso nos gusta. No creemos en la ventura del conde Arnaldos; creemos en la del coplero que la festeja.
+
+Además, ¿cómo solicitar de los literatos versiones minuciosas y fidedignas de la felicidad, cuando las religiones, cuyo quehacer es hacer cielos, los planean con tan escasa fortuna? Sobradas descripciones del cielo hay en los volúmenes de los teólogos; lo difícil es ascender sus abstracciones muertas a representaciones vivas. Rothe dice: La bienaventuranza es aquel felicísimo estado póstumo de los justos, en el que verán a Dios cara a cara y, ajenos de toda molestia, vivirán y reinarán en duradera alegría y gloria y felicidad inefable. ¿ Qué opinar de tal definición, que principia con la valentía del felicísimo y pasa por la timidez del ajenos de toda molestia y remata con la nadería de felicidad inefable ? Gerhard, teólogo reformista, añade este privilegio dudoso: Los bienaventurados verán a sus allegados y conocidos en el infierno, siempre que lo quisieren, pero sin sentimiento alguno de lástima. Esa cláusula final no me choca, ya que sería indecente que los bienaventurados fueran más misericordiosos que Dios.
+
+Miremos a otro cielo. El de los musulmanes parece imaginado por criollos: cielo de mandones y calaveras, donde cada seguidor del Profeta será señor de setenta y dos huríes, incansablemente vírgenes cada vez, y de ochenta mil servidores, y se hospedará bajo carpas frescas, en un jardín. Asimismo, su estatura será multiplicada diez veces: artimaña ladina para decuplicar la felicidad. (Tan insatisfactorio como ese paraíso alcoránico es el contemplativo a que sus doctores lo ascendieron y adelgazaron. Es, por definición, inefable; Abenabás dijo de él: No hay en el paraíso cosa alguna de las de este mundo, sino tan sólo los nombres. ¡Qué anticipación para los posibles bienaventurados o amigos de Dios, la de ese revés más elevado de las palabras, la de esa persistencia fonética!)
+
+Su oposición evidente es otro de los mayores cielos del mundo: el cielo negativo de los budistas, nirvana o nibbanam. Este cielo incalificable, ido, desaforado, cuyo nombre mismo quiere decir apagamiento, extinción, es la ausencia total del yo, de la objetividad, del tiempo, del espacio, del mundo. Arturo Schopenhauer arguye que la negatividad del nirvana no es absoluta y que su nada es privativa, no negativa. La obscuridad, por ejemplo, es la nada que corresponde a la luz, pero basta invertir los signos para aseverar —una vez postulada la oscuridad y hecha positiva— que también la nada es la luz. Analógicamente, no es imposible que la nada de nuestro yo (la negación de toda conciencia, de toda sensación, de toda diferenciación en el tiempo o en el espacio) sea una realidad. Lo cierto es que ni podemos imaginárnosla ni menos ubicar en ella la dicha: satisfacción de la voluntad, no su perdimiento.
+
+Hay caterva de cielos y universal ausencia de dicha y aun de corazonadas de ella y pregustos. Suele suponerse que la literatura ya ha dicho las palabras esenciales de nuestro vivir y sólo puede innovar en las gramatiquerías y en las metáforas.
+
+Me atrevo a aseverar lo contrario: sobran laboriosidades minúsculas y faltan presentaciones válidas de lo eterno: de la felicidad, de la muerte, de la amistad.
+
+
+
+
+
+Otra vez la metáfora
+
+
+La más lisonjeada equivocación de nuestra poesía es la de suponer que la invención de ocurrencias y de metáforas es tarea fundamental del poeta y que por ellas debe medirse su valimiento. Desde luego confieso mi culpabilidad en la difusión de ese error. No quiero dragonear de hijo pródigo; si lo menciono, es para advertir que la metáfora es asunto acostumbrado de mi pensar. Ayer he manejado los argumentos que la privilegian, he sido encantado por ellos; hoy quiero manifestar su inseguridad, su alma de tal vez y quién sabe.
+
+Suele solicitarse de los poetas que hablen privativamente en metáforas y se afirma que la metáfora es única poetizadora, que es el hecho poético, por excelencia. Sin embargo, la poesía popular no ejerce metáforas. Léanse los romances viejos, el del conde Arnaldos, el del rey moro que perdió Alhama, el de Fontefrida, y luego los romances ya literarios de Góngora o de D. Juan Meléndez Valdés y se advertirá en éstos una pluralidad de metáforas y en aquéllos su inasistencia casi total. Idéntica observación sale de confrontar las genuinas coplas camperas con las epopeyas de Ascasubi y de José Hernández. El hecho puede tal vez resolverse así. Las cosas (pienso) no son intrínsecamente poéticas; para ascenderlas a poesía, es preciso que las vinculemos a nuestro vivir, que nos acostumbremos a pensarlas con devoción. Las estrellas son poéticas, porque generaciones de ojos humanos las han mirado y han ido poniendo tiempo en su eternidad y ser en su estar… Afirmo que también en poesía anda bien la fórmula de Unamuno: Los mártires hacen la fe.
+
+ídolos a los Troncos, la Escultura;
+
+Dioses, hace a los ídolos el Ruego,
+
+
+
+como cautelosamente pensó y enrevesadamente escribió D. Luis de Góngora (Sonetos Varios, XXXII).
+
+Por consiguiente, asevero que cualquier tema de la literatura recorre dos obligatorios períodos: el de poetización y el de explotación. El primero es pudoroso, torpe, casi lacónico; vaivén de corazonadas y de temores lo hace pueril y apenas si se atreve a decir en voz alta cómo se llama. Su manera de hablar es la exclamación, el relato desocupado, la palabra sin astucia de epítetos. El segundo es resuelto, conversador: el tema ya tiene firmeza de símbolo y su solo nombre —cargado de recuerdos valiosos— es declarador de belleza. Su voz es la metáfora, consorcio de palabras ilustres. (Creo de veras que la metáfora no es poética; es más bien pospoética, literaria, y requiere un estado de poesía, ya formadísimo. La poesía de los vocablos entreverados por ella la condiciona y la hace emocionar o fallar.)
+
+Remy de Gourmont observa: En el estado actual de las lenguas europeas, casi todas las palabras son metáforas. El hecho es irrecusable y basta hojear un diccionario etimológico para testificar su verdad pero le falta virtualidad polémica. Creo que es imposible prescindir de metáforas al hablar y que es imposible entendernos sin olvidarlas. ¿A qué pensar en ingenieros de puentes cuando oigo la palabra pontífice y en cinturones cuando oigo la palabra zona y en chivatos cuando oigo la palabra tragedia y en cuerdas trenzadas cuando oigo la palabra estropajo y en mandaderos si me hablan de ángeles y en precaverme de piratas si me hablan de abordar un problema? Desde luego hay categorías convertibles; el espacio y el tiempo, lo físico y lo moral, hacen canje continuo de sus palabras. ¿Hay efectuación de metáfora en eso? Casi ninguna, puesto que esas metáforas sedicentes no son advertidas por nadie y no expresan la igualación o comparación de dos conceptos, sino la presentación de uno solo. Argumentar que la palabra grotesco es metafórica, porque deriva de gruta, es como argumentar que en la cifra 10 el concepto de la Nada absoluta interviene, a causa de su símbolo, el cero. (Precisamente, esta difícil sustantivación del no ser, la palabra Nada, parece haber sido inventada por la casualidad, por inercia gramatical, no por empeño de corporificar abstracciones. Dice Andrés Bello: Antiguamente nada significaba siempre cosa: nada no es más que un residuo de la expresión cosa nada, cosa nacida, cosa criada, cosa existente. De aquí el usarse en muchos casos en que no envuelve negación: ¿Piensa usted que ese hombre sirva para nada?, esto es, para alguna cosa. De aquí también el emplearse con otras palabras negativas sin destruir la negación: Ese hombre no sirve para nada, es decir, para cosa alguna. Y si tiene por sí solo el sentido negativo precediendo al verbo, no vemos en esto sino lo mismo que sucede con otras expresiones indudablemente positivas; así en mi vida le he visto, es lo mismo que no le he visto en mi vida. De suerte que nada no llegó a revestirse de la significación negativa sino por un efecto de la frecuencia con que se le empleaba en proposiciones negativas donde la negación no era significada por esta palabra, sino por otras a que estaba asociada.)
+
+La metáfora es una de tantas habilidades retóricas para conseguir énfasis. No sé por qué razón ha de ser puesta sobre las otras. Yo creo que la invención o hallazgo de pormenores significativos la aventaja siempre en virtualidad. He leído muchas metáforas sobre la sufrida lentitud de los bueyes; ninguna me ha impresionado tanto como esta observación nada metafórica, hecha por el algunas veces poeta Gabriel y Galán:
+
+…los bueyes
+
+de cuyos bezos charolados cuelgan
+
+tenues hilos de baba transparente
+
+que el manso andar no quiebra.
+
+
+
+Escribiré dos ejemplos más. El converso antioqueno de la relación A death in the desert de Browning, narra la muerte perseguida y guardada del evangelista San Juan, y dice con devoción: Esto no sucedió en la cueva exterior ni en la secreta cámara de la roca (donde lo tuvimos acostado sobre un cuero de camello y esperamos durante sesenta días que muriese) sino en la gruta central, porque algo de la luz del mediodía allí se alcanzaba, y no queríamos perder lo último que pudiera suceder en ese rostro. Shakespeare principia así un soneto: No mis propios temores ni el alma profética del ancho mundo soñando en cosas que vendrán... y lo que se sigue. Aquí el experimento es crucial. Si la locución alma profética del mundo es una metáfora, sólo es una imprudencia verbal o una mera generalización de quien la escribió; si no lo es, si el poeta creyó de veras en la personalidad de una alma pública y total de este mundo, entonces ya es poética.
+
+Generalmente, se admira la invención de metáforas. Sin embargo, más importante que su invención es la oportunidad para ubicarlas en el discurso y las palabras elegidas para definirlas. Considérese una misma metáfora en dos poetas, infausta en uno y de siempre lista eficacia para maravillar, en otro. Razona Góngora (A la Armada en que los Marqueses de Ay amonte passavan a ser Virreyes de México):
+
+Velero bosque de árboles poblado
+
+que visten hojas de inquieto lino…
+
+
+
+Aquí la igualación del bosque y la escuadra, está justificada con desconfianza y la traducción de mástiles en árboles y de velámenes en hojas, peca de metódica y fría.
+
+Inversamente, Quevedo fija la idéntica imaginación en cuatro palabras y la muestra movediza, no estática. La anima, soltándola por el tiempo (Inscripción de la Statua Augusta del César Carlos Quinto en Aranjuez):
+
+Las Selvas hizo navegar…
+
+
+
+La concepción clásica de la metáfora es quizá la menos imposible de cuantas hay: la de considerarla como un adorno. Es definición metafórica de la metáfora, ya lo sé; pero tiene sus precelencias. Hablar de adorno es hablar de lujo y el lujo no es tan injustificable como pensamos. Yo lo definiría así: El lujo es el comentario visible de una felicidad. Gracias a Dios, no soy adverso a avenidas embanderadas, a quintas con terrazas, a terrazas con puestas de sol, a jugar con lindas piezas al ajedrez. Lo que pasa es que casi nunca me siento merecedor de esas munificencias. En cambio, me parece justificadísimo que una mujer hermosa (cuya belleza ya es una continua felicidad) viva en continuo aniversario y veinticinco de mayo de esa belleza. Yo soy un hombre más o menos enlutado que viaja en tramway y que elige calles desmanteladas para pasear, pero me parece bien que haya coches y automóviles y una calle Florida con vidrieras resplandecientes. Me parece asimismo bien que haya metáforas, para festejar los momentos de alguna intensidad de pasión. Cuando la vida nos asombra con inmerecidas penas o con inmerecidas venturas, metaforizamos casi instintivamente. Queremos no ser menos que el mundo, queremos ser tan desmesurados como él.
+
+
+
+
+
+El culteranismo
+
+
+Si las matemáticas (sistema especializado de pocos signos, fundado y gobernado con asiduidad por la inteligencia) entrañan incomprensibilidades y son objeto permanente de discusión, ¿cuántas no oscurecerán el idioma, colecticio tropel de miles de símbolos, manejado casi al azar? Libros orondos —la Gramática y el Diccionario— simulan rigor en el desorden. Indudablemente, debemos estudiarlos y honrarlos, pero sin olvidar que son clasificaciones hechas después, no inventores o generadores de idioma. Ni las palabras asumen invariadamente la acepción que les es repartida por el diccionario ni hay una relación segura entre las ordenaciones de la gramática y los procesos de entender o de razonar.
+
+Busco un ejemplo. Sírvanos de primera mitad este parecer, que desgloso de una devota página sobre Góngora: D. Luis ha sido y será siempre el mayor poeta de la lengua española y de segunda mitad esta conclusión, que podemos suponer a la vuelta de muchas estadísticas y argumentos: Buenos Aires ha sido, y será siempre, el mayor puerto de esta república. Sintácticamente ambas oraciones se corresponden. Para los gramáticos, la frase y será siempre se repite con igual sentido en las dos. Ningún lector, sin embargo, se dejará llevar por este parecido fonético. En la segunda oración, la frase y será siempre es un juicio, es una probabilidad que se afirma, es una cosa que toca de veras al porvenir; en la primera, es casi una interjección, un énfasis más. En ésta, es emocional, afectiva; en aquélla, es intelectual. Decir D. Luis ha sido y será siempre el mayor poeta de la lengua es dictaminar D. Luis es indudablemente el mayor poeta de la lengua española o exclamar D. Luis es, ¡a ver quién me lo discute!, el mayor poeta. La equivalencia cae fuera de la gramática y de la lógica; bástanos intuirla.
+
+Piensa Novalis: Cada palabra tiene una significación peculiar, otras connotativas y otras enteramente arbitrarias y falsas (Werke, III, 207). Hay la significación usual, la etimológica, la figurada, la insinuadora de ambiente. La primera suele prevalecer en la conversación con extraños, la segunda es alarde ocasional de escritores, la tercera es costumbre de haraganes para pensar. En lo atañedero a la última, no ha sido legalizada por nadie y usada y abusada por muchos. Presupone siempre una tradición, es decir, una realidad compartida y autorizada y es postrimería de clasicismo. Entiendo por clasicismo esa época de un yo, de una amistad, de una literatura, en que las cosas ya recibieron su valoración y el bien y el mal fueron repartidos entre ellas. La torpe honestidad matemática de las voces ya se ha gastado y de meros guarismos de la realidad, ya son realidad. Son designación de las cosas, pero también son elogio, estima, vituperio, respetabilidad, picardía. Poseen su entonación y su gesto. (Séanos evidentísimo ejemplo el de las voces organito, costurerita, suburbio, en las que ha infundido Carriego un sentido piadoso y conmovedor que no tuvieron antes.) El proceso no varía nunca. La poesía —conspiración hecha por hombres de buena voluntad para honrar el ser— favorece las palabras de que se vale y casi las regenera y reforma. Luego, ya bien saturados los símbolos, ya vinculada la exaltación a un grupo de palabras y a otro la heroicidad y a otro la ternura, viene el solazarse con ellos. Esencialmente, el gongorismo o culteranismo. El academismo que se porta mal y es escandaloso.
+
+El de la escuela cordobesa del mil seiscientos es el más famoso de todos. El anverso de esta nombradía es la individualidad saliente de su caudillo. Por el primer hombre de España lo tuvieron, casi con unanimidad, los de su época, y aunque la sola mención de Lope, de Cervantes y de Quevedo basta para la refutación de ese error, la atracción ejercida por don Luis de Góngora es indudable. Porque si no nos queremos negar a la razón, sino confesalla sinceramente, ¿ quién escribe hoy que no sea besando las huellas de Góngora o quién ha escrito verso en España, después que esta antorcha se encendió, que no haya sido mirando a su luz?, finge interrogar, antes de 1628, Vázquez Siruela… El reverso es el general sosiego de la literatura española, remisa en teorizar.
+
+En su quietud casera el culteranismo es único escándalo y se le agradece el gentío.
+
+El consenso crítico ha señalado tres equivocaciones que fueron las preferidas de Góngora: el abuso de metáforas, el de latinismos, el de ficciones griegas. Yo quiero considerarlos con precisión.
+
+El primero es objeto de litigios que no se cansan. Los unos piensan que la numerosidad de metáforas es condenable; los otros, que se trata de una virtud.
+
+Yo insinuaría —contra los contemporáneos, contra los antiguos, contra mis certidumbres de ayer que la cuestión no es de orden estético. ¿Acaso hay un pensar con metáforas y otros sin? La muerte de alguien ¿la sentimos en estilo llano o figurado? La única realidad estética de un poema ¿no es la representación que produce? Que el escritor se haya valido o no de metáforas para persuadirla, es curiosidad ajena a lo estético, es como hacer el cómputo de la cantidad de letras que empleó. La metáfora no es poética por ser metáfora, sino por la expresión alcanzada. No insisto en la disputa; todo sentidor de Croce estará conmigo.
+
+He descubierto ilustres metáforas en la obra de don Luis. Escribo adrede el verbo, porque son de las que ningún fervoroso suyo ha elogiado. Copio la mejor de ellas, la del sentir eterno español, la del Rimado de Palacio, la de Manrique, la de que el tiempo es temporal:
+
+Mal te perdonarán a ti las Horas,
+
+las Horas que limando están los Días,
+
+los Días, que royendo están los Años.
+
+
+
+El crítico español Guillermo de Torre, en su alegato por la metáfora, quiere autorizarse con el famoso ejemplo de Góngora y copia este verso:
+
+peinar el viento, fatigar la selva
+
+
+
+cuyo primer hemistiquio acierta en lo de igualar el viento a una cabellera y no sé si en la prolijidad de peinarlo, y cuyo final es traducción fidelísima de Virgilio.
+
+Venatu invigilantpueri, sylvasque fatigant
+
+
+
+dice La Eneida, libro noveno, verso 605.
+
+También, para ejemplo de metáforas que enigmatizan, es costumbre transcribir el principio de la Soledad primera, la de los campos:
+
+Era del Año la Estación florida
+
+en que el mentido Robador de Europa
+
+(Media Luna las Armas de su Frente
+
+y el Sol todos los Rayos de su Pelo).
+
+Luciente honor del Cielo
+
+en campos de Zafiro pace Estrellas.
+
+
+
+Asiduos cabalistas (desde Pellicer o Salcedo y Coronel hasta los contemporáneos) han procurado la justificación lógica de esa tardanza y de ese impertinentísimo toro, que es disfraz de Júpiter y signo zodiacal y constelación y que no nos ayuda a imaginarnos la primavera. Sin embargo, aquí lo de menos es la metáfora; lo que importa son las palabras orondas —las palabras de clima de majestad— exhibidas por el autor. Propiamente, no hay comparaciones ahí; no hay sino la apariencia sintáctica de la imagen, su simulación. Metaforizar es pensar, es reunir representaciones o ideas. Don Juan de Jáuregui, cuyo honestísimo Discurso poético ha sido republicado por Menéndez y Pelayo y justicieramente elogiado (Ideas estéticas, III, 494) señala esa nadería de los cultos: Aun no merece el habla de los cultos en muchos lugares nombre de obscuridad, sino de la misma nada. También, Francisco de Cáscales: Harta desdicha que nos tengan amarrados al banco de la obscuridad solas palabras. Ahora bien, ¿puede haber poesía sin intuiciones? Arturo Schopenhauer ha escrito que la poesía es el arte de poner en juego la imaginación, mediante palabras. Sospecho que aceptar esa definición de traza romántica es premisa para admitir el culteranismo. Una cosa es presentar a la inteligencia un mundo verdadero o fingido y otra es fiarlo todo a la connotación visual o reverencial de vocablos arbitrariamente enlazados. Lo lamentable es que casi todos los poetas han abdicado la imaginación en favor de novelistas e historiadores y trafican con el solo prestigio de las palabras. Los unos viven de palabras de lejanía, los otros de palabras lujosas, los demás practican el diminutivo y la interjección y son héroes del quién pudiera y del nunca y del si supieras; ninguno quiere imaginar o pensar. Acaso, Góngora fue más consciente o menos hipócrita que ellos.
+
+En lo atañedero a latinismos, es notorio que don Luis de Góngora los frecuentó ad majorem linguae hispanicae gloriam y que su ánimo fue probar que nuestro romance puede lo que el latín. Ahora, la soberbia española practica una diversa conducta: no quiere aceptar el socorro de barbarismos y pone su toda y poca fe en recetas caseras: en idiotismos, en refranes, en locuciones. Para nada quiere salir de su casa, ni para bromear. Yo confieso que a la cerrazón y hurañía de los puristas de hoy, prefiero las invasiones generosas de los latinizantes. Góngora y Quevedo lo fueron, y también Hurtado de Mendoza y Saavedra Fajardo y otros no tan ilustres. Fray Luis hebraizó con oportunidad; Cervantes italianizó; Gracián y Quevedo neologizaron. En suma, la tradición española no es tradicional, como los tradicionalistas pretenden.
+
+Ya nos encara la tercer equivocación del culteranismo, la única sin remisión y sin lástima, porque es hendija por donde se le trasluce la muerte. Hablo de su permanente afán mitológico, de su manejo supersticioso de mitos griegos, quiero decir de nombres de mitos. Haraganería es ésa tan pública como ¡te juro por Dios! en boca de ateo o la fórmula conjurativa ¡cruz diablo! dicha por el que descree de la cruz y no se imagina, al pronunciarla, ningún demonio. Poesía es el descubrimiento de mitos o el experimentarlos otra vez con intimidad, no el aprovechar su halago forastero y su lontananza. El culteranismo pecó: se alimentó de sombras, de reflejos, de huellas, de palabras, de ecos, de ausencias, de apariciones. Habló —sin creer en ellos— del fénix, de las divinidades clásicas, de los ángeles. Fue simulacro vistosísimo de poesía: se engalanó de muertes.
+
+
+
+
+
+Un soneto de Don Francisco de Quevedo
+
+
+No, no es el del entierro geográfico del grande Osuna, difunto que lloraron los ríos y cuyo velorio fue de volcanes, ni tampoco el consentidamente gracioso del narigón —materia forastera a las letras, porque una incongruencia así fisonómica sólo es visual y no puede alegrarnos de oídas. Otro es el soneto de que hablo y aunque las antologías nunca lo visitaron, lo tengo por una de las más intensas páginas de su autor: es decir, de la literatura mundial. El libro El Parnaso Español y Musas Castellanas lo registra; es de los sonetos a Lisi, en su libro cuarto, y lleva el número XXXI. Reza de esta manera:
+
+Cerrar podrá mis ojos la postrera
+
+Sombra, que me llevare el blanco día,
+
+Y podrá desatar esta alma mía
+
+Hora, a su afán ansioso lisonjera;
+
+Mas no de essotra parte en la rivera
+
+Dejará la memoria en donde ardía;
+
+nadar sabe mi llama la agua fría
+
+Y perder el respeto a lei severa.
+
+Alma, a quien todo un Dios prission ha sido,
+
+Venas, que humor a tanto fuego han dado,
+
+Médulas, que han gloriosamente ardido,
+
+Su forma dejarán, no su cuidado;
+
+Serán ceniga, mas tendrá sentido,
+
+Polvo serán, mas polvo enamorado.
+
+
+
+Lo he copiado en su integridad, aunque demasiado bien sé que los tercetos lo abarcan. Es evidente que don Francisco de Quevedo, al sentarse a escribirlo, no tuvo más que la artesana intención de manufacturar un soneto al modo italiano, con las hipérboles ya reglamentarias del género, y que recién a las ocho líneas de petrarquizar, dio en especular y en sentir: riesgo que los entendidos repudian. Tales obreros de la versificación denunciarán también lo ripioso de los finales. Alma mía, agua fría, ley severa, ¡qué ociosidad para adjetivar! Nunca adolecieron de ella los cumplidores de sonetos sedicentes perfectos —José María de Heredia, Samain— que a trueque de evitar el ripio menor, consumaron casi siempre el total: el de catorce líneas, el de un entero soneto inútil y zángano.
+
+¿Qué imperfección es, pues, la de este principio? Es (digo yo) la de cuanta metáfora se ha imaginado para decir la muerte. ¡Tan pudorosas y cobardes son todas ellas frente a la sola horrenda palabra que pujan por tapar!
+
+Cerrar podrá mis ojos la postrera
+
+Sombra, que me llevare el blanco día
+
+
+
+es una perífrasis boba, puesto que la terribilidad del morir no es la de un mero dejarnos sin luz y porque también los ojos se clausuran para dormir: ocupación blanda. ¿Y la alusión al Leteo y a sus aguas todoolvidadoras y sólo desafiables por la pasión? Es (o fue) ingeniosa, pero su actuación en boca no helénica es de falsedad y desvirtúa lo autobiográfico, lo poético.
+
+Es decir, estos ocho renglones preparativos son un compás de espera, un escúcheme, un hacer tiempo casi de cualquier modo mientras la atención del auditorio está organizándose. No los precisaba Quevedo y si incurrió en la haraganería de componerlos, la culpa fue de la costumbre deplorabilísima de imponer tamaño de soneto a toda emoción. El sonetista (apunta don Ricardo Güiraldes) tiene un moldecito de budín en la mano y mete dentro todo lo que se le pone a tiro. Lo cual (añado yo) no quiere decir que los sonetos y los budines no sean manjares muy aceptables, alguna vez. Hay piezas de Enrique Banchs —ya tenemos en casa ejemplos no solamente de equivocación, sino de los otros— que saben reconciliarme con el soneto, con lo descomunal de sus leyes, con su arbitrariedad…
+
+Consideremos, pues, los versos finales. En ellos puede escucharse ¡al fin! la voz de Quevedo, tan ausente de los no favorecidos cuartetos. Los destaco, los redimo de los demás y son el mayor sentir español:
+
+Alma, a quien todo un Dios prission ha sido,
+
+venas que humor a tanto fuego han dado,
+
+médulas que han gloriosamente ardido,
+
+su forma dejarán, no su cuidado.
+
+Serán ceniga, mas tendrá sentido,
+
+polvo serán, mas polvo enamorado.
+
+
+
+Ésta es abogacía originalísima por la inmortalidad: negocio en que se atareó Quevedo y a cuya probación dedicó las muchas páginas de un tratado que anda en sus Obras postumas. Lo he recorrido; es discurso en que colaboraron la dialéctica y la dignidad varonil y la convicción y aun alguna vez el sarcasmo, pero su constante objeto es justificar que el alma es entidad separable y puede operar sin las representaciones —fantasmas, escribe el original— de que se abasteció en los sentidos. Es polémica anticipada con Hobbes, y fraileras citaciones latinas la hacen solemne. Imposible ubicar en su área teológica el pensamiento audacísimo de los versos. Si mencioné este opúsculo {Inmortalidad de el Alma, con que se prueba la Providencia de Dios para consuelo, y aliento de los Catholicos, y vergonzosa confusión de los Hereges) es para evidenciar la mucha intimidad de Quevedo con la cuestión.
+
+Quevedo casi no razona; intuye más bien. La intensidad le es promesa de inmortalidad y no la intensidad de cualquier sentir, sino la de la apetencia amorosa y, más concretamente aún, la del acto. El goce, plenitud del ser, rebasa su minuto y afirma que quien alguna vez tanto vivió, ya no se olvidará de vivir y no morirá. La erótica sube a metafísica; los descaros y sábados de la carne son mensajeros de buenas noticias para el espíritu, hospes comesque corporis, invitado y compañero del cuerpo.
+
+Quevedo, hispano íntegramente y seguro de la realidad de las cosas —no de la gasificada cosa en sí que para consuelo de ametafísicos preparó Kant, sino de las caseras cosas individuales— sugiere una supervivencia de lo corpóreo, de las ya para siempre apasionadas venas y médulas. El pensamiento es casi pagano y está, con no amainada grandiosidad, en otro soneto:
+
+Sobre el Sol arderé, y el cuerpo frío
+
+Se acordará de amor en polvo y tierra.
+
+
+
+Ese frío —tan insignificativo y haragán, a primera vista— es insinuador, por contraste, de la carnalidad y aun de la satisfacción y ápice de ella, de la que escribió Schopenhauer: La cópula es al mundo lo que la palabra al enigma. A saber, el mundo es ancho en el espacio y viejo en el tiempo y de variedad inagotable en las formas. Todo esto, sin embargo, no es sino la manifestación de la voluntad de vivir y la concentración, el foco de esta voluntad, es el acto generativo {El mundo como voluntad y representación; segundo volumen, capítulo cuarenta y cinco, página 671 de la edición alemana de Eduardo Grisebach).
+
+¿Qué pensar de la abogación de Quevedo? Yo pienso de ella lo que de las sedicentes pruebas dialécticas de que hay Dios, la ontológica, la cosmológica, la moral, la histórica y las que queden: pienso que su única virtud no dudosa es la de convencer a ya convencidos. Para decírsela a fervientes de la inmortalidad, es inmejorable. No le pido más: en trance de Dios y de inmortalidad, soy de los que creen. Mi fe no es unamunesca e incómoda; mis noches saben acomodarse en ella para dormir y hasta despachan realidad bien soñada en su vacación. Mi fe es un puede ser que asciende con frecuencia a una certidumbre y que no se abate nunca a incredulidad. No entiendo a los mecanicistas, incrédulos de que un solo átomo irrepresentable pueda perderse y muy seguros de la escondibilidad final de su yo. Al universo no le permiten escamotear una partícula de materia pero sí una infinitud de almas.
+
+Quevedo no descreyó nunca de la materia, pero ésta le sirvió (lo hemos visto) para argumentar la inmortalidad. Quiero rememorar aquí cierto diálogo. Ocurrió en las medianías del mil cuatrocientos; su escena, un dormitorio oscuro en Ocaña; sus interlocutores, la Muerte y don Rodrigo Manrique, hombre de pelo rojo; su cronista, el capitán don Jorge Manrique. Dijo entonces la Muerte que son tres las posibles vidas del hombre: una, la temporal, perecedera, la que cumplimos entre las prolijidades del tiempo y las del espacio; otra, muy mejor, la de nuestra fama, la que en ajenas bocas vivimos; otra, la de inmortalidad. De don Francisco ya sabemos que obtuvo dos; esperemos que el Señor no le haya sido avaro de la tercera. Ya escribí alguna vez que la negación o dubitación de la inmortalidad es el máximo desacato a los muertos, la descortesía casi infinita.
+
+
+
+
+
+La simulación de la imagen
+
+
+Indagar ¿qué es lo estético? es indagar ¿qué otra cosa es lo estético, que única otra cosa es lo estético? Lo expresivo, nos ha contestado Croce, ya para siempre, y tan satisfactoria me es esa fórmula que ni siquiera pienso sacar de la estantería el libro en que está y verificar en él las palabras textuales (las representaciones textuales) de su escritor, y su apurada repartición del conocimiento en intuitivo y lógico, es decir, en productor de imágenes o de conceptos. El arte es expresión y sólo expresión, postularé aquí. De eso puede inferirse inmediatamente que lo no expresivo, vale decir, lo no imaginable o no generador de imágenes, es inartístico.
+
+Escribo imágenes y no dejo de saber lo traicionero de esa palabra. Intuiciones, prefiere definir Croce, y en su sentido estricto de percepciones instantáneas de una verdad, la palabra me satisface, pero está usurpada por significaciones connotativas —adivinación, ocurrencia, corazonada— que la echan a perder. Escribo imágenes, palabra de traiciones como la otra, pero de traiciones que cuentan y que la historia de la literatura (mejor: la sedicente historia de la sedicente literatura) no debe preterir, ya que la casi totalidad de su material se origina de ellas. El más recibido de esos errores es presuponer que las imágenes comunicadas por el escritor deban ser, preferentemente, visuales. La etimología ampara ese error: imago vale por simulacro, por aparecido, por efigie, por forma, a veces por vaina (que es la apariencia de la hoja de acero que está en acecho en ella) aunque también por eco —vocalis imago— y por la concepción de una cosa. Eso dice la biografía de esa palabra y esa biografía no es aconsejadora de aciertos.
+
+La falacia de lo visual manda en literatura. Dos ejemplos amenísimos de ese poder hay en el desbocado elogio de Góngora que Dámaso Alonso ha prefijado en su edición, meritísima por lo demás, de las Soledades. Uno es para contradecir el aflictivo nihilismo poético de esa rapsodia. Dice así: En la poesía de Góngora flores, árboles, animales de la tierra, aves, pescados, variedad de manjares… pasan en suntuoso desfile ante los ojos del lector. ¿En qué estaban pensando los que dijeron que las Soledades estaban vacías? Tan nutridas están que apenas si en tan poco espacio pueden contener tal variedad de formas (página 31). El ingenuo paralogismo se echa de ver: Alonso niega la sensible vaciedad poética de las Soledades, en razón de su cargamento visual o mención continua de plumas, pelos, cintas, gallinas, gavilanes, vidrios y corchos. No es menos definitivo el segundo ejemplo. Se escribe así: No obscuridad: claridad radiante, claridad deslumbrante. Claridad de íntima, profunda iluminación. Mar luciente: cristal azul. Cielo color zafiro, sin mácula, constelado de diamantes, o rasgado por la corva carrera del sol (página 35). Aquí, bajo la aparente seguridad de lo sentencioso, duele una equivocación parecida: la de inferir que don Luis de Góngora es claro, léase perspicuo, por su mencionar cosas claras, léase relucientes. La naturaleza de ese enredo es de calembour.
+
+Indiscreciones de lo visual son también las cometidas en Ejercicios, libro de resoluciones de literato, por Benjamín Jarnés. Este prosista simula investigar lo que es prosa. El pensamiento (escribe) es la maroma tensa, vibrátil —acaso de alambre robusto de acero— que mantiene enhiesta la arquitectura de la frase; pero de uno al otro extremo se entrelazan armoniosamente las cintas paralelas de la imagen (página 34). Es decir, Jarnés no ha querido intimar con el problema, Jarnés cree, todavía, en la fabulosa división de fondo y de forma; pero en lugar de razonar esa dualidad, nos muestra unas serpentinas y un alambrado, visión inútil. Después examina varias conductas de prosa, para depararnos al final esta solución: Lo mejor es hacer de la prosa una ágil góndola empujada por el aliento de la idea… Pocas veces surca la alta serenidad esa deliciosa góndola bergsoniana, trayendo a bordo, entre mástiles y festones encendidos, el arcón bien labrado del pensamiento (página 35). Otra figura y otra negación de pensar. Sólo que la distracción, el cuadrito, ha sido ingerido esta vez con menos limpieza.
+
+Casi todas las que se dicen metáforas no pasan de incontinencias de lo visual. Menéndez y Pelayo, aludiendo a la festejada línea de Góngora,
+
+El rojo passo de la blanca Aurora
+
+
+
+ya otras emparentadas, escribió que la sola motivación de algún verso de él fue la de lisonjear la vista con la suave mezcla de lo blanco y de lo rojo. Hay, también, escritores a quienes les importa más lo vistoso del segundo término de una comparación que no su necesidad o su auxilio.
+
+Yo siempre en él estuve atento
+
+como martín pescador,
+
+
+
+escribe, sólo para hacer ostentación de ese pájaro, uno que en muchos otros decires es gran poeta. Esas libertades con la metáfora son perdonables, siempre que no se especialice el escritor en tales diabluras.
+
+El deber de toda imagen es precisión. Este aparente axioma o facilísima verdad ni siquiera lo es, ya que las precisiones de la aritmética o de la geografía suelen ser imprecisas a más no poder en el ejercicio del arte. Escribir del héroe de una novela Salió de un punto de partida y caminó cuatro mil doscientos veinticuatro metros hacia el noroeste, es guardar una reserva casi absoluta. Escribir Salió de General Urquiza y Barcala y caminó hasta Camargo y Humboldt, es arriesgarse a dejar en blanco esa línea para muchos lectores. Escribir Caminó sin parar hasta que ralearon las casas, o Caminó hasta que hubo más cielo, promete más posibilidad de expresión. Esa manera no es la histórica ni la periodística, ya lo sé. Y es que el noticioso, a diferencia de los poetas, no precisa hacer arte: es noticiador de hechos públicos, para los convencidos de antemano de su verdad. Anota, por ejemplo: El valiente robo de ayer se efectuó en la calle Tal, número tal, a las tales horas del día, receta no representable por nadie y que se limita a señalarnos el sitio Tal, en que nos darán más informes. Daniel Defoe parece haber sido, en literatura, el iniciador de esos pormenores de horario, de esas vanidades de cartógrafo o de sereno: equivocación copiadísima. Otra popularizada ilusión es la de fiarse mucho en las desinencias del aumentativo, del diminutivo, del despectivo. Somos poseedores de cuatro terminaciones aumentativas, de diez diminutivas, de once despreciativas, pero no del correspondiente poder de apreciar veinticinco graduaciones en cada nombre, según la sufijación que le sumen. Libraco, libracho, libróte, salen, para menospreciarlo, de libro. La gramática se alaba, creo que sin demasiada razón, de ese surtido de desaires tan cómodo, sin reparar en que las palabras son muchas, pero la representación es una y variable. El grado superlativo es otra ficción y de las traicioneras.
+
+Pues vos fizo Dios pilares
+
+de tan «riquísimos» techos,
+
+estad firmes y derechos…
+
+
+
+Dejemos la rareza gramatical de la anteposición del adverbio al superlativo —alianza emocional de dos énfasis— y comparemos la adjetivación riquísimos techos con la positiva de ricos. Las dos, en punto a representación, son iguales; tan indecidora es una como la otra. La sola diferencia es de entonación: la primera suena ponderativa, la común es un dato. Esa posible diferencia de acento es toda la que hay. La voz riquísimos no es de fácil operación: oímos decir rico primero, lo imaginamos, y ya la desinencia nos quiere reclamar una refacción o corrección o decantación del concepto, sin otra ayuda que la de su mismo insípido ruido, tan impersonal que también para decir pobrísimo lo conchaban. Se me responderá que como contratante verbal —investidura tan falsa como la del contratante social que inventó Rousseau— estoy sujeto a la obligación de imaginarme algo, siempre que suene un ísimo. Yo repito que no es del caso hablar de convenios: el asunto es de orden psicológico, no legal. Más práctico me parece el adverbio muy, que se adelanta a la representación concreta que intensifica, y va preparándola. El procedimiento reiterativo de las mujeres, de los niños, de los semitas (un cielo azul azul) es también más lógico.
+
+Una observación última. Esas negligencias o rendijas o indecisiones o premeditadas estafas de lo verbal cuentan, siempre, con la complicidad del lector. La construyen la haraganería y la cortesía. Ésta, con visible superstición, cree en las naturalezas distintas de la conversación y de la escritura y acaba por consentir (y hasta por festejar) en la hoja, inexpresiones que rebatiría siempre en el diálogo; aquélla se suele satisfacer con medias imágenes y como no quiere realizar lo que lee, no descubre errores. La audibilidad de lo escrito —ya en el verso, juego de satisfacer una expectativa; ya en la prosa, juego de chasquearla infinitamente— opera también. No faltan asimismo lectores que se decreten una suficiente emoción, siempre que palabras del destino sean presentadas (adiós, renunciamiento, nunca, tal vez) o de lo astronómico: nadir, luna. Pero el caso general de equivocación, es deliberado. Todo escritor sabe que una genuina obtención estética suele interesar menos al historiador de la literatura y al periodista y a la discusión de los compañeros y al ya literatizado lector, que una exhibición de métodos novedosos, aunque desacertados. Sabe que la imagen fracasada goza de mejor nombre ahora, que es el de audaz. Sabe que los fracasos perseverantes de la expresión, siempre que blasonen misterio, siempre que finja un método su locura, pueden componer nombradía. Ejemplo: Góngora. Ejemplo: todo escritor de nuestro tiempo, en alguna página.
+
+
+
+
+
+Las coplas de Jorge Manrique
+
+
+La más escuchada voz que verso español habló de la muerte, es la de Manrique. Manuel José Quintana, decente crítico y poeta ilegible, censuró esa voz; Menéndez y Pelayo, crítico justicieramente famoso, censuró la censura. Arguye Quintana: Al ver el título de esta obra, se esperan los sentimientos y la intención de una elegía, tal como el fallecimiento de un padre debía inspirar a su hijo. Pero las coplas de Jorge Manrique son una declamación, o más bien un sermón funeral sobre la nada de las cosas del mundo, sobre el desprecio de la vida y sobre el poderío de la muerte. Menéndez y Pelayo lo ataja, señalándole que de las cuarenta y tres coplas que son el total de la composición, diecisiete se contraen al elogio fúnebre del Maestre. Dice también que el pudor filosófico y señoril con que Manrique reprime sus lágrimas y anega su propio dolor en el dolor humano, es el mejor mérito de la obra. Llama doctrinal de cristiana filosofía a las coplas y alude a Bossuet.
+
+Por su ademán, esos pareceres de Menéndez y Pelayo son una refutación de Quintana; bien mirados, son su confirmación. Elogio fúnebre, pudor filosófico, doctrinal de cristiana filosofía, nombre de Bossuet, ¿no es todo eso, acaso, sermonero a más no poder y nada elegiaco? El elogio fúnebre, por ejemplo, y más en el sentido civil en que lo encara Jorge Manrique, no es directa queja filial, es justificación ante forasteros.
+
+No dexó grandes tesoros
+
+ni alcangó muchas riquezas
+
+ni baxillas,
+
+mas hizo guerra a los moros
+
+ganando sus fortalezas
+
+y sus villas;
+
+y en las lides que venció
+
+cavalleros y cavallos
+
+se prendieron
+
+y en este oficio ganó
+
+las rentas e los vasallos
+
+que le dieron.
+
+
+
+Una cosa es la foja de servicios del conde de Paredes, vencedor en veinticuatro batallas y Adelantado mayor del reino de León, y otra es la intimidad del dolor que su muerte debió inferir al ánimo de un hijo suyo. No por mucho batallar con todos los moros de la morería, acrecienta un hombre el amor filial que deben profesarle.
+
+Claro que al negar lo elegiaco de esta elegía festejadísima, no quiero negar su hermosura. Dos maneras de hermosura hay en ella: una, la gran aplicabilidad de sus versos, lo proverbial y lapidario de su dicción; otra, su índole de novela, que se trasluce tan a las claras en la sentencia final:
+
+Assí con tal entender
+
+todos sentidos humanos
+
+conservados,
+
+cercado de su mujer,
+
+de hijos y hermanos
+
+y criados…
+
+
+
+y que asciende alguna vez a cuento de Poe:
+
+Después de puesta la vida
+
+tantas veces por su ley
+
+al tablero;
+
+después de tan bien servida
+
+la corona de su Rey
+
+verdadero;
+
+después de tanta hazaña
+
+a que no puede bastar
+
+cuenta cierta,
+
+en la su villa de Ocaña
+
+vino la muerte a llamar
+
+a su puerta.
+
+
+
+No descreo de la eficacia estética de las Coplas. Afirmo que son indignas de la Muerte: eso es todo. En ellas está la forzosidad del morir, pero nunca lo disparatado de ese acto ni el azoramiento metafísico a que nos invita ni un esperanzarse curioso en la inmortalidad. Desde el punto de vista absoluto que su nombradla merece, esas carencias las anonadan. (Sé que Lope de Vega dijo de ellas que merecían estar escritas con letras de oro: locución rumbosa que expresa una convicción y no la argumenta.)
+
+Dice Menéndez y Pelayo: «¡Dichoso Jorge Manrique entre nuestros poetas, puesto que a través de los siglos su pensamiento cristiano y filosófico continúa haciendo bien, y cuando entre españoles se trata de muerte y de inmortalidad, sus versos son siempre de los primeros que ocurren a la memoria, como elocuentísimo comentario y desarrollo del Surge qui dormís et exsurge, de San Pablo!» (Antología de líricos castellanos, tomo 6). Yo pregunto con humildad: ¿Cuál es el pensamiento cristiano y filosófico y a través de los siglos bienhechor, de Jorge Manrique? Releo las Coplas y compruebo que es el pensamiento de que lo pasajero no existe. Para Manrique (y para todo español en trance de filosofar), la perdurabilidad es la única forma del Ser. El esqueleto sobrevive a su portador, luego el esqueleto es más real que el hombre. Las ruinas de Itálica sobreviven (sobremueren) a la ciudad, luego su intemperie de hoy es verídica y su gentío de ayer es una ficción. El nombre de España ha durado más que su imperio, luego los imperios no existen y los ingleses no deben alegrarse del que seudo tienen.
+
+Yo no entiendo de estas divisiones jerárquicas de la realidad y no sé por qué razón la hora de la muerte ha de ser más verdadera que las de vivir y el viernes que el lunes. Si todo es ilusorio, también la muerte lo es y muere su muerte. ¿Sólo ha de ser inmortal el dejar de ser?
+
+Manrique, sin confiar en contestación, interroga:
+
+¿Qué se ficieron las damas,
+
+sus tocados, sus vestidos,
+
+sus olores?
+
+¿Qué se ficieron las llamas
+
+de los fuegos encendidos
+
+de amadores?
+
+¿Qué se fizo aquel trobar,
+
+las músicas acordadas
+
+que tañían?
+
+¿Qué se fizo aquel dancar
+
+y aquellas ropas chapadas
+
+que traían?
+
+
+
+Dejemos las absurdas y patéticas interrogaciones sobre la perfumería y sobre los trajes guarnecidos con láminas de metal y sobre las bien templadas citólas y vihuelas y vayamos a la terrible interrogación:
+
+¿Qué se ficieron las llamas
+
+de los fuegos encendidos
+
+de amadores?
+
+
+
+Es decir, ¿qué se hizo la pasión, qué se hará? Hay la respuesta cristiana (la de Manrique), tan profanadora de todo recuerdo nuestro de amor y que siente así: Fuego encendido en los infiernos es el fuego carnal y está bien que se desbarate y se pierda y que el alma consiga alguna vez el don de olvidarlo. Hay la respuesta cientificista que a nadie satisface y que dicen todos: El individuo no es inmortal, pero sí la especie y ella garantiza la inmortalidad de todo sentir. Hay una tercera respuesta que he vislumbrado y que me está gustando y que se deja presentir o indicar por esta sentencia: Lo que de veras fue, no se pierde; la intensidad es una forma de eternidad.
+
+Lector: Por la vereda de las coplas hemos llegado a la metafísica. Ya eres el poseedor de tu ignorancia; y la mía no te hace falta.
+
+
+
+
+
+La fruición literaria
+
+
+Sospecho que los novelones policiales de Eduardo Gutiérrez y una mitología griega y el Estudiante de Salamanca y las tan razonables y tan nada fantásticas fantasías de Julio Verne y los grandiosos folletines de Stevenson y la primer novela por entregas del mundo: las 1001 Noches, son los mejores goces literarios que he practicado.
+
+La lista es heterogénea y no puede confesar otra unidad que la consentida por la edad tempranísima en que los leí. Yo era un hospitalario lector en este anteayer, un cortesísimo indagador de vidas ajenas y todo lo aceptaba con venturosa y álacre resignación. En todo creía, hasta en las malas ilustraciones y en las erratas. Cada cuento era una aventura y yo buscaba lugares condignos y prestigiosos para vivirla: el descanso más empinado de la escalera, un altillo, la azotea de la casa.
+
+Luego descubrí las palabras: descubrí su agasajo legible y hasta memorable y hospedé muchas tiradas en prosa y verso. Algunas —todavía— suelen acompañarme la soledad, y el agrado que me inspiraron se ha hecho costumbre; otras han caído piadosamente de mi recuerdo, como el Tenorio, que alguna vez supe íntegro y que han extirpado los años y mi desgano. Despacito, a través de inefables chapucerías de gusto, intimé con la literatura. No alcanzo a recordar la primera vez que leí a Quevedo; ahora es mi más visitado escritor. En cambio, sé que fue apasionadísimo mi primer encuentro con el Sartor Resartus o Sastre Zurcido del energuménico Tomas Carlyle: libro arrumbado, que hace años está leyéndose solo en la biblioteca. Después, fui mereciendo amistades escritas que todavía me honran: Schopenhauer, Unamuno, Dickens, De Quincey, otra vez Quevedo.
+
+¿Y en el día de hoy? He dado en escritor, en crítico, y debo confesar (no sin lástima y conciencia de mi pobreza) que releo con un muy recordativo placer y que las lecturas nuevas no me entusiasman. Ya tiendo a contradecirles la novedad, a traducirlas en escuelas, en influencias, en combinación. Conjeturo que de ser sinceros, todos los críticos del mundo (y aun algunos de Buenos Aires) dirían lo mismo. Es natural: la inteligencia es económica y arregladora y el milagro le parece una mala costumbre. Admitirlo, ya es injustificarse.
+
+Escribe Menéndez y Pelayo: Si no se leen los versos con los ojos de la historia, ¡cuan pocos versos habrá que sobrevivan! {Historia de la poesía americana, tomo segundo, página 103). Esta que parece advertencia, es una confesión. Esos tan resucitadores ojos de la historia ¿qué son sino un sistema de lástimas, de generosidades o sencillamente de cortesías? Se me replicará que sin ellos, confundiremos el plagiario con el inventor, la sombra y el bulto. Cierto, pero una cosa es la justiciera repartición de glorias y otra la pura fruición estética. Es lamentable observación mía que cualquier hombre, a fuerza de recorrer muchos volúmenes para juzgarlos (y no es otra la tarea del crítico) incurre en mero genealogista de estilos y en rastreador de influencias. Vive en esta pavorosa y casi inefable verdad: La belleza es un accidente de la literatura; depende de la simpatía o antipatía de las palabras manejadas por el escritor y no está vinculada a la eternidad. Los epígonos, los frecuentadores de temas ya poetizados, suelen conseguirla y casi nunca los novadores.
+
+Nuestra desidia conversa de libros eternos, de libros clásicos. Ojalá existiera algún libro eterno, puntual a nuestra gustación y a nuestros caprichos, no menos inventivo en la mañana populosa que en la noche aislada, orientado a todas las horas del mundo. Tus libros preferidos, lector, son como borradores de ese libro sin lectura final.
+
+Si las obtenciones de belleza verbal que puede ministramos el arte fueran infalibles, existirían antologías no cronológicas y hasta sin nómina de escritores ni escuelas. La sola evidencia de hermosura de cada composición bastaría para justificarla. Claro que esa conducta sería estrafalaria y aun peligrosa en las antologías al uso. ¿Cómo admirar los sonetos de Juan Boscán, si no sabemos que fueron los primeros de que adoleció nuestro idioma? ¿Cómo sufrir los de Mengano, si ignoramos que ha perpetrado otros muchos que son todavía más íntimos del error y que además, es amigo del antologista?
+
+Temo no ser entendido en este lugar, y a riesgo de simplificar demasiado el asunto, buscaré un ejemplo. Séanos ilustración esta metáfora desglosada: El incendio, con feroces mandíbulas, devora el campo. Esta locución ¿es condenable o es lícita? Yo afirmo que eso depende solamente de quien la forjó, y no es paradoja. Supongamos que en un café de la calle Corrientes o de la Avenida, un literato me la propone como suya. Yo pensaré: Ahora es vulgarísima tarea la de hacer metáforas; substituir tragar por quemar, no es un canje muy provechoso; lo de las mandíbulas tal vez asombre a alguien, pero es una debilidad del poeta, un dejarse llevar por la locución fuego devorador, un automatismo; total, cero… Supongamos ahora que me la presentan como originaria de un poeta chino o siamés. Yo pensaré: Todo se les vuelve dragón a los chinos y me representaré un incendio claro como una fiesta y serpeando, y me gustará. Supongamos que se vale de ella el testigo presencial de un incendio o, mejor aún, alguien a quien fueron amenaza las llamaradas. Yo pensaré: Ese concepto de un fuego con mandíbulas es realmente de pesadilla, de horror y añade malignidad humana y odiosa a un hecho inconsciente. Es casi mitológica la frase y es vigorosísima. Supongamos que me revelan que el padre de esa figuración es Esquilo y que estuvo en lengua de Prometeo (y así es la verdad) y que el arrestado titán, amarrado a un precipicio de rocas por la Fuerza y por la Violencia, ministros duros, se la dijo al Océano, caballero anciano que vino a visitar su calamidad en coche con alas. Entonces la sentencia me parecerá bien y aun perfecta, dado el extravagante carácter de los interlocutores y la lejanía (ya poética) de su origen. Haré como el lector, que sin duda ha suspendido su juicio, hasta cerciorarse bien cuya era la frase.
+
+Hablo sin intención de ironía. La distancia y la antigüedad (que son los énfasis del espacio y del tiempo) tiran de nuestro corazón. Ya Novalis enunció esa verdad y Spengler ha sabido razonarla grandiosamente, en libro famoso. Yo quiero señalar su atingencia con la literatura, que es cosa patética. Si ya nos engravece pensar que hace dos mil quinientos años vivieron hombres, ¿cómo no ha de conmovernos saber que versificaron, que fueron espectadores del mundo, que hospedaron en las palabras leves y duraderas algo de su pesada vida fugaz, que esas palabras están cumpliendo un largo destino?
+
+El tiempo, tan preciado de socavador, tan famoso por sus demoliciones y sus ruinas de Itálica, también construye. Al erguido verso de Cervantes
+
+¡Vive Dios, que me espanta esta grandeza!…
+
+
+
+lo vemos refaccionado y hasta notablemente ensanchado por él. Cuando el inventor y detallador de Don Quijote lo redactó, vive Dios era interjección tan barata como caramba, y espantar valía por asombrar. Sospecho que los contemporáneos suyos lo sentirían así:
+
+¡Vieran lo que me asombra este aparato!…
+
+
+
+o cosa vecina. Nosotros lo vemos firme y garifo. El tiempo —amigo de Cervantes— ha sabido corregirle las pruebas.
+
+En general, el destino de los inmortales es otro. Los pormenores de su sentir o de su pensar suelen desvanecerse o yacen invisibles en su labor, irrecuperables e insospechados. En cambio, su individualidad (esa simplificadísima idea platónica que en ningún rato de su vida fueron con pureza) se aferra como una raíz a las almas. Se vuelven pobres y perfectos como un guarismo. Se hacen abstracciones. Son apenas un manojito de sombra, pero lo son con eternidad. Les conviene demasiado esta oración: Quedaron ecos: fórmanse en lo hueco y vacío de su majestad, no voz entera, sino apenas cola de la ausencia de la palabra (Quevedo: La hora de todos y la fortuna con seso, episodio XXXV). Pero hay diversas inmortalidades.
+
+Tierna y segura inmortalidad (alcanzada alguna vez por hombres medianos, pero de honesta dedicación y largo fervor) es la del poeta cuyo nombre está vinculado a un lugar del mundo. Ésa es la de Burns, que está sobre tierras labrantías de Escocia y ríos que no se apuran y cordilleritas; ésa es la de nuestro Carriego, que persiste en el arrabal vergonzante, furtivo, casi enterrado que hay en Palermo al sur y en donde un extravagante esfuerzo arqueológico puede reconstruir el baldío cuya ruina actual es la casa y el despacho de bebidas que se ha hecho Emporio. Hay también un inmortalizarse en cosas eternas. La luna, la primavera, los ruiseñores, manifiestan la gloria de Enrique Heine; el mar que sufre cielo gris, la de Swinburne; los andenes estirados y los embarcaderos, la de Walt Whitman. Pero las inmortalidades mejores —las de señorío de la pasión— siguen vacantes. No hay poeta que sea voz total del querer, del odiar, de la muerte o del desesperar. Es decir, los grandes versos de la humanidad no han sido aún escritos. Esa es imperfección de que debe alegrarse nuestra esperanza.
+
+
+
+
+
+Ascendencias del tango
+
+
+El tango es la realización argentina más divulgada, la que con insolencia ha prodigado el nombre argentino sobre el haz de la tierra. Es evidente que debemos averiguar sus orígenes y prescribirle una genealogía donde no falten ni la endiosadora leyenda ni la verdad segura. La cuestión fue muy conversada en el año trece; el libro de don Vicente Rossi, intitulado Cosas de negros (Córdoba 1926), vuelve a estimularla. Ya he escrito sobre el libro de Rossi, sobre la amenidad continua de su lectura y la eventual equivocación de sus datos y hoy quiero declarar su opinión y alguna otra más.
+
+La opinión de Rossi es circunstanciada: El tango sedicente argentino es hijo de la milonga montevideana y nieto de la habanera. Nació en la Academia San Felipe, galpón montevideano de bailes públicos, entre compadritos y negros; emigró al Bajo de Buenos Aires y guarangueó por los Cuartos de Palermo (donde lo recibieron la negrada y las cuarteleras) y metió ruido en los peringundines del Centro y en Monserrat, hasta que el Teatro Nacional lo exaltó. Es decir, el tango es afromontevideano, el tango tiene motas en la raíz. Ser de color humilde y ser oriental son condiciones criollas, pero los morenos argentinos (y hasta los no morenos) son tan criollos como los de enfrente y no hay razón para suponer que todo lo inventaron en la otra banda. Me responderán que hay la razón efectiva de que así fue, pero esa chicana no satisface a nuestro patrioterismo, más bien lo embravece y lo desespera. Tal vez convenga recordar aquí el caso análogo de la procedencia de Colón. Los italianos, para considerarlo suyo, sólo pueden arrimarse al mero dato de registro civil, o conventilleo, de que el Almirante nació en Genova y era italiano por los cuatro costados; los españoles pueden argumentarla mejor. Podrían argumentar que siendo el descubrimiento de América y la conquista, empresas manifiestamente españolas, no hay ninguna razón histórica para introducir genoveses en el asunto. (Además, ¿qué genoveses iba a haber, si la Boca del Riachuelo estaba por descubrir todavía?) Lástima que no se hayan atrevido a ser francos y prefieran la falsificación a la mitología, el chisme conventillero a la fe. Yo seré más sincero que ellos y afirmaré con resolución: El tango es porteño. El pueblo porteño se reconoce en él, plenamente; no así el montevideano, siempre nostalgioso de gauchos. De cualquier modo, estoy más convencido de la procedencia uruguaya de Rossi que de la procedencia uruguaya del tango.
+
+Pragmatismos aparte, la argumentación de don Vicente Rossi puede reducirse honradamente a este silogismo:
+
+La milonga es privativamente montevideana.
+
+La milonga es el origen del tango.
+
+El origen del tango es montevideano.
+
+
+
+Acepto que la premisa menor es inconmovible; en cambio, descreo de la mayor y no sé de ningún argumento válido que la fortalezca. Rossi se limita a escribir En la banda occidental no se usó la Milonga como canto ni la Danza como Milonga, y nos remite al rato a una apuntación donde vemos que la palabra milonga no ocurre en un diálogo lunfardo, publicado por La Nación en 1887. Su argumento, como se ve, es negativo y carece de eficacia para convencer. Inversamente, ¿quién no recuerda cierta inefable milonga tejedorista (inefable por lo procaz) cuya elocuencia desaforada en la injuria nos autoriza a suponerla contemporánea del hecho que nombra: esto es, a retrocedería al 80? Empieza así:
+
+Don Carlos de Tejedor,
+
+con una paciencia loca
+
+
+
+y todavía es alarde para cantar la flor en el truco. También don Rodolfo Senet (Buenos Aires alrededor del año 1880. La Prensa, octubre 17 de 1926) habla de las milongas que saludaron a los primeros tranvías y a las primeras calles empedradas del arrabal. Una de estas últimas aconseja:
+
+Cuidadito con las piedras
+
+que te vas a refalar,
+
+porque el golpe de las piedras
+
+es muy malo de curar.
+
+
+
+¡Oh compadritos de la calle Ombú y de la calle Europa, qué capitis diminutio, qué vacilación para vuestra vertiginosa dignidad de taquitos altos habrán sido las puntiagudas piedras del empedrado, tan andinas, tan inciviles, tan forasteras a la tierrita criolla del callejón!
+
+Hasta aquí han opinado mis conjeturas; que hablen los hechos. El cancionero bonaerense de Ventura R. Lynch, ¡libro de 1883!, estudia la milonga, la declara divulgadísima en los bailecitos de medio pelo del arrabal y en los casinos de la plaza del Once y de Constitución, la juzga inventada por los compadritos para hacer burla de los candomberos y hasta informa que los organitos la tocan.
+
+Otra genealogía tanguera es la rastreada por don Miguel A. Camino, poeta, en su hermosa composición recordativa, intitulada El tango. Está casi al final del libro Chaquiras y empieza así:
+
+Nació en los Corrales viejos,
+
+allá por el año ochenta.
+
+Hijo fue de una milonga
+
+y un «pesao» del arrabal.
+
+Lo apadrinó la corneta
+
+del mayoral del tranvía,
+
+y los duelos a cuchillo
+
+le enseñaron a bailar.
+
+Así en el ocho,
+
+y en la asentada,
+
+la media luna
+
+y el paso atrás,
+
+puso el reflejo
+
+de la embestida
+
+y las cuerpeadas
+
+del que la juega
+
+con su puñal.
+
+
+
+La procedencia versificada por Camino es original a más no poder. A la motivación erótica, o meretricia, que todos hemos reconocido en el tango, añade una motivación belicosa, de pelea feliz, de visteo. Ignoro si esa motivación es verídica: sé nomás que se lleva maravillosamente bien con los tangos viejos, hechos de puro descaro, de pura sinvergüencería, de pura felicidad del valor, como los describí en otras páginas, hace un año. También Rossi, que por razones de fecha desconoce la explicación de Camino, la ayuda un poco en este párrafo sobre la milonga: Entonces tuvo títulos, y ellos nos dan otra prueba de que no fue sensual: Mate amargo, Cara pelada, La quebrada, La canaria, Kyrie eleison, Pejerrey con papas, Señor comisario, etc.; ni siquiera amorosos, porque en el Bajo brutal no se alojó el idilio. El orillero aprovechaba las situaciones de sensualizar con la suficiencia y despreocupación del que no necesita de ellas, por verdadero sport (Cosas de negros - La academia). Justo sin embargo es reconocer que los literatos, al ocuparse del tango, han insistido siempre sobre su lujuria tristona, sobre su atravesada y casi enconada sensualidad. Básteme citar dos fuertes ejemplos: el de Marcelo del Mazo, en la segunda serie de Los vencidos, 1910 (Aura mi hija, aulló el compadre y la fosca compañera / ofreció la desvergüenza de su cálido impudor / azotando con su carne, como lengua de una hoguera, / las vibrátiles entrañas de aquel chusma del amor) y el de Ricardo Güiraldes cuyo Tango (El cencerro de cristal, 1915) nos impone estos decididos renglones: Mancha roja, que se coagula en negro. Tango fatal, soberbio y bruto. Notas arrastradas, perezosamente, en un teclado gangoso…
+
+Inversamente, la única vez que se acordó Evaristo Carriego del tango, fue para verle felicidad, para mostrarlo callejero y fiestero, como era hace veinte años:
+
+En la calle, la buena gente derrocha
+
+sus guarangos decires más lisonjeros,
+
+porque al compás de un tango, que es La Morocha,
+
+lucen ágiles cortes dos orilleros.
+
+
+
+Las dos versiones del tango, la solamente lujuriosa y la de travesura, podrían corresponder a dos épocas: la primera a este lamentable episodio actual de elegías amalevadas, de estudioso acento lunfardo, de. bandoneones; la otra, a los buenos tiempos (malísimos) del corte, de las puñaladas electorales, de las esquinas belicosamente embanderadas de barras.
+
+(El tango fue primeramente un plano del baile, una indicación de cortes y de floreos, una actualidad que no se preocupa; el contemporáneo —esto es decir el realmente viejo— cuida recuerdos ya. Una conciencia adulta del tiempo carga sobre él. Compárese El torito o El Maldonado con cualquier tango de hoy.)
+
+Camino nos explica el tango y además, nos marca el preciso lugar en que éste nació: los Corrales viejos. La precisión es traicionera. El visteo no fue jamás privativo de los Corrales, pues el cuchillo no era sólo herramienta de matarifes: era, en cualquier barrio, el arma del compadrito. Cada barrio padecía sus cuchilleros, siempre de facción en algún comité, en alguna trastienda. Los hubo de fama duradera, aunque angosta: El Petizo Flores en la Recoleta, El Turco en la Batería, El Noy en el Mercado de Abasto. Eran semidioses de chambergo alto: hombres de baquía puntual en menesteres de cuchillo y que solían desafiarse envidiosamente. De aquellos tiempos y señaladamente de los bailecitos y de las comparsas, serán esas milongas insolentadas en que el cantor alude a su patria chica para desafiar a los de otra:
+
+Yo soy del barrio del Alto,
+
+soy del barrio del Retiro,
+
+yo soy aquel que no miro
+
+con quién tengo que pelear
+
+y en trance de milonguear
+
+nadie se me puso a tiro.
+
+y
+
+Hágase a un lao, se lo ruego,
+
+que soy de la Tierra ’el Fuego.
+
+
+
+A mi ver (conste que mi opinión no es obligatoria y que no quiero inferírsela a nadie) el tango puede haberse originado en cualquier lugar de la ciudad, lo mismo en las Fiestas de la Recoleta (que allá por el ochenta, según el doctor José Antonio Wilde, solían terminar con sangre en la punta) que en los batuques de la plaza del Once o de Constitución: en cualquier lugar, menos en los Corrales. Mi argumento es fácil: el tango es manifiestamente urbano o suburbano, porteño, y los Corrales fueron siempre una intromisión de la pampa, una presencia verídica de gauchismo o una coquetería compadrona de hacerse el gaucho, muy reverenciadora de lo pasado y muy ajena a toda invención.
+
+El tango no es campero: es porteño. Su patria son las esquinas rosaditas de los suburbios, no el campo; su ambiente, el Bajo; su símbolo, el sauce llorón de las orillas, nunca el ombú.
+
+
+
+
+
+Fechas
+
+
+
+
+
+Para el centenario de Góngora
+
+
+Yo siempre estaré listo a pensar en don Luis de Góngora cada cien años. El sentimiento es mío y la palabra Centenario lo ayuda. Noventa y nueve años olvidadizos y uno de liviana atención es lo que por centenario se entiende: buen porcentaje del recuerdo que apetecemos y del mucho olvido que nuestra flaqueza precisa.
+
+Góngora ha ascendido a abstracción. La dedicación a las letras, la escritura esotérica y pudorosa, las actas martiriales de la incomprensión ajena y de la finura, están simbolizadas en él. El ocurrente cordobés Luis de Argote —hombre de amargura en los labios y de juventud empleada en amores— ahora se llama Góngora, de igual manera que dos palitos atados por el medio se llaman cruz. A ese alguien no lo juzgo. Parece horrenda cosa que un hombre se constituya en Juicio Final de otros hombres y quiera declarar inválidos, nulos y de ningún valor y efecto sus días. Yo a esa judicatura no la codicio.
+
+Llego, pues, a su valor guarismal. Góngora —ojalá injustamente— es símbolo de la cuidadosa tecniquería, de la simulación del misterio, de las meras aventuras de la sintaxis. Es decir, del academismo que se porta mal y es escandaloso. Es decir, de esa melodiosa y perfecta no literatura que he repudiado siempre.
+
+Consigno mi esperanza —demasiadas veces satisfecha— de no tener razón.
+
+
+
+
+
+Alfonso Reyes: «Reloj de sol». Madrid, 1926
+
+
+Gratísimo libro conversado es éste de Reyes, sin una palabra más alta que otra y cuyo beneficio más claro es el espectáculo de bien repartida amistad que hay en su cuarentena de apuntes. Reyes es practicador venturoso de esa virtud de virtudes: la cortesía, y su libro está gobernado por ese mérito. Reyes es fino catador de almas, es observador benévolo de las distinciones insubstituibles de cada yo. De tan bien conversarnos de sus amigos, nos amiga con ellos. Desde luego, más prudente es frecuentar las noticias que Reyes nos transmite sobre Valle-Inclán, que los orondos y pendulares párrafos de éste.
+
+Reloj de Sol empieza por una apología de las anécdotas: página emocionada y precisa, que trascribo para que el lector se enamore de ella; y también, ¡oh, menesteres dialogísticos del oficio! para comentarla. Aquí está:
+
+«Hay que interesarse por las anécdotas. Lo menos que hacen es divertirnos. Nos ayudan a vivir, a olvidar, por unos instantes: ¿hay mayor piedad? Pero, además, suelen ser, como la flor en la planta: la combinación cálida, visible, armoniosa, que puede cortarse con las manos y llevarse en el pecho, de una virtud vital.
+
+«Hay que interesarse por los recuerdos, harina que da nuestro molino.» (Reloj de Sol, página 11.)
+
+Hay un semblante falso de contradicción en ese encarecimiento de los recuerdos y del olvido: falso, puesto que recordar una sola cosa cualquiera, es olvidarse de lo demás del mundo. No insistiré sobre esa angostura lineal de nuestra conciencia, ya denunciada por Arturo Schopenhauer; quiero pasar derecho a la anécdota y a su tasación.
+
+En estos días se finge menospreciarla. Sin embargo, la anécdota —no en su primordial acepción de historia secreta, sino en la usual de incidente escrito o narrado, de sección breve operada sobre el destino de un hombre— es la realidad de cualquier poesía y lo que nos gusta. Lo abstraído, lo general, es cosa impoética. El ser, el incondicionado ser (esto Schopenhauer también lo premeditó) no es sino la cópula que une el sujeto con el predicado. Es decir, el ser no es categoría poética ni metafísica, es gramatical. Dicho sea con palabras de la lingüística: el depuradísimo verbo ser, tan servicial que lo mismo sirve para ser hombre que para ser perro, es un morfema, signo conjuntivo de relación; no un semantema, signo de representación. Pensar Alguien hizo algo, no es poético; pensar En uno de los días del tiempo y en uno de los sitios del espacio, un hombre escribió, ya casi lo es; pensar En una casa de la Calle del Parque (esquina Suipacha) un señor alsinista se puso a escribir con letra perfilada estas cosas: En un overo rosao, flete nuevo y parejito… lo es con intensidad. Y es que lo último es anecdótico.
+
+A las anécdotas es costumbre contraponer las imágenes y metáforas; enemistad fabulosa, pues éstas no son más que anécdotas chicas. En ensayo anterior sobre la metáfora, he procurado razonar este parecer.
+
+Reyes ha reformado la anécdota. Su prudente revolución corresponde a la solicitada por Ben Jonson para el epigrama. En vez de sujetar la entera composición a la última línea, al desenlace armado, al rasgo (de antemano) asombroso, Reyes quiere que el agrado de sus anécdotas sea perpetuo. Nunca procedieron así los anecdotistas. Siempre nos propusieron su página, no de gustativa lectura, sino de desconfianza o de impaciencia o de suspensión, para recién justificarse en la última línea y callar. Leerlos tenía más de tarea que de placer. Uno se fatigaba, esperándolos. Reyes, no; Reyes nos presenta un mundito y hace como si lo dejara vivir. El riesgo de esta suerte de anécdotas desmochadas, de anécdotas sin asombro pero con encanto; sería la insipidez; Reyes ni siquiera ha tenido que precaverse de tal peligro. Alguna —El Gimnasio de la REVISTA NUEVA— es incomparable.
+
+Un recuerdo de Año Nuevo —página de una tan discreta efusión— es otra de las bondades del libro. Su eficacia novelística es mucha. Cinco, seis renglones y la definición de los personajes está lograda. A don Ramón Menéndez Pidal nos lo persuade así, como quien no quiere la cosa: A sus estancias en la sierra, que alterna con el sol de la marítima Zumaya, debe D. Ramón, seguramente, ese salutífero color de barro cocido que ha heredado de él su hija Jimena. D. Ramón es hombre que escribe con las ventanas abiertas, en pleno invierno, envueltas las piernas con la manta española. {Reloj de Sol, página 67.)
+
+La consideración De microbiología literaria también me está llamando a la crítica. En ella, el escritor se conduele de las palabras venidas a menos o aplebeyadas; de la palabra gracia que ahora significa chiste o chocarrería, de la palabra habilidad que hoy es equivalente de astucia. Esa denigración la operan las malas artes de la plebeyez, que todo lo acomoda a su imagen. Otra, no registrada allí, es la motivada por el abaratamiento de los elogios. Hablo de los elogios gruesos, atropellados, sin valoración, de los que pueden ser tan incómodos y tan zafios como una injuria. ¿Qué decir de la intemporalidad terrible de Dios, si la piedra que perdura muchos años ya es cosa eterna} ¿Qué adjetivación será propia de la divinidad, si un jarrón de barro es divino} Para el gacetillero español, no hay sacerdote sin su virtuoso, no hay comerciante sin su probo, no hay señorita sin su bellísima, no hay auditorio sin su numeroso y selecto. Esa constancia casi homérica de los epítetos no es tampoco una seña de exaltación; es alargamiento inútil de las palabras. No es ni conceptual ni emotiva; escribir la bellísima señorita de Tal no es emocionarse con ella ni formular un juicio estético o seudo estético; es —únicamente— nombrarla. En tales casos, la ya inseparable adjetivación hace de prefijo, pero de prefijo haragán. El vocablo señorita se pierde y es desbancado por un neologismo cargoso: bellísima-señorita. (A la simulación de las alabanzas corresponde —signo también de mezquindad— la de las injurias. Hay fórmulas, universalmente aplicables, de injuria y tan bochornosa perfección hemos alcanzado que todo marinero borracho, con sólo chapurrear una de esas fórmulas, puede manosear nuestra paz y obligarnos a la pelea, al bastonazo o a la cobardía. ¡Tan convencional es la cosa! Hay literato en Groenlandia que cuando dice Fulano de Tal es un degenerado y plagiario, lo que quiere decir, es: Fulano de Tal no frecuenta la misma confitería que yo y así se lo entienden.)
+
+Releo este afabilísimo Reloj de Sol y una curiosidad clandestina —la misma que ha desordenado más de una vez mis lecturas de Unamuno, de Tomás de Quincey, de Hazlitt— me hace preguntar: Este hombre tan sagaz, tan inteligente de los delicados errores y de los delicados aciertos de todo escrito, ¿creerá de veras en la venerabilidad de las letras, en la perfección durante dos horas? La interrogación es íntima, ya lo servoceaba en la mitad del día, sin un declive propiciatorio de dudas, parece lastimar el más secreto pudor de la inteligencia. Quizá fuera más posible de noche, en esas horas anónimas y alargadas que son los arrabales del alba y en que el atrevimiento de trasnochar se hace discutidor y en las que razona el desgano físico… Indecible o no, mi indiscreción es demasiado íntima para ser satisfecha por otro que Alfonso Reyes, y ése, quién sabe. A lo mejor, él mismo lo ignora. (Hay negocios demasiado íntimos y definitivos para ser tarea de nuestro pecho.) Hay quien descree del arte —Quevedo, barrunto, fue uno de sus mayores incrédulos— y quien aparenta negarlo y sin embargo firma libros y corrige pruebas y reivindica para sí una prioridad, como los dadaístas. Reyes bien puede asemejarse a Quevedo. Esos miramientos con Góngora, esa su piadosa tertulia de Los amigos de Lope, ¿no están insinuándonos que le interesa más la pregustada (posgustada) realidad de esos escritores que la de su tan laureada escritura?
+
+
+
+
+
+Ricardo E. Molinari: «El imaginero»
+
+
+Ricardo E. Molinari es hombre pudoroso de su alma y sólo comunicativo de ella por símbolos. Lo circunstancial de su vida no está en las páginas confesadas por él; pero sí la traducción de ésta en aceptaciones, en corazonadas, en gratitudes. Nombra las cosas como agradeciéndoles el favor que nos hacen con existir. Su concepto del idioma es hedónico: las palabras le son gustosas, pero no las de tamaño y de majestad, sino las de cariño y de estimación. Es poeta de Buenos Aires, de la íntima sustancia provinciana de Buenos Aires. El arriate prolijo, la engalanada vela de la Candelaria que es conjuradora de lluvias, las sucesiones y como dinastías de patios que hay en las casas viejas, condicen bien con él. Es poeta de agrados, es una presencia inusitadísima de poesía en nuestra «poesía» y no se arrepentirá el que lo busque.
+
+Cinco lugares de su libro quiero manifestar. El primero es esta imaginación del amor, que tal vez no marre: En qué piedad o dulzura se irán aclimatando —las cosas que ella mira! El segundo es una tácita declaración por virtud de la palabra nuestras, emparejadura en él de dos porvenires: Qué hacer de nuestras vidas, María del Pilar. El tercero es una descripción del recuerdo, gusto americanísimo, pues el ayer de nuestra casa es otro que el hoy: Este agobio —en que voy por mi memoria— corrigiendo el pueblo. El cuarto es esta gran palabra patética: Con cuatro golpes de campanas —supe que ya serían distintas mis mañanas. El quinto, de eficacia menos apresurada, dice la correlación de los hombres y la inseguridad o pobreza de cada yo: Lo ajeno y lo propio —de lo que he vivido. Escribí de líneas, pero la integridad de algunas composiciones —La oda descalza, el Poema de la niña velazqueña, las dos Veletas, la Elegía para un pueblo que perdió sus orillas, el Poema del almacén— es tan fina y agradable como sus partes. Dos mitos, dos reverencias volvedoras, las de El imaginero. Una es el mar, el no mirado mar soñado y encariñado desde nuestro polvoriento hinterland del oeste —Liniers, Urquiza—; otra es la costumbre, con las vivencias que por ella están gobernadas: la tarde, el amistoso amor, la luna en el hueco.
+
+
+
+
+
+Apunte férvido sobre las tres vidas de la milonga
+
+
+Juan de Dios Filiberto —que es un par de patillas y un acordeón que andan entristeciendo el Riachuelo— ha formulado, como quien no quiere la cosa, una desunión tripartita de la milonga: léase del tango. En los fondos de la revista El Hogar del quince de julio, le prescribe esta trinidad: A la milonga —nos dice Filiberto— yo la divido en tres grupos: 1.°, la milonga agreste, que es la de pulpería (la de Martín Fierro con el negro); 2.°, la milonga compadrona que es la entrerriana, peleadora y buscapleitos, y 3.°, la milonga porteña, que es la milonga mía, del dolor y del trabajo; la milonga de la necesidad, de la fatiga, del obrero que trabaja todo el día y que, de noche, le limpia la cara roñosa a las penas, cantándole a la novia todas las angustias de ese perro flaco que se llama Destino…
+
+Paso sobre el estilo alegórico-basurero de la formulación, tan sintomático del ultraísmo abaratado de los repórters, y pienso en lo que en ella se dice.
+
+Vamos por partes. La primera que a la historia de la milonga aquí le recetan, la agreste que es la de pulpería, no es demasiado clara. Decir agreste es aludir al campo nomás; decir de pulpería es pasarse a las orillas también, cosa que no está mal, puesto que de las orillas fue la milonga. El mostrador de madera y el changango del compadrito la generaron y fue tal vez una decantación del cantar por cifra, aunque distinta de él. El Cancionero bonaerense de Lynch empieza por adjudicársela al gaucho, pero a los dos renglones escribe que sólo la practican el compadraje de la capital y de la campaña y que no hay bailecito de medio pelo en que no figure y que la bailan en los casinos de los mercados Once de Setiembre y Constitución. Añade que los organistas la han arreglado y la hacen oír con aire de danza o habanera. Esto lo notició Lynch el ochenta y tres. Rossi (Cosas de negros, páginas 121-124) también la ve orillera a la milonga y no de la pampa. Ese par de pareceres nos insinúan que la milonga agreste no es tal.
+
+Ya nos encara la segunda vida de la milonga, la milonga compadrona que es la entrerriana, peleadora y buscapleitos, según el definidor nos anuncia. Esa milonga feliz de atropellar es la consabida, es la que se insolentó en bravatas de lugares de Buenos Aires allá por el ochenta. Es la que se llevó muy bien con las coplas:
+
+Soy del barrio e Monserrá
+
+donde relumbra el acero;
+
+lo que digo con el pico
+
+lo sostengo con el cuero.
+
+Parao en las Cinco Esquinas
+
+con toda mi contingencia
+
+por ver si te rompo el… alma
+
+ando haciendo diligencia.
+
+Yo soy del barrio del Alto,
+
+soy del barrio del Retiro,
+
+yo soy el que nunca miro
+
+con quién tengo que pelear
+
+y en trance de milonguear,
+
+nadies se me puso a tiro.
+
+
+
+Esa alma varona y sobradora de la milonga es la que está en los tangos antiguos —en Rodríguez Peña, en Don Juan, en El entrerriano, en El apache argentino, en Las siete palabras, en Pinta brava, en El caburé— además en La payanca y en Don Esteban. ¿Dónde lo entrerriano de esa alma? La respuesta es de ingrata facilidad: a esa alma la precisa entrerriana el definidor, para que la tercer milonga, la suya, la de ese perro flaco que le lava la cara a la novia que se llama Destino, sea la verdadera porteña. Y eso, ya sabemos que no lo es. Es una rezongona quejumbre itálica y no otra cosa.
+
+Alguna vez —si los primitivos tangos no engañan— una felicidad sopló sobre las tapias rosadas del arrabal y estuvo en el empaque dominguero del compadrito y en la jarana de las chiruzas en el portón. ¿Qué valentías la gastaron, qué generosidades, qué fiestas? Lo cierto es que pasó y que el bandoneón cobarde y el tango sin salida están con nosotros. Hay que sobrellevarlos, pero que no les digan porteños.
+
+
+
+
+
+La conducta novelística de Cervantes
+
+
+Ningún otro destino escrito fue tan dejado de la mano de su dios como Don Quijote. Ninguna otra conducta de novelista fue tan deliberadamente paradójica y arriesgada como la de Cervantes. Así la tesis que me he determinado a presentar y a razonar en esta alegación.
+
+Antes conviene aliviarse de dos errores. Uno es la antigua equivocación que ve en el Quijote una pura parodia de los libros de caballería: suposición que el mismo Cervantes, con perfidia que entenderemos después, se ha encargado de propalar. Otro es el también ya clásico error que hace de esta novela una repartición de nuestra alma en dos apuradas secciones: la de la siempre desengañada generosidad y la de lo práctico. Ambas lecturas son achicadoras de lo leído: ésta lo desciende a cosa alegórica, y hasta de las más pobres; aquélla lo juzga circunstancial y tiene que negarle (aunque así no fuera su voluntad) una permanencia larga en el tiempo. Además, ni lo paródico ni lo alegórico son valederas manifestaciones de arte: lo primero no es más que el revés de otra cosa y ésta le hace tanta falta para existir, como la luz y el cuerpo a la sombra; lo último es una categoría gramatical más que literaria, una seudo humanización de voces abstractas por medio de mayúsculas. El Quijote no es ninguna de esas ausencias: es la venerable y satisfactoria presentación de una gran persona, pormenorizada a través de doscientos trances, para que lo conozcamos mejor. Es decir, no es ni más ni menos que el título. Cervantes, en hecho de verdad, fue un hagiógrafo, pero no es la casi santidad de Alonso Quijano lo que interesa hoy a mi pluma, sino lo desaforado del método de Cervantes para convencernos bien de ella. Este método no es el usual de la persuasión; es otro insospechable y secreto que provoca, sin traicionarse nunca, una reacción compasiva o hasta enojada frente a las indignidades sin fin que injurian al héroe. Cervantes teje y desteje la admirabilidad de su personaje. Imperturbable, como quien no quiere la cosa, lo levanta a semidiós en nuestra conciencia, a fuerza de sumarias relaciones de su virtud y de encarnizadas malandanzas, calumnias, omisiones, postergaciones, incapacidades, soledades y cobardías.
+
+El procedimiento se trasluce con seguridad en la primera parte, tan secundaria en mérito. Allí menudean las cargosas retahilas de palos y puñetazos, censuradas con aparente justicia por nuestro Groussac. En la segunda, las tentaciones en que puede caer el lector son más considerables y más sutiles. El arte de Cervantes, diez años mayor, asume aquí toda la audacia peligrosísima de su destreza y pone a Don Quijote, no ya en el inventado riesgo de que le peguen, sino en el verdadero y muy serio de que le perdamos cariño. Diré algunos ejemplos, no todos, de ese incomparable jugarse entero del escritor.
+
+Los de soledad son de no acabar. Don Quijote es la única soledad que ocurre en la literatura del mundo. Prometeo, amarrado a la visible peña caucásica, siente la compasión del universo a su alrededor y es visitado por el Mar, caballero anciano en su coche, y por el especial enojo de Zeus. Hamlet despacha concurridos monólogos y triunfa intelectualmente, sin apuro en las antesalas de su venganza, sobre cuantos conviven con él. Raskolnikov, el ascético y razonador asesino de Crimen y castigo, sabe que todos sus minutos son novelados y ni la borra de sus sueños se pierde. Pero Don Quijote está solo, dejadamente solo, y cualquier eventualidad lo interrumpe. Ése es el necesario sentido de los Crisóstomos, de las Marcelas, de los cautivos y de las otras curiosas impertinencias que interceptan a cada vuelta de hoja la presencia del héroe y que tanto escándalo y vacilación han puesto en la crítica. Ni siquiera en los últimos trámites de su muerte (gran posesión y dramaticidad de todo vivir, por pobre que sea) consigue Don Quijote ocupar la franca y solemne atención de su historiador. Éste lo hace arrepentirse de su heroísmo, apostasía inútil, para mencionar después casualmente y en la mitad de un párrafo, que falleció. El cual, entre compasiones y lágrimas de los que allí se hallaban, dio su espíritu: quiero decir que murió. Así, con aparatoso desgano, se despidió Miguel de Cervantes de Don Quijote.
+
+Tampoco la inconsciencia de su rareza (especie de inocente nube para sí en que viajan los dioses) le fue concedida al caballero por su cronista. Hay un lugar, patético, en que Don Quijote habla directamente de su locura y se sabe loco y lo dice. Es la aventura contemplativa y extática de los santos. Don Quijote discurre acerca de ellos y piensa al fin:
+
+Ellos conquistaron el cielo a fuerza de brazos, porque el cielo padece fuerza, y yo hasta ahora no sé lo que conquisto a fuerza de mis trabajos; pero si mi Dulcinea del Toboso saliese de los que padece, mejorándose mi ventura y adobándoseme el juicio, podría ser que encaminase mis pasos por mejor camino del que llevo. Otro más llevadero, es aquel en que Don Quijote conversa sobre la ridiculez de su traza: Así que señor gentilhombre, ni este caballo… ni la amarillez de mi rostro, ni mi atenuada flaqueza os podrá admirar de aquí adelante... (segunda parte, capítulo XVI).
+
+Pero el ejemplo más iluminativo de cuantos puedo recordar aquí, es el tan festejado como no entendido capítulo que trata de los consejos a Sancho. Hasta don Américo Castro (en su libro encaminado a probar que Cervantes vivió de veras en el siglo dieciséis y en su atmósfera) se limita a emparejar los consejos de Don Quijote con los de Isócrates y a declarar el contenido ético de esas moralidades. Admite sin embargo que los consejos en sí nada tienen de insólito, en cuanto a las ideas, y su mayor interés reside en los reflejos que provocan en Sancho y en el ambiente de ironía y buena gracia que envuelve el diálogo {El pensamiento de Cervantes, página 359). Yo voy más lejos; los consejos para mí no son lo que importa, sino el hecho de darlos. Reanímese la escena: Sancho, por decisión burlona del duque acaba de ser nombrado gobernador de una ínsula, que no por apócrifa y tirada en medio del campo, es menos codiciable. En esto llegó Don Quijote y sabiendo lo que pasaba…, con licencia del duque le tomó de la mano y se fue con él a su estancia con intención de aconsejarle cómo se había de haber en su oficio. Entrados, pues, en su aposento, cerró tras sí la puerta, e hizo casi por fuerza que Sancho se sentase junto a él. Apurado y coercitivo está Don Quijote en dar esos consejos, que el escudero subido a gobernador no ha pedido y que son más bien una continuación de la autoridad del hidalgo. ¡Qué insinuaciones las de su prólogo! Tú, que para mí sin duda alguna eres un porro, sin madrugar, sin trasnochar y sin hacer diligencia alguna, con sólo el aliento que te ha tocado de la andante caballería, sin más ni más te ves gobernador de una ínsula, como quien no dice nada. Todo esto digo, oh Sancho, para que no atribuyas a tus merecimientos la merced recibida, sino que desgracias al cielo que dispone suavemente las cosas, y después las darás a la grandeza que en sí encierra la profesión de la caballería andante. Dispuesto, pues, el corazón a creer lo que te he dicho, está, oh hijo, atento a este tu Catón, que quiero aconsejarte, y ser norte y guía que te encamine y saque a seguro puerto… Del conocerte saldrá el no hincharte como la rana que quiso igualarse con el buey; que si esto haces, vendrá a ser feos pies de la rueda de tu locura la consideración de haber guardado puercos en tu tierra. ¿No está induciéndonos aquí Miguel de Cervantes a que palpemos envidia en el carácter honestísimo de Don Quijote? ¿No es más odiosa la sola insinuación de esa envidia que esa otra obscena aventura en que tirado Don Quijote en el campo, cruza una piara de cerdos encima de él?
+
+Atropellos y desmanes son los que dije que evidencian la confianza de su escritor en la invulnerabilidad central de su héroe. Sólo en Cervantes ocurren valentías de ese orden.
+
+
+
+
+
+Dos Esquinas
+
+
+
+
+
+Sentirse en muerte
+
+
+Deseo registrar aquí una experiencia que tuve hace unas noches: fruslería demasiado evanescente y estática para que la llame aventura; demasiado irrazonable y sentimental para pensamiento. Se trata de una escena y de su palabra: palabra ya predicha por mí, pero no vivida hasta entonces con entera dedicación de mi yo. Paso a historiarla, con los accidentes de tiempo y de lugar que la declararon.
+
+Lo rememoro así. La tarde que prefiguró a esa noche, estuve en Barracas: localidad no visitada por mi costumbre, y cuya distancia de la que después recorrí, ya me desfamiliarizó esa jornada. Su noche no tenía destino alguno; como era serena, salí a caminar y recordar después de comer. No quise determinarle rumbo a esa caminata: procuré una máxima latitud de probabilidades para no cansar la expectativa con la obligatoria antevisión de una sola de ellas. Realicé en la mala medida de lo posible, eso que llaman caminar al azar; acepté, sin otro consciente prejuicio que el de soslayar las avenidas o calles anchas, las más oscuras intimaciones de la casualidad. Con todo, una suerte de gravitación familiar me alejó hacia unos barrios, de cuyo nombre quiero siempre acordarme y que dictan reverencia a mi pecho. No quiero significar así el barrio mío, el preciso ámbito de la infancia, sino sus todavía misteriosas inmediaciones: confín que he poseído entero en palabras y poco en realidad, vecino y mitológico a un tiempo. El revés de lo conocido, su espalda, son para mí esas calles penúltimas, casi tan efectivamente ignoradas como el soterrado cimiento de nuestra casa o nuestro invisible esqueleto. La marcha me dejó en una esquina. Aspiré noche, en asueto serenísimo de pensar. La visión, nada complicada por cierto, parecía simplificada por mi cansancio. La irrealizaba su misma tipicidad. La calle era de casas bajas, y aunque su primera significación fuera de pobreza, la segunda era ciertamente de dicha. Era de lo más pobre y de lo más lindo. Ninguna casa se animaba a la calle; la higuera oscurecía sobre la ochava; los portoncitos —más altos que las líneas estiradas de las paredes— parecían obrados en la misma sustancia infinita de la noche. La vereda era escarpada sobre la calle; la calle era de barro elemental, barro de América no conquistado aún. Al fondo, el callejón, ya pampeano, se desmoronaba hacia el Maldonado. Sobre la tierra turbia y caótica, una tapia rosada parecía no hospedar luz de luna, sino efundir luz íntima. No habrá manera de nombrar la ternura mejor que ese rosado.
+
+Me quedé mirando esa sencillez. Pensé, con seguridad en voz alta: Esto es lo mismo de hace veinte años… Conjeturé esa fecha: época reciente en otros países, pero ya remota en este cambiadizo lado del mundo. Tal vez cantaba un pájaro y sentí por él un cariño chico, de tamaño de pájaro; pero lo más seguro es que en ese ya vertiginoso silencio no hubo más ruido que el también intemporal de los grillos. El fácil pensamiento Estoy en mil novecientos y tantos dejó de ser unas cuantas aproximativas palabras y se profundizó a realidad. Me sentí muerto, me sentí percibidor abstracto del mundo: indefinido temor imbuido de ciencia que es la mejor claridad de la metafísica. No creí, no, haber remontado las presuntivas aguas del Tiempo; más bien me sospeché poseedor del sentido reticente o ausente de la inconcebible palabra eternidad. Sólo después alcancé a definir esa imaginación.
+
+La escribo, ahora, así: Esa pura representación de hechos homogéneos —noche en serenidad, parecita límpida, olor provinciano de la madreselva, barro fundamental— no es meramente idéntica a la que hubo en esa esquina hace tantos años; es, sin parecidos ni repeticiones, la misma. El tiempo, si podemos intuir francamente esa identidad, es una delusión: la indisolubilidad de un momento de su aparente ayer y otro de su aparente hoy, basta para desordenarlo.
+
+Es evidente que el número de tales momentos humanos no es infinito. Los elementales —los de sufrimiento físico y goce físico, los de acercamiento del sueño, los de la audición de una sola música, los de mucha intensidad o mucho desgano— son más impersonales aún. Derivo de antemano esta conclusión: la vida es demasiado pobre para no ser también inmortal. Pero ni siquiera tenemos la seguridad de nuestra pobreza, puesto que el tiempo, fácilmente refutable en lo sensitivo, no lo es también en lo intelectual, de cuya esencia parece inseparable el concepto de sucesión. Quede, pues, en anécdota emocional la vislumbrada idea y en la confesa irresolución de esta hoja el momento verdadero de éxtasis y la insinuación posible de eternidad de que esa noche no me fue avara.
+
+
+
+
+
+Hombres pelearon
+
+
+Ésta es la relación de cómo se enfrentaron coraje en menesteres de cuchillo el Norte y el Sur. Hablo de cuando el arrabal, rosado de tapias, era también relampagueado de acero; de cuando las provocativas milongas levantaban en la punta el nombre de un barrio; de cuando las patrias chicas eran fervor. Hablo del noventa y seis o noventa y siete y el tiempo es caminata dura de desandar.
+
+Nadie dijo arrabal en esos antaños. La zona circular de pobreza que no era el centro, era las orillas: palabra de orientación más despreciativa que topográfica. De las orillas, pues, y aun de las orillas del Sur fue El Chileno: peleador famoso de los Corrales, señor de la insolencia y del corte, guapo que detrás de una zafaduría para todos entraba en los bodegones y en los batuques; gloria de matarifes en fin. Le noticiaron que en Palermo había un hombre, uno que le decían El Mentao, y decidió buscarlo y pelearlo. Malevos de la Doce de Fierro fueron con él.
+
+Salió de la otra punta de una noche húmeda. Atravesó la vía en Centro América y entró en un país de calles sin luz. Agarró la vereda; vio luna infame que atorraba en un hueco, vio casas de decente dormir. Fue por cuadras de cuadras. Ladridos tirantes se le abalanzaron para detenerlo desde unas quintas. Dobló hacia el norte. Silbidos ralos y sin cara rondaron los tapiales negros; siguió. Pisó ladrillo y barro, orilló la Penitenciaría de muros tristes. Cien hamacados pasos más y arribó a una esquina embanderada de taitas y con su mucha luz de almacén, como si empezara a incendiarse por una punta. Era la de Cabello y Coronel Díaz: una parecita, el fracaso criollo de un sauce, el viento que mandaba en el callejón.
+
+Entró duro al boliche. Encaró la barra nortera sin insolencia: a ellos no iba destinada su hazaña. Iba para Pedro el Mentao, tipo fuerte, en cuyo pecho se enanchaba la hombría y que orejeaba, entonces, los tres apretados naipes del truco.
+
+Con humildad de forastero y mucho señor, El Chileno le preguntó por uno medio flojo y flojo del todo que la tallaba ¡vaya usté a saber con quiénes! de guapo y que le decían El Mentao. El otro se paró y le dijo en seguida: Si quiere, lo vamos a buscar a la calle. Salieron con soberbia, sabiendo que eran cosa de ver.
+
+El duro malevaje los vio pelear. (Había una cortesía peligrosa entre los palermeros y los del Sur, un silencio en el que acechaban injurias.)
+
+Las estrellas iban por derroteros eternos y una luna pobre y rendida tironeaba del cielo. Abajo, los cuchillos buscaron sendas de muerte. Un salto y la cara del Chileno fue disparatada por un hachazo y otro le empujó la muerte en el pecho. Sobre la tierra con blandura de cielo del callejón, se fue desangrando.
+
+Murió sin lástimas. No sirve sino pa juntar moscas, dijo uno que, al final, lo palpó. Murió de pura patria; las guitarras varonas del bajo se alborozaron.
+
+Así fue el entrevero de un cuchillo del Norte y otro del Sur. Dios sabrá su justificación: cuando el juicio retumbe en las trompetas, oiremos de él.
+
+(Dedicado a Sergio Pinero)
+
+
+
+
+
+Eduardo Wilde
+
+
+La populosa vida del doctor don Eduardo Wilde empezó en Tupiza (Bolivia) en los años de mil ochocientos cuarenta y cuatro, cuando la Tiranía era mucho más que unas divisas locas destiñéndose en un cajón y una apetencia floja de negradas candomberas y de heroísmo, y no se le cansó hasta setiembre del novecientos trece en Bruselas. No alcanzó a presenciar la guerra intestina europea, espectáculo achicador de cuantas almas participaron en él, hasta para verlo, pero experimentó millares de cosas: los cerros colorados del Norte, la vida y la muerte en los heridos del Paraguay y en los atacados de fiebre amarilla el 71, los tejemanejes del roquismo y del juarismo, el seudo-mundo de señores ancianos que es la diplomacia, los crecientes Buenos Aires que van del Buenos Aires politiquero que hubo el setenta, medio romanticón, medio puntilloso, medio silbador de mazurkas, al Buenos Aires embanderado del Centenario, que se juzgó imperial y cuyos organitos venturosos le cantaron La Siciliana o La Morocha al cometa Halley. (Ese cometa que figuró en las iluminaciones del año 10 y que nos intrigó con su amenaza en broma de fin del mundo.)
+
+Todo eso y mucho más vivió Wilde. Fue periodista, fue médico, fue Ministro de Justicia, Culto e Instrucción Pública, fue Presidente del Departamento Nacional de Higiene, fue Ministro Plenipotenciario, fue autor de muchas páginas quizá inmortales y hasta de un folleto sobre álgebra y otro sobre gramática: habilidosa y viva universalidad, más parecida a la de Quevedo que a la especulativa de Goethe. Consiguió honores improbables: la sociedad Unione e Benevolenza le dio un diploma, la Academia Nacional de Medicina de Río de Janeiro le puso un collar de oro al pescuezo, S. M. el Sha le confirió la Gran Cruz de la Orden del Sol y del León.
+
+Insisto adrede sobre estas aparentes farolerías para evidenciar qué clase de hombre fue Eduardo Wilde. Hay escritores soslayados y chucaros (Swinburne, Evaristo Carriego, Rafael Cansinos Asséns) cuya total aventura humana es la de su obra; hay otros de vida cargada, cuya escritura es apenas un rato largo, un episodio de sus pobladísimos días. Wilde fue uno de ellos. Gozó un estómago para grandes bocados de la fortuna, de esos que pondera una comparación fisiológica del Oráculo Manual de Gracián, y vivió ambiciosamente. Dicen que no faltaron indignidades en su vivir; bástenos que no haya ninguna en sus libros.
+
+Rojas ha opinado sobre él: en Wilde, la psicología del hombre interesa más que la técnica del escritor. Dijérase que su arte reside más en su sentimiento que en su palabra (Obras, tomo quince, página 730). Esta involuntaria paradoja tiene la también involuntaria virtud de ubicarnos en la intimidad del problema estético. Ricardo Rojas empieza por suponer una antítesis entre la personalidad y el estilo, entre el ser de un hombre y el escribir, para aseverar después que en Eduardo Wilde interesa más lo primero que lo último. Yo pregunto ¿qué interés intrínseco puede concederse a la técnica del escritor? ¿Quién gustó jamás en la técnica de un escritor, algo que no fuese la denunciación de la psicología de un hombre? Al gran lector, al hombre con vocación de lector, al poseído por la ajena realidad escrita de un libro, la técnica le resulta tan invisible como las letras individuales que recorre, sin fijarse en sus firuletes y en el abuso o escasez de la tinta. Mala señal es que interese mucho una técnica: si alguien se fija demasiado en nuestra voz, en nuestra manera de articular, en nuestra elocución, no ha de interesarle lo que decimos. Plena eficiencia y plena invisibilidad serían las dos perfecciones de cualquier estilo. Emparejar el sentimiento o pensamiento con la dicción, igualar el contenido y la forma, es una virtud que todos aconsejan y nadie ejerce. ¿Cómo ejercerla, además? ¿Acaso hay una prefijada y siempre cumplidora relación de igualdad entre los fenómenos de la conciencia y las leyes sintácticas de un lenguaje? Busco un ejemplo. Los ingleses dicen obligatoriamente a brown horse, un colorado caballo; nosotros, obligatoriamente también, posponemos el adjetivo. ¿Qué sentido espiritual hay en esas costumbres? ¿No es estrafalario admitir que los ingleses —siempre— ven primero una mancha colorada y después advierten que es un caballo, mientras nosotros —siempre— empezamos dándonos cuenta que es un caballo y luego le determinamos el pelo? La mecanicidad del idioma es poderosísima; vaya otro ejemplo para probarlo. Nietzsche asemeja la luna a un gato (a un individuo macho, Kater) y a un monje. Esta varonía de sus metáforas, ardua en Buenos Aires, es evidente en Alemania: los alemanes dicen el luna.
+
+No quiero insinuar que la veracidad literaria es una ficción; quiero evidenciar lo difícil que es y lo acertado de nuestra gratitud a quienes la alcanzan. Indesmentiblemente, la alcanzó Wilde. Perteneció a esa especie ya casi mítica de los prosistas criollos, hombres de finura y de fuerza, que manifestaron hondo criollismo sin dragonear jamás de paisanos ni de compadres, sin amalevarse ni agaucharse, sin añadirse ni una pampa ni un comité. Fue todavía más: fue un gran imaginador de realidades experienciales y hasta fantásticas. Su Alma callejera, su Primera noche de cementerio, su realización de lo poética que es la ubicuidad de la lluvia, son generosidades de la literatura de esas que se igualan difícilmente. Rojas lo llama precursor de Ramón; hablar de precursores es suponer que Dios es todavía un frangollón de almas y no acierta con la versión definitiva, desde el comienzo… Sin embargo, su aire de familia es impresionante: los dos, bajo su aparente humorismo, hacen contrabando de remesas valiosísimas de poesía; los dos quieren lo casero del mundo y son como emperadores de cosas quietas: álbumes, rinconeras, piezas de ajedrez, perillas, óleos muertos de militares muertos, arañas embaladas que son como globos en viaje a la disolución, patios con mínimum angosto de cielo, casas desmanteladas, barriles. También hubo grandiosidad en Eduardo Wilde y debajo de su galera negra, pensó en tempestades románticas, en lunas pálidas, en nubarrones portentosos de lluvia.
+
+Eduardo Wilde, tan abundoso de inteligencias, careció (o fingió carecer) de una inteligencia fundamental: la de barruntar que la posmuerte es vida y que ni está empedrada de calaveras ni se mide con féretros. Creyó ingenuamente que nosotros éramos capaces de inventar la Nada absoluta, de un momento a otro ¡nosotros tan incansables en vivir, que hasta nuestro sueño más descansado fabrica ensueños! Wilde prefirió negar la otra vida y experimentó sin duda tamaño chasco cuando lo trasmundearon de golpe. No le tengamos lástima: la lástima es siempre una descortesía y la negación o dubitación de la inmortalidad es siempre la mayor descortesía que podemos hacerle a los muertos. Más bien, envidiémosle las aventuras lindísimas que estará corriendo Wilde en el otro mundo.
+
+Conviene consagrar un paraje de la capital a cada escritor. Es un monumento espontáneo que todo ciudadano de Buenos Aires puede erigir. Yo a Eduardo Wilde lo veo clarito por las calles de Monserrat (cuyo médico parroquial fue el setenta y uno) caminoteando por la calle Buen Orden, parándose a mirar la puesta de sol en la esquina de México, soltándole un cumplido a una chica: en cualquier esquina, en cualquier parroquia, con o sin verdad de pasión.
+
+
+
+
+
+El idioma de los argentinos
+
+
+Señoras, señores: Nunca la equivocación fue tan elocuente como en esa versión apócrifa de mi yo, que el doctor Arturo Capdevila ha pronunciado con benevolente injusticia. Por mi parte, quiero decirle mi gratitud; ya mi ningún merecimiento se encargará, aunque nadie lo quiera, de vuestro desengaño y de una presentación más verídica. Soy hombre acostumbrado a escribir, nunca a perorar, y esa haragana artillería hacia lo invisible, que es la escritura, no es un aprendizaje eficaz de las persuasiones instantáneas del orador. Una multiplicada resignación —vuestra y mía— es, pues, aconsejable.
+
+El idioma de los argentinos es mi sujeto. Esa locución, idioma argentino, será, a juicio de muchos, una mera travesura sintáctica, una forzada aproximación de dos voces sin correspondencia objetiva. Algo como decir poesía pura o movimiento continuo o los historiadores más antiguos del porvenir. Un embeleco de que ninguna realidad es sostén. A esa posible observación contestaré luego; básteme señalar que muchos conceptos fueron en su principio meras casualidades verbales y que después el tiempo las confirmó. Sospecho que la palabra infinito fue alguna vez una insípida equivalencia de inacabado; ahora es una de las perfecciones de Dios en la teología y un discutidero en la metafísica y un énfasis popularizado en las letras y una finísima concepción renovada en las matemáticas —Russell explica la adición y multiplicación y potenciación de números cardinales infinitos y el porqué de sus dinastías casi terribles— y una verdadera intuición al mirar al cielo. Parejamente, cuando las atracciones inmediatas de una hermosura o las de su bien cuidado recuerdo están sobre nosotros, ¿quién no ha sentido que las palabras elogiosas que ya preexisten, son como proféticas de ella, como corazonadas ? La palabra linda es previsión de la novia de cada uno y de ella nomás. No me quiero apoyar en otros ejemplos; hay demasiados.
+
+Dos influencias antagónicas entre sí militan contra un habla argentina. Una es la de quienes imaginan que esa habla ya está prefigurada en el arrabalero de los saínetes; otra es la de los casticistas o españolados que creen en lo cabal del idioma y en la impiedad o inutilidad de su refacción.
+
+Miremos la primera de esas erratas. El arrabalero, si su nombre no está mintiendo, es dialecto de los arrabales u orillas; es la conversación usual de Liniers, de Saavedra, de San Cristóbal Sur. Esa conjetura es errónea: no hay quien no sienta que nuestra palabra arrabal es de carácter más económico que geográfico. Arrabal es todo conventillo del Centro. Arrabal es la esquina última de Uriburu, con el paredón final de la Recoleta y los compadritos amargos en un portón y ese desvalido almacén y la blanqueada hilera de casas bajas, en calmosa esperanza, ignoro si de la revolución social o de un organito. Arrabal son esos huecos barrios vacíos en que suele desordenarse Buenos Aires por el oeste y donde la bandera colorada de los remates —la de nuestra epopeya civil del horno de ladrillos y de las mensualidades y de las coimas— va descubriendo América. Arrabal es el rencor obrero en Parque Patricios y el razonamiento de ese rencor en diarios impúdicos. Arrabal es el bien plantado corralón, duro para morir, que persiste por Entre Ríos o por Las Heras y la casita que no se anima a la calle y que detrás de un portón de madera oscura nos resplandece, orillada de un corredor y un patio con plantas. Arrabal es el arrinconado bajo de Núñez con las habitaciones de zinc, y con los puentecitos de tabla sobre el agua deleznada de los zanjones, y con el carro de las varas al aire en el callejón. Arrabal es demasiado contraste para que su voz no cambie nunca. No hay un dialecto general de nuestras clases pobres: el arrabalero no lo es. El criollo no lo usa, la mujer lo habla sin ninguna frecuencia, el propio compadrito lo exhibe con evidente y descarada farolería, para gallear. El vocabulario es misérrimo: una veintena de representaciones lo informa y una viciosa turbamulta de sinónimos lo complica. Tan angosto es, que los saineteros que lo frecuentan tienen que inventarle palabras y han recurrido a la harto significativa viveza de invertir las de siempre. Esa indigencia es natural, ya que el arrabalero no es sino una decantación o divulgación del lunfardo, que es jerigonza ocultadiza de los ladrones. El lunfardo es un vocabulario gremial como tantos otros, es la tecnología de la furca y de la ganzúa. Imaginar que esa lengua técnica —lengua especializada en la infamia y sin palabras de intención general— puede arrinconar al castellano, es como trasoñar que el dialecto de las matemáticas o de la cerrajería puede ascender a único idioma. Ni el inglés ha sido arrinconado por el slang ni el español de España por la germanía de ayer o por el caló agitanado de hoy. Y eso que el caló es idioma abundoso, como que deriva del zíngaro y de la adición de una de sus variantes a la germanía o jerigonza delincuente española del mil seiscientos.
+
+El arrabalero, por lo demás, es cosa tan sin alma y fortuita que las dos clásicas figuraciones literarias de nuestro suburbio pudieron llevarse a cabo sin él. Ni el entrerriano decidor José Sixto Álvarez ni el entrerriano un poco chacotón y un poco triste que en todos los recuerdos de Palermo sigue colaborando, el ya genial muchacho Carriego, le dieron su favor. Ambos supieron el dialecto lunfardo y lo soslayaron: Álvarez, en sus Memorias de un vigilante, publicadas el año noventa y siete, dilucidó muchas de sus palabras y giros; Carriego se entretuvo en alguna décima en broma y se desentendió de firmarla. Lo cierto es que entre los dos opinaron que ni para las diabluras de lá gracia criolla ni para la recatada piedad, el lunfardo es bueno. Tampoco don Francisco A. Sicardi, en ese su infinito y barroso y huracanado Libro extraño, se sirvió de él.
+
+Sin embargo, ¿a qué alegar ejemplos ilustres? El pueblo de Buenos Aires —nada sospechoso, como es, de remilgos de casticismo— jamás versificó en esa jerga. Las milongas, que fueron la obradora y díscola voz de los compadritos, nunca la frecuentaron. Eso es natural, puesto que una cosa fueron los compadres de barrio —el cuarteador, obrero o carnicero que apuntalaba esquinas por esas calles de Balvanera o por Monserrat— y otra los forajidos que matreriaban por el bajo de Palermo o hacia la Quema. Los primeros tangos, los antiguos tangos dichosos, nunca sobrellevaron letra lunfarda: afectación que la novelera tilinguería actual hace obligatoria y que los llena de secreteo y de falso énfasis. Cada tango nuevo, redactado en el sedicente idioma popular, es un acertijo, sin que le falten las diversas lecciones, los corolarios, los lugares oscuros y la documentada discusión de comentadores. Esa tiniebla es lógica; el pueblo no precisa añadirse color local; el simulador trasueña que lo precisa y es costumbre que se le vaya la mano en la operación. Alma orillera y vocabulario de todos, hubo en la vivaracha milonga; cursilería internacional y vocabulario forajido hay en el tango.
+
+No insistiré. Si la causa es buena y está previamente ganada, la acumulación de pruebas es una costumbre dañina y hace de la adquirida o recuperada verdad, un lugar común. Desertar porque sí de la casi universalidad del idioma, para esconderse en un dialecto chucaro y receloso —jerga aclimatada en la infamia, jerigonza carcelaria y conventillera que nos convertiría en hipócritas al revés, en hipócritas de la malvivencia y de la ruindad— es proyecto de malhumorados y rezongones. Ese programa de trágica pequeñéz fue declinado ya por De Vedia, por Miguel Cañé, por Quesada, por Costa Álvarez, por Groussac. ¿Se rechazará la carabela en nombre de la jangada?, hizo como que preguntaba este último, con ejercitada ironía.
+
+Ahora quiero olvidarme del arrabalero y paso a comentar una distinta equivocación, la que postula lo perfecto de nuestro idioma y la impía inutilidad de refaccionarlo. Su mayor y solo argumento consta de las sesenta mil palabras que nuestro diccionario, el de los españoles, registra. Yo insinúo que esa superioridad numérica es ventaja aparencial, no esencial, y que el solo idioma infinito —el de las matemáticas— se basta con una docena de signos para no dejarse distanciar por número alguno. Es decir, el diccionario algorítmico de una página —con los guarismos, las rayitas, las crucecitas— es, virtualmente, el más acaudalado de cuantos hay. La numerosidad de representaciones es lo que importa, no la de signos. Ésta es superstición aritmética, pedantería, afán de coleccionista y de filatero. Es sabido que el obispo anglicano Wilkins, el más inteligente utopista en trances de idioma que pensó nunca, planeó un sistema de escritura internacional o simbología que con sólo dos mil cuarenta signos sobre papel pentagramado, sabía inventariar cualquier realidad. Esa su música silenciosa, claro es, no comportaba obligatoriamente ningún sonido. Ésa es ventaja máxima y qué más quisiera yo que hablar de ella, pero la sedicente riqueza del castellano debe, ahora, atarearme.
+
+La riqueza del español es el otro nombre eufemístico de su muerte. Abre el patán y el que no es patán nuestro diccionario y se queda maravillado frente al sinfín de voces que están en él y que no están en ninguna boca. No hay un lector, por más lector de otras publicaciones que sea, que no resulte convencido de ignorancia frente a esas páginas. El criterio acumulativo que las dirige —el que sigue cargando sobre el léxico de la Academia los vocabularios enteros de germanía, de heráldica, de arcaísmos— ha reunido esas defunciones. El conjunto es un espectáculo necrológico deliberado y constituye nuestro envidiado tesoro de voces pintorescas, felices y expresivas, según en la Gramática de la Academia se puede leer. Pintorescas, felices y expresivas. Esa trinidad de seudo palabras —dichas sin mayor precisión y sólo justificables por el común ambiente vanagloriosoes del más puro estilo indecidor de esos académicos.
+
+La sinonimia perfecta es lo que ellos quieren, el sermón hispánico. El máximo desfile verbal, aunque de fantasmas o de ausentes o de difuntos. La falta de expresión nada importa; lo que importa son los arreos, galas y riquezas del español, por otro nombre el fraude. La sueñera mental y la concepción acústica del estilo son las que fomentan sinónimos: palabras que sin la incomodidad de cambiar de idea, cambian de ruido. La Academia los apadrina con entusiasmo. Traslado aquí la recomendación que les da: La abundancia y variedad de palabras (dice) fue tan estimada en nuestros siglos de oro, que los preceptistas no se cansaban de recomendarla. Si cualquier gramático, verbigracia, tenía que autorizarse con el dictado de Nebrija, rara vez hubo de repetir la misma frase, variándola gallardamente de esta o parecida manera: así lo afirma Nebrija, así lo siente, asilo enseña, asilo dice, lo advierte así, tal es su opinión, tal su parecer, tal su juicio, según le place a Nebrija, si creemos al Ennio español, o empleando otros giros no menos discretos que oportunos {Gramática de la Academia, parte segunda, capítulo siete). Yo creo de veras que esa retahíla de equivalencias es recurso tan ajeno a la literatura como la posesión o no posesión de una nítida caligrafía. Por lo demás, la falible magnificencia de los sinónimos es tan indiscutida por la Academia que ésta los suele ver hasta donde no están, y así en lugar de decir hacerse ilusiones —frase que declara solecismo, no sé por qué— propone que digamos con metáforas de herrería forjarse ilusiones o quimeras, o si no a lo sonámbulo: alucinarse, soñar despierto.
+
+Afirmar una ya conseguida plenitud del habla española, es ilógico y es inmoral. Es ilógico, puesto que la perfección de un idioma postularía un gran pensamiento o un gran sentir, vale decir una gran literatura poética o filosófica, favores que no se domiciliaron nunca en España; es inmoral, en cuanto abandona al ayer, la más íntima posesión de todos nosotros: el porvenir, el gran pasado mañana argentino. Confieso —no de mala voluntad y hasta con presteza y dicha en el ánimo— que algún ejemplo de genialidad española vale por literaturas enteras: don Francisco de Quevedo, Miguel de Cervantes. ¿Quién más? Dicen que don Luis de Góngora, dicen que Gracián, dicen que el Arcipreste. No los escondo, pero tampoco quiero acortarle voz a la observación de que el común de la literatura española fue siempre fastidioso. Su cotidianería, su término medio, su gente, siempre vivió de las descansadas artes del plagio. El que no es genio, es nadie; el único recurso español es genialidad. Tanto es así que el español no sospechoso de genialidad, nunca recabó una página buena. Las que Menéndez y Pelayo escribió, tan festejadas por la claridad pedagógica de su prosa, son evidentes a fuerza de redundancias y límpidas de puro sabidas y consabidas. Sobre las de Unamuno no hablo; hay una seria presunción de genialidad en el caso de él. Si un español sabe escribir bien —eso que llaman escribir bien, eso de la bien plantada sentencia y del verbo no obligatorio— podemos inferir que es inteligente; si un francés, ya no. Difusa y no de oro es la mediocridad española de nuestra lengua.
+
+Esa superioridad numérica de que se alaba, es acopio inútil. El procedimiento simplista usado —o abusado— por el conde de Casa Valencia para cotejar el francés con el castellano, indicaría que no es corriente mi parecer. Manejó la estadística el tal señor y averiguó que las palabras registradas por el diccionario de la Academia Española eran casi sesenta mil y que las del diccionario francés eran treinta y un mil solamente. Esa comprobación lo alegró. Sin embargo, ¿quiere decir acaso este censo que un hablista hispánico gobierna veintinueve mil representaciones más que un francés? La inducción nos queda grandísima. Yo interrogo: Si la superioridad numérica de un idioma no es canjeable en superioridad mental, representativa, ¿a qué envalentonarse con ella? En cambio, si el criterio numérico es valedero, todo pensamiento es pobrísimo si no lo piensan en inglés o alemán, cuyos diccionarios acaudalan más de cien mil palabras cada uno. La prueba se efectúa siempre con el francés: prueba en que hay trampa, porque la cortedad léxica de ese idioma es economía y ha sido estimulada por sus retóricos. Servicial o no, el vocabulario chico de Racine es deliberado. Es austeridad, no indigencia. Quiero resumir lo antedicho. Dos conductas de idioma veo en los escritores de aquí: una, la de los saineteros que escriben un lenguaje que ninguno habla y que si a veces gusta, es precisamente por su aire exagerativo y caricatural, por lo forastero que suena; otra, la de los cultos, que mueren de la muerte prestada del español. Ambos divergen del idioma corriente: los unos remedan la dicción de la fechoría; los otros, la del memorioso y problemático español de los diccionarios. Equidistante de sus copias, el no escrito idioma argentino sigue diciéndonos, el de nuestra pasión, el de nuestra casa, el de la confianza, el de la conversada amistad.
+
+Mejor lo hicieron nuestros mayores. El tono de su escritura fue el de su voz; su boca no fue la contradicción de su mano. Fueron argentinos con dignidad: su decirse criollos no fue una arrogancia orillera ni un malhumor. Escribieron el dialecto usual de sus días: ni recaer en españoles ni degenerar en malevos fue su apetencia. Pienso en Esteban Echeverría, en Domingo Faustino Sarmiento, en Vicente Fidel López, en Lucio V Mansilla, en Eduardo Wilde. Dijeron bien en argentino: cosa en desuso. No precisaron disfrazarse de otros ni dragonear de recién venidos, para escribir. Hoy, esa naturalidad se gastó. Dos deliberaciones opuestas, la seudo plebeya y la seudo hispánica, dirigen las escrituras de ahora. El que no se aguaranga para escribir y se hace el peón de estancia o el matrero o el valentón, trata de españolarse o asume un español gaseoso, abstraído, internacional, sin posibilidad de patria ninguna. Las singulares excepciones que restan —la de don Eduardo Schiaffino, la de Güiraldes— son de las que honran. El hecho, claro está, es sintomático. Ser argentino en los días peleados de nuestro origen no fue seguramente una felicidad: fue una misión. Fue una necesidad de hacer patria, fue un riesgo hermoso, que comportaba, por ser riesgo, un orgullo. Ahora es ocupación descansadísima la de argentino. Nadie trasueña que tengamos algo que hacer. Pasar desapercibidos, hacernos perdonar esa guarangada del tango, descreer de todos los fervores a lo francés y no entusiasmarse, es opinión de muchos. Hacerse el mazorquero o el quichua, es carnaval de otros. Pero la argentinidad debería ser mucho más que una supresión o que un espectáculo. Debería ser una vocación.
+
+Muchos, con intención de desconfianza, interrogarán: ¿Qué zanja insuperable hay entre el español de los españoles y el de nuestra conversación argentina? Yo les respondo que ninguna, venturosamente para la entendibilidad general de nuestro decir. Un matiz de diferenciación silo hay: matiz que es lo bastante discreto para no entorpecer la circulación total del idioma y lo bastante nítido para que en él oigamos la patria. No pienso aquí en los algunos miles de palabras privativas que intercalamos y que los peninsulares no entienden. Pienso en el ambiente distinto de nuestra voz, en la valoración irónica o cariñosa que damos a determinadas palabras, en su temperatura no igual. No hemos variado el sentido intrínseco de las palabras, pero sí su connotación. Esa divergencia, nula en la prosa argumentativa o en la didáctica, es grande en lo que mira a las emociones. Nuestra discusión será hispana, pero nuestro verso, nuestro humorismo, ya son de aquí. Lo emotivo —desolador o alegrador— es asunto de ellas y lo rige la atmósfera de las palabras, no su significado. La palabra súbdito (esta observación me la vuelve a prestar Arturo Costa Álvarez) es decente en España y denigrativa en América. La palabra envidiado es formulación de elogio en España (su envidiado tesoro de voces pintorescas, felices y expresivas, dice la Gramática oficial de los españoles) y aquí, jactarse de la envidia de los demás, nos parece ruin. Nuestras mayores palabras de poesía arrabal y pampa no son sentidas por ningún español. Nuestro lindo es palabra que se juega entera para elogiar; el de los españoles no es aprobativo con tantas ganas. Gozar y sobrar miran con intención malévola aquí. La palabra egregio, tan publicada por la Revista de Occidente y aun por don Américo Castro, no sabe impresionarnos. Y así, prolijamente, de muchas.
+
+Desde luego la sola diferenciación es norma engañosa. Lo también español no es menos argentino que lo gauchesco y a veces más: tan nuestra es la palabra llovizna como la palabra garúa, más nuestra es la de todos conocida palabra pozo que la dicción campera jagüel. La preferencia sistemática y ciega de las locuciones nativas no dejaría de ser un pedantismo de nueva clase: una diferente equivocación y un otro mal gusto. Así con la palabra macana. Don Miguel de Unamuno —único sentidor español de la metafísica y por eso y por otras inteligencias, gran escritor— ha querido favorecer esa palabreja. Macana, sin embargo, es palabra de negligentes para pensar. El jurista Segovia, en su atropellado Diccionario de argentinismos, escribe de ella: Macana: Disparate, despropósito, tontería. Eso, que ya es demasiado, no es todo. Macana se les dice a las paradojas, macana a las locuras, macana a los contratiempos, macana a las perogrulladas, macana a las hipérboles, macana a las incongruencias, macana a las simplonerías y boberías, macana a lo no usual. Es palabra de haragana generalización y por eso su éxito. Es palabra limítrofe, que sirve para desentenderse de lo que no se entiende y de lo que no se quiere entender. ¡Muerta seas, macana, palabra de nuestra sueñera y de nuestro caos!
+
+En resumen, el problema verbal (que es el literario, también) es de tal suerte que ninguna solución general o catolicón puede recetársele. Dentro de la comunidad del idioma (es decir, dentro de lo entendible: límite que está pared por medio de lo infinito y del que no podemos quejamos honestamente) el deber de cada uno es dar con su voz. El de los escritores más que nadie, claro que sí. Nosotros, los que procuramos la paradoja de comunicarnos con los demás por solas palabras —y ésas acostadas en un papel— sabemos bien las vergüenzas de nuestro idioma. Nosotros, los renunciadores a ese gran diálogo auxiliar de miradas, de ademanes y de sonrisas, que es la mitad de una conversación y más de la mitad de su encanto, hemos padecido en pobreza propia lo balbuciente que es. Sabemos que no el desocupado jardinero Adán, sino el Diablo —esa pifiadora culebra, ese inventor de la equivocación y de la aventura, ese carozo del azar, ese eclipse de ángel— fue el que bautizó las cosas del mundo. Sabemos que el lenguaje es como la luna y tiene su hemisferio de sombra. Demasiado bien lo sabemos, pero quisiéramos volverlo tan límpido como ese porvenir que es la posesión mejor de la patria.
+
+Vivimos una hora de promisión. Mil novecientos veintisiete: gran víspera argentina. Quisiéramos que el idioma hispano, que fue de incredulidad serena en Cervantes y de chacota dura en Quevedo y de apetencia de felicidad —no de felicidad— en Fray Luis y de nihilismo y prédica siempre, fuera de beneplácito y de pasión en estas repúblicas. Que alguien se afirme venturoso en lengua española, que el pavor metafísico de gran estilo se piense en español, tiene su algo y también su mucho de atrevimiento. Siempre metieron muerte en ese lenguaje, siempre desengaños, consejos, remordimientos, escrúpulos, precauciones, cuando no retruécanos y calembours, que también son muerte. Esa su misma sonoridad (vale decir: ese predominio molesto de las vocales, que por ser pocas, cansan) lo hace sermonero y enfático. Pero nosotros quisiéramos un español dócil y venturoso, que se llevara bien con la apasionada condición de nuestros ponientes y con la infinitud de dulzura de nuestros barrios y con el poderío de nuestros veranos y nuestras lluvias y con nuestra pública fe. Sustancia de las cosas que se esperan, demostración de cosas no vistas, definió San Pablo la fe. Recuerdo que nos viene del porvenir, traduciría yo. La esperanza es amiga nuestra y esa plena entonación argentina del castellano es una de las confirmaciones de que nos habla. Escriba cada uno su intimidad y ya la tendremos. Digan el pecho y la imaginación lo que en ellos hay, que no otra astucia filológica se precisa.
+
+Esto es lo que yo quería deciros. El porvenir (cuyo nombre mejor es el de esperanza) tira de nuestros corazones.
+
+
+
+
+
+JORGE FRANCISCO ISIDORO LUIS BORGES (Buenos Aires, 24 de agosto de 1899 – Ginebra, 14 de junio de 1986) fue un escritor argentino, uno de los autores más destacados de la literatura del siglo XX. Publicó ensayos breves, cuentos y poemas. Su obra, fundamental en la literatura y en el pensamiento humano, ha sido objeto de minuciosos análisis y de múltiples interpretaciones, trasciende cualquier clasificación y excluye cualquier tipo de dogmatismo.
+
+Es considerado como uno de los eruditos más grandes del siglo XX, lo cual no impide que la lectura de sus escritos suscite momentos de viva emoción o de simple distracción. Ontologías fantásticas, genealogías sincrónicas, gramáticas utópicas, geografías novelescas, múltiples historias universales, bestiarios lógicos, silogismos ornitológicos, éticas narrativas, matemáticas imaginarias, thrillers teológicos, nostálgicas geometrías y recuerdos inventados son parte del inmenso paisaje que las obras de Borges ofrecen tanto a los estudiosos como al lector casual. Y sobre todas las cosas, la filosofía, concebida como perplejidad, el pensamiento como conjetura, y la poesía, la forma suprema de la racionalidad. Siendo un literato puro pero, paradójicamente, preferido por los semióticos, matemáticos, filólogos, filósofos y mitólogos, Borges ofrece —a través de la perfección de su lenguaje, de sus conocimientos, del universalismo de sus ideas, de la originalidad de sus ficciones y de la belleza de su poesía— una obra que hace honor a la lengua española y la mente universal.
+
+Ciego a los 55 años, personaje polémico, con posturas políticas que le impidieron ganar el Premio Nobel de Literatura al que fue candidato durante casi treinta años.
+
+
+
+
+
