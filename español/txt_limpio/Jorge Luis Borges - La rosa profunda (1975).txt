@@ -289,7 +289,7 @@ Ardes de amor y mueres melodioso.
 
 
 
-LA PANTERA[1]
+LA PANTERA
 
 Tras los fuertes barrotes la pantera
 Repetirá el monótono camino
@@ -317,9 +317,9 @@ Que cumple cada cual ya fue fijada.
 
 
 
-ESPADAS[2]
+ESPADAS
 
-Gram, Durendal, Joyeuse, Excalibur.[3]
+Gram, Durendal, Joyeuse, Excalibur.
 Sus viejas guerras andan por el verso,
 Que es la única memoria. El universo
 Las siembra por el Norte y por el Sur.
@@ -426,7 +426,7 @@ En la guerra. Soy eco, olvido, nada.
 
 
 
-QUINCE MONEDAS[4]
+QUINCE MONEDAS
 A Alicia Jurado
 UN POETA ORIENTAL
 
@@ -590,7 +590,7 @@ El amor, el azar, cada momento.
 
 
 
-SUEÑA ALONSO QUIJANO[5]
+SUEÑA ALONSO QUIJANO
 
 El hombre se despierta de un incierto
 Sueño de alfanjes y de campo llano
@@ -618,7 +618,7 @@ Los mares de Lepanto y la metralla.
 
 
 
-A UN CÉSAR[6]
+A UN CÉSAR
 
 En la noche propicia a los lemures
 Y a las larvas que hostigan a los muertos,
@@ -646,7 +646,7 @@ El tigre de oro y sombra ha profanado.
 
 
 
-PROTEO[7]
+PROTEO
 
 Antes que los remeros de Odiseo
 Fatigaran el mar color de vino
@@ -674,7 +674,7 @@ Tú, que eres uno y eres muchos hombres.
 
 
 
-OTRA VERSIÓN DE PROTEO[8]
+OTRA VERSIÓN DE PROTEO
 
 Habitador de arenas recelosas,
 Mitad dios y mitad bestia marina,
@@ -702,7 +702,7 @@ Ayeres y mañanas. Mientras, antes...
 
 
 
-UN MAÑANA[9]
+UN MAÑANA
 
 Loada sea la misericordia
 De Quien, ya cumplidos mis setenta años
@@ -740,7 +740,7 @@ Patria, no en la fracción de cada día.
 
 
 
-HABLA UN BUSTO DE JANO[10]
+HABLA UN BUSTO DE JANO
 
 Nadie abriere o cerrare alguna puerta
 Sin honrar la memoria del Bifronte,
@@ -796,7 +796,7 @@ que soy? ¿Qué cumbre puede ser la meta?
 
 
 
-BRUNANBURH, 937 A.D.[11]
+BRUNANBURH, 937 A.D.
 
 Nadie a tu lado.
 Anoche maté a un hombre en la batalla.
@@ -823,7 +823,7 @@ Anoche maté a un hombre en Brunanburh.
 
 
 
-EL CIEGO[12]
+EL CIEGO
 
 I
 Lo han despojado del diverso mundo,
@@ -945,7 +945,7 @@ La carga secular de los ayeres
 De la historia que fue o que fue soñada
 Me abruma, personal como una culpa.
 Pienso en la nave ufana que devuelve
-A los mares el cuerpo de Scyld Sceaving[13]
+A los mares el cuerpo de Scyld Sceaving
 Que reinó en Dinamarca bajo el cielo;
 Pienso en el alto lobo, cuyas riendas
 Eran sierpes, que dio al barco incendiado

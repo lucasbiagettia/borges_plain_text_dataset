@@ -234,7 +234,7 @@ El Asno de Tres Patas
 El Asno de Tres Patas
 Plinio atribuye a Zarathustra, fundador de la religión que aún profesan los parsis de Bombay, la escritura de dos millones de versos; el historiador arábigo Tabari afirma que sus obras completas, eternizadas por piadosos calígrafos, abarcan doce mil cueros de vaca. Es fama que Alejandro de Macedonia las hizo quemar en Persépolis, pero la buena memoria de los sacerdotes pudo salvar los textos fundamentales y desde el siglo IX los complementa una obra enciclopédica, el Bundahish, que contiene esta página:
 «Del Asno de Tres Patas se dice que está en la mitad del océano y que tres es el número de sus cascos y seis el de sus ojos y nueve el de sus bocas y dos el de sus orejas y uno su cuerno. Su pelaje es blanco, su alimento es espiritual y todo él es justo. Y dos de los seis ojos están en el lugar de los ojos y dos en la punta de la cabeza y dos en la cerviz; con la penetración de los seis ojos rinde y destruye.
-»De las nueve bocas, tres están en la cabeza y tres en la cerviz y tres adentro de los ijares… cada casco, puesto en el suelo, cubre el lugar de una majada de mil ovejas, y bajo el espolón pueden maniobrar hasta mil jinetes. En cuanto a las orejas, son capaces de abarcar a Mazandarán[1]. El cuerno es como de oro y hueco, y le han crecido mil ramificaciones. Con ese cuerno vencerá y disipará todas las corrupciones de los malvados.»
+»De las nueve bocas, tres están en la cabeza y tres en la cerviz y tres adentro de los ijares… cada casco, puesto en el suelo, cubre el lugar de una majada de mil ovejas, y bajo el espolón pueden maniobrar hasta mil jinetes. En cuanto a las orejas, son capaces de abarcar a Mazandarán. El cuerno es como de oro y hueco, y le han crecido mil ramificaciones. Con ese cuerno vencerá y disipará todas las corrupciones de los malvados.»
 Del ámbar se sabe que es el estiércol del Asno de Tres Patas. En la mitología del mazdeísmo, este monstruo benéfico es uno de los auxiliares de Ahura Mazdah (Ormuz), principio de la Vida, de la Luz y de la Verdad.
 
 
@@ -325,7 +325,7 @@ El Basilisco
 
 
 El Basilisco
-En el curso de las edades, el Basilisco se modifica hacia la fealdad y el horror y ahora se lo olvida. Su nombre significa «pequeño rey»; para Plinio el Antiguo (VIII, 33), el Basilisco era una serpiente que en la cabeza tenía una mancha clara en forma de corona. A partir de la Edad Media, es un gallo cuadrúpedo y coronado, de plumaje amarillo, con grandes alas espinosas y cola de serpiente que puede terminar en un garfio o en otra cabeza de gallo. El cambio de la imagen se refleja en un cambio de nombre; Chaucer, en el siglo XIV, habla del basilicock. Uno de los grabados que ilustran la Historia Natural de las Serpientes y Dragones de Aldrovandi le atribuye escamas, no plumas, y la posesión de ocho patas[2].
+En el curso de las edades, el Basilisco se modifica hacia la fealdad y el horror y ahora se lo olvida. Su nombre significa «pequeño rey»; para Plinio el Antiguo (VIII, 33), el Basilisco era una serpiente que en la cabeza tenía una mancha clara en forma de corona. A partir de la Edad Media, es un gallo cuadrúpedo y coronado, de plumaje amarillo, con grandes alas espinosas y cola de serpiente que puede terminar en un garfio o en otra cabeza de gallo. El cambio de la imagen se refleja en un cambio de nombre; Chaucer, en el siglo XIV, habla del basilicock. Uno de los grabados que ilustran la Historia Natural de las Serpientes y Dragones de Aldrovandi le atribuye escamas, no plumas, y la posesión de ocho patas.
 Lo que no cambia es la virtud mortífera de su mirada. Los ojos de las gorgonas petrificaban; Lucano refiere que de la sangre de una de ellas, Medusa, nacieron todas las serpientes de Libia: el Áspid, la Anfisbena, el Amódite, el Basilisco. El pasaje está en el libro noveno de la Farsalia; Jáuregui lo traslada así al español:
 
 El vuelo a Libia dirigió Perseo,
@@ -366,21 +366,21 @@ El Behemoth
 El Behemoth
 Cuatro siglos antes de la era cristiana, Behemoth era una magnificación del elefante o del hipopótamo, o una incorrecta y asustada versión de esos dos animales; ahora es, exactamente, los diez versículos famosos que lo describen (Job XI, 15-24) y la vasta forma que evocan. Lo demás es discusión o filología.
 El nombre «Behemoth» es plural; se trata (nos dicen los filólogos) del plural intensivo de la voz hebrea b'hemahh, que significa «bestia». Como dijo Fray Luis de León en su Exposición del Libro de Job: «Behemoth que siendo un animal vale por muchos».
-A título de curiosidad recordemos que también es plural el nombre de Dios, Elohim, en el primer versículo de la Ley, aunque el verbo que rige está en singular («En el principio hizo los Dioses, el cielo y la tierra») y que esta formación ha sido llamada plural de majestad o de plenitud[3].
+A título de curiosidad recordemos que también es plural el nombre de Dios, Elohim, en el primer versículo de la Ley, aunque el verbo que rige está en singular («En el principio hizo los Dioses, el cielo y la tierra») y que esta formación ha sido llamada plural de majestad o de plenitud.
 Éstos son los versículos que figuran en el Behemoth, en la traducción literal de Fray Luis de León, que se propuso «conservar el sentido latino y el aire hebreo que tiene su cierta majestad».
 
 10 Ves agora a Behemoth; yerba como buey come.
 11 Ves; fortaleza suya en sus lomos, y poderío suyo en ombligo de su vientre.
 12 Menea su cola como cedro; nervios de sus vergüenzas enhebrados.
 13 Sus huesos fístulas de bronce; como vara de hierro.
-14 El principio de caminos de Dios, quien le hizo aplicará su cuchillo[4].
+14 El principio de caminos de Dios, quien le hizo aplicará su cuchillo.
 15 Que a él montes le producen yerba, y todas las bestias del campo hacen juegos allí.
 16 Debajo de sombríos pace; en escondrijo de caña, en pantanos húmedos.
 17 Cúbrenle sombríos su sombra; cercáranle sauces del arroyo.
 18 Ves; sorberá río, y no maravilla; tiene fiucia (fiducia, confianza) que el Jordán pasará por su boca.
 19 En sus ojos como anzuelo le prenderá; con palos agudos horadará sus narices.
 
-Agregamos, para aclaración de lo anterior, la versión de Cipriano de Valera[5]:
+Agregamos, para aclaración de lo anterior, la versión de Cipriano de Valera:
 
 10 He aquí ahora Behemoth, al cual yo hice contigo; yerba come como buey.
 11 He aquí ahora que su fuerza está en sus lomos; y su fortaleza en el ombligo de su vientre.
@@ -716,7 +716,7 @@ Una gruesa y alta serpiente con garras y alas es quizá la descripción más fie
 En el libro undécimo de la Ilíada se lee que en el escudo de Agamenón había un Dragón azul y tricéfalo; siglos después los piratas escandinavos pintaban Dragones en sus escudos y esculpían cabezas de Dragón en las proas de las naves. Entre los romanos, el Dragón fue insignia de la cohorte, como el águila de la legión; tal es el origen de los actuales Regimientos de Dragones. En los estandartes de los reyes germánicos de Inglaterra había Dragones; el objeto de tales imágenes era infundir terror a los enemigos. Así, en el romance de Athis se lee:
 
 Ce souloient Romains porter,
-Ce nous fait moult à redouter[6].
+Ce nous fait moult à redouter.
 
 En el Occidente el Dragón siempre fue concebido como malvado. Una de las hazañas clásicas de los héroes (Hércules, Sigurd, San Miguel, San Jorge) era vencerlo y matarlo. En las leyendas germánicas, el Dragón custodia objetos preciosos. Así, en la Gesta de Beowulf, compuesta en Inglaterra hacia el siglo VIII, hay un Dragón que durante trescientos años es guardián de un tesoro. Un esclavo fugitivo se esconde en su caverna y se lleva un jarro. El Dragón se despierta, advierte el robo y resuelve matar al ladrón; a ratos baja a la caverna y la revisa bien. (Admirable ocurrencia del poeta atribuir al monstruo esa inseguridad tan humana.) El Dragón empieza a desolar el reino; Beowulf lo busca, combate con él y lo mata.
 La gente creyó en la realidad del Dragón. Al promediar el siglo XVI, lo registra la Historia Animalium de Conrad Gesner, obra de carácter científico.
@@ -790,7 +790,7 @@ La Esfinge
 La Esfinge
 La Esfinge de los monumentos egipcios (llamada «Androesfinge» por Herodoto, para distinguirla de la griega) es un león echado en la tierra y con cabeza de hombre; representaba, se conjetura, la autoridad del rey y custodiaba los sepulcros y templos. Otras, en las avenidas de Karnak, tienen cabeza de carnero, el animal sagrado de Amón. Esfinges barbadas y coronadas hay en los monumentos de Asiria y la imagen es habitual en las gemas persas. Plinio, en su catálogo de animales etiópicos, incluye las Esfinges, de las que no precisa otro rasgo que «el pelaje pardo rojizo y los pechos iguales».
 La Esfinge griega tiene cabeza y pechos de mujer, alas de pájaro, y cuerpo y pies de león. Otros le atribuyen cuerpo de perro y cola de serpiente. Se refiere que asolaba el país de Tebas, proponiendo enigmas a los hombres (pues tenía voz humana) y devorando a quienes no sabían resolverlos. A Edipo, hijo de Yocasta, le preguntó:
-«¿Qué ser tiene cuatro pies, dos pies o tres pies, y cuantos más tiene es más débil?»[7].
+«¿Qué ser tiene cuatro pies, dos pies o tres pies, y cuantos más tiene es más débil?».
 Edipo contestó que era el hombre, que de niño se arrastra en cuatro pies, cuando es mayor anda en dos y a la vejez se apoya en un báculo. La Esfinge, descifrado el enigma, se precipitó desde lo alto de su montaña.
 De Quincey, hacia 1849, sugirió una segunda interpretación, que puede complementar la tradicional. El sujeto del enigma, según De Quincey, es menos el hombre genérico que el individuo Edipo desvalido y huérfano en su mañana, solo en la edad viril y apoyado en Antígona en la desesperada y ciega vejez.
 
@@ -951,9 +951,9 @@ Nada casual podemos admitir en un libro dictado por una inteligencia divina, ni 
 En el Talmud (Sanhedrín, 65 b) se lee:
 «Si los justos quisieran crear un mundo, podrían hacerlo. Combinando las letras de los inefables nombres de Dios, Rava consiguió crear un hombre y lo mandó a Rav Zera. Éste le dirigió la palabra; como el hombre no respondía, el rabino le dijo:
 »—Eres una creación de la magia; vuelve a tu polvo.
-»Dos maestros solían cada viernes estudiar las leyes de la Creación y crear un ternero de tres años, que luego aprovechaban para la cena»[8].
+»Dos maestros solían cada viernes estudiar las leyes de la Creación y crear un ternero de tres años, que luego aprovechaban para la cena».
 La fama occidental del Golem es obra del escritor austriaco Gustav Meyrink, que en el quinto capítulo de su novela onírica Der Golem (1915) escribe así:
-«El origen de la historia remonta al siglo XVII. Según perdidas fórmulas de la cábala, un rabino[9] construyó un hombre artificial —el llamado Golem— para que éste tañera las campanas en la sinagoga e hiciera los trabajos pesados. No era, sin embargo, un hombre como los otros y apenas lo animaba una vida sorda y vegetativa. Ésta duraba hasta la noche y debía su virtud al influjo de una inscripción mágica, que le ponían detrás de los dientes y que atraía las libres fuerzas siderales del universo. Una tarde, antes de la oración de la noche, el rabino se olvidó de sacar el sello de la boca del Golem y éste cayó en un frenesí, corrió por las callejas oscuras y destrozó a quienes se le pusieron delante. El rabino, al fin, lo atajó y rompió el sello que lo animaba. La criatura se desplomó. Sólo quedó la raquítica figura de barro, que aún hoy se muestra en la sinagoga de Praga.»
+«El origen de la historia remonta al siglo XVII. Según perdidas fórmulas de la cábala, un rabino construyó un hombre artificial —el llamado Golem— para que éste tañera las campanas en la sinagoga e hiciera los trabajos pesados. No era, sin embargo, un hombre como los otros y apenas lo animaba una vida sorda y vegetativa. Ésta duraba hasta la noche y debía su virtud al influjo de una inscripción mágica, que le ponían detrás de los dientes y que atraía las libres fuerzas siderales del universo. Una tarde, antes de la oración de la noche, el rabino se olvidó de sacar el sello de la boca del Golem y éste cayó en un frenesí, corrió por las callejas oscuras y destrozó a quienes se le pusieron delante. El rabino, al fin, lo atajó y rompió el sello que lo animaba. La criatura se desplomó. Sólo quedó la raquítica figura de barro, que aún hoy se muestra en la sinagoga de Praga.»
 Eleazar de Worms ha conservado la fórmula necesaria para construir un Golem. Los pormenores de la empresa abarcan veintitrés columnas en folio y exigen el conocimiento de «los alfabetos de las doscientas veintiuna puertas» que deben repetirse sobre cada órgano del Golem. En la frente se tatuará la palabra «Emet», que significa «Verdad». Para destruir la criatura, se borrará la letra inicial, porque así queda la palabra «met», que significa «muerto».
 
 
@@ -971,7 +971,7 @@ El Grifo
 «De esta tierra (Turquía) los hombres irán a la tierra de Bactria, donde hay hombres malvados y astutos, y en esa tierra hay árboles que dan lana, como si fueran ovejas, de la que hacen tela. En esa tierra hay ypotains (hipopótamos) que a veces moran en la tierra, a veces en el agua, y son mitad hombre y mitad caballo, y sólo se alimentan de hombres, cuando los consiguen. En esa tierra hay muchos Grifos, más que en otros lugares, y algunos dicen que tienen el cuerpo delantero de águila, y el trasero de león, y tal es la verdad, porque así están hechos; pero el Grifo tiene el cuerpo mayor que ocho leones y es más robusto que cien águilas. Porque sin duda llevará volando a su nido un caballo con el jinete, o dos bueyes uncidos cuando salen a arar, porque tiene grandes uñas en los pies, del grandor de cuerpos de bueyes, y con éstas hacen copas para beber, y con las costillas, arcos para tirar.»
 En Madagascar, otro famoso viajero, Marco Polo, oyó hablar del roc, y al principio entendió que se referían al uccello grifone, al pájaro Grifo (Viajes, III, 36).
 En la Edad Media, la simbología del Grifo es contradictoria. Un bestiario italiano dice que significa el demonio; en general, es emblema de Cristo, y así lo explica Isidoro de Sevilla en sus Etimologías: «Cristo es león porque reina y tiene la fuerza; águila, porque, después de la resurrección, sube al cielo.»
-En el canto veintinueve del Purgatorio, Dante sueña con un carro triunfal tirado por un Grifo; la parte de águila es de oro, la de león es blanca, mezclada con bermejo, por significar, segúnlos comentadores, la naturaleza humana de Cristo[10]. (Blanco mezclado con bermejo da el color de la carne.)
+En el canto veintinueve del Purgatorio, Dante sueña con un carro triunfal tirado por un Grifo; la parte de águila es de oro, la de león es blanca, mezclada con bermejo, por significar, segúnlos comentadores, la naturaleza humana de Cristo. (Blanco mezclado con bermejo da el color de la carne.)
 Otros entienden que Dante quería simbolizar al Papa, que es sacerdote y rey. Escribe Didron, en su Iconografía cristiana: «El Papa, como pontífice o águila, se eleva hasta el trono de Dios a recibir sus órdenes, y como león o rey anda por la tierra con fortaleza y con vigor.»
 
 
@@ -1065,7 +1065,7 @@ El Hipogrifo
 
 
 El Hipogrifo
-Para significar imposibilidad o incongruencia, Virgilio habló de encastar caballos con grifos. Cuatro siglos después, Servio el comentador afirmó que los grifos son animales que de medio cuerpo arriba son águilas, y de medio abajo, leones. Para dar mayor fuerza al texto, agregó que aborrecen a los caballos… Con el tiempo, la locución Jungentur jam grypes equis[11] llegó a ser proverbial; a principios del siglo XVI, Ludovico Ariosto la recordó e inventó el Hipogrifo. Águila y león conviven en el grifo de los antiguos; caballo y grifo en el Hipogrifo ariotesco, que es un monstruo o una imaginación de segundo grado. Pietro Micheli hace notar que es más armonioso que el caballo con alas.
+Para significar imposibilidad o incongruencia, Virgilio habló de encastar caballos con grifos. Cuatro siglos después, Servio el comentador afirmó que los grifos son animales que de medio cuerpo arriba son águilas, y de medio abajo, leones. Para dar mayor fuerza al texto, agregó que aborrecen a los caballos… Con el tiempo, la locución Jungentur jam grypes equis llegó a ser proverbial; a principios del siglo XVI, Ludovico Ariosto la recordó e inventó el Hipogrifo. Águila y león conviven en el grifo de los antiguos; caballo y grifo en el Hipogrifo ariotesco, que es un monstruo o una imaginación de segundo grado. Pietro Micheli hace notar que es más armonioso que el caballo con alas.
 Su descripción puntual, escrita para un diccionario de zoología fantástica, consta en el Orlando Furioso:
 «No es fingido el corcel, sino natural, porque un grifo lo engendró en una yegua. Del padre tiene la pluma y las alas, las patas delanteras, el rostro y el pico; las otras partes, de la madre y se llama Hipogrifo. Vienen (aunque, a decir verdad, son muy raros) de los montes Rifeos, más allá de los mares glaciales.»
 La primera mención de la extraña bestia es engañosamente casual:
@@ -1079,7 +1079,7 @@ Come L’Ecclisse o la Cometa sia.
 Vede la Donna un’alta maraviglia
 Che di leggier creduta non saria:
 Vede passar un gran destriero alato,
-Che porta in aria un cavalliero armato[12].
+Che porta in aria un cavalliero armato.
 
 Astolfo, en uno de los cantos finales, desensilla el Hipogrifo y lo suelta.
 
@@ -1488,7 +1488,7 @@ Odradek
 
 
 
-Odradek[13]
+Odradek
 «Unos derivan del eslavo la palabra “odradek” y quieren explicar su formación mediante ese origen. Otros la derivan del alemán y sólo admiten una influencia del eslavo. La incertidumbre de ambas interpretaciones es la mejor prueba de que son falsas; además, ninguna de ellas nos da una explicación de la palabra.
 »Naturalmente nadie perdería el tiempo en tales estudios si no existiera realmente un ser que se llama Odradek. Su aspecto es el de un huso de hilo, plano y con forma de estrella, y la verdad es que parece hecho de hilo, pero de pedazos de hilos cortados, viejos, anudados y entreverados, de distinta clase y color. No sólo es un huso; del centro de la estrella sale un palito transversal, y en este palito se articula otro en ángulo recto. Con ayuda de este último palito de un lado y uno de los rayos de la estrella del otro, el conjunto puede pararse, como si tuviera dos piernas.
 »Uno estaría tentado de creer que esta estructura tuvo alguna vez una forma adecuada a una función, y que ahora está rota. Sin embargo, tal no parece ser el caso; por lo menos no hay ningún indicio en ese sentido: en ninguna parte se ven composturas o roturas; el conjunto parece inservible, pero a su manera completo. Nada más podemos decir, porque Odradek es extraordinariamente movedizo y no se deja apresar.
@@ -1554,7 +1554,7 @@ La Peluda de la Ferté-Bernard
 
 
 
-La Peluda de la Ferté-Bernard[14]
+La Peluda de la Ferté-Bernard
 A orillas del Huisne, arroyo de apariencia tranquila, merodeaba durante la Edad Media la Peluda (la velue). Este animal habría sobrevivido el Diluvio, sin haber sido recogido en el arca. Era del tamaño de un toro; tenía cabeza de serpiente, un cuerpo esférico cubierto de pelaje verde, armado de aguijones cuya picadura era mortal. Las patas eran anchísimas, semejantes a las de la tortuga; con la cola, en forma de serpiente, podía matar a las personas y a los animales. Cuando se encolerizaba, lanzaba llamas que destruían las cosechas. De noche, saqueaba los establos. Cuando los campesinos la perseguían, se escondía en las aguas del Huisne, que hacía desbordar, inundando toda la zona.
 Prefería devorar los seres inocentes, las doncellas y los niños. Elegía a la doncella más virtuosa, a la que llamaban la Corderita (l’agnelle). Un día, arrebató a una Corderita y la arrastró desgarrada y ensangrentada al lecho del Huisne. El novio de la víctima cortó con una espada la cola de la Peluda, que era su único lugar vulnerable. El monstruo murió inmediatamente. Lo embalsamaron y festejaron su muerte con tambores, con pífanos y danzas.
 
@@ -1624,10 +1624,10 @@ Rémora
 
 Rémora
 Rémora, en latín, es demora. Tal es el recto sentido de esa palabra, que figuradamente se aplicó a la echeneis, porque le atribuyeron la facultad de detener los barcos. El proceso se invirtió en español; rémora, en sentido propio, es el pez y, en sentido figurado, el obstáculo. La rémora es un pez de color ceniciento; sobre la cabeza y la nuca tiene una placa oval, cuyas láminas cartilaginosas le sirven para adherirse a los demás cuerpos submarinos, formando con ella el vacío. Plinio declara sus poderes:
-«Hay un pescado llamado la rémora, muy acostumbrado a andar entre piedras, el cual, pegándose a las carenas, hace que las naos se muevan más tardas, y de aquí le pusieron el nombre, y por esta causa es también infame hechicería, y para detener y obscurecer los juicios y pleitos. Pero estos males los modera con un bien, porque retiene en el vientre las criaturas hasta el parto. No es bueno ni se recibe para manjares. Entiende Aristóteles tener este pescado pies, pues tiene puestas de tal manera la multitud de sus escamas que lo parecen… Trebio Negro dice que este pez es del largo de un pie y del grueso de cinco dedos y que detiene los navíos y, fuera de esto, que poniéndole conservado en sal tiene la virtud que el oro caído en profundísimos pozos lo saca pegado a él»[15].
+«Hay un pescado llamado la rémora, muy acostumbrado a andar entre piedras, el cual, pegándose a las carenas, hace que las naos se muevan más tardas, y de aquí le pusieron el nombre, y por esta causa es también infame hechicería, y para detener y obscurecer los juicios y pleitos. Pero estos males los modera con un bien, porque retiene en el vientre las criaturas hasta el parto. No es bueno ni se recibe para manjares. Entiende Aristóteles tener este pescado pies, pues tiene puestas de tal manera la multitud de sus escamas que lo parecen… Trebio Negro dice que este pez es del largo de un pie y del grueso de cinco dedos y que detiene los navíos y, fuera de esto, que poniéndole conservado en sal tiene la virtud que el oro caído en profundísimos pozos lo saca pegado a él».
 Extraño es comprobar cómo de la idea de detener los barcos se llegó a la de detener los pleitos y a la de detener las criaturas.
 En otro lugar, Plinio refiere que una rémora decidió la suerte del Imperio Romano, deteniendo en la batalla de Accio la galera en que Marco Antonio revistaba su escuadra, y que otra rémora paró el navío de Calígula, a pesar del esfuerzo de los cuatrocientos remeros. «Soplan los vientos y se encolerizan las tempestades —exclama Plinio—, pero la rémora sujeta su furia y ordena que los barcos se detengan en su carrera y alcanza lo que no alcanzarían las más pesadas áncoras y los cables.»
-«No siempre vence la mayor fuerza. Al curso de una nave detiene una pequeña rémora», repite Diego de Saavedra Fajardo[16].
+«No siempre vence la mayor fuerza. Al curso de una nave detiene una pequeña rémora», repite Diego de Saavedra Fajardo.
 
 
 
@@ -1802,7 +1802,7 @@ Talos
 
 
 Talos
-Los seres vivos hechos de metal o de piedra integran una especie alarmante de la zoología fantástica. Recordemos los airados toros de bronce que respiraban fuego y que Jasón, por obra de las artes mágicas de Medea, logró uncir al arado; la estatua psicológica de Condillac, de mármol sensible; el barquero de cobre, con una lámina de plomo en el pecho, en la que se leían nombres y talismanes, que rescató y abandonó, en Las Mil y Una Noches, al tercer mendigo hijo de rey, cuando éste hubo derribado al jinete de la Montaña del Imán; las muchachas «de suave plata y de furioso oro» que una diosa de la mitología de William Blake apresó para un hombre, en redes de seda; las aves de metal que fueron nodrizas de Ares; y Talos, el guardián de la isla de Creta[17]. Algunos lo declaran obra de Vulcano o de Dédalo; Apolonio de Rodas, en su Argonáutica, refiere que era el último superviviente de una Raza de Bronce.
+Los seres vivos hechos de metal o de piedra integran una especie alarmante de la zoología fantástica. Recordemos los airados toros de bronce que respiraban fuego y que Jasón, por obra de las artes mágicas de Medea, logró uncir al arado; la estatua psicológica de Condillac, de mármol sensible; el barquero de cobre, con una lámina de plomo en el pecho, en la que se leían nombres y talismanes, que rescató y abandonó, en Las Mil y Una Noches, al tercer mendigo hijo de rey, cuando éste hubo derribado al jinete de la Montaña del Imán; las muchachas «de suave plata y de furioso oro» que una diosa de la mitología de William Blake apresó para un hombre, en redes de seda; las aves de metal que fueron nodrizas de Ares; y Talos, el guardián de la isla de Creta. Algunos lo declaran obra de Vulcano o de Dédalo; Apolonio de Rodas, en su Argonáutica, refiere que era el último superviviente de una Raza de Bronce.
 Tres veces al día daba la vuelta a la isla de Creta y arrojaba peñascos a los que pretendían desembarcar. Caldeado al rojo vivo, abrazaba a los hombres y los mataba. Sólo era vulnerable en el talón; guiados por la hechicera Medea, Cástor y Pólux, los Dióscuros, le dieron muerte.
 
 
@@ -1867,7 +1867,7 @@ El Unicornio
 La primera versión del Unicornio casi coincide con las últimas. Cuatrocientos años antes de la era cristiana, el griego Ctesias, médico de Artajerjes Mnemón, refiere que en los reinos del Indostán hay muy veloces asnos silvestres, de pelaje blanco, de cabeza purpúrea, de ojos azules, provistos de un agudo cuerno en la frente, que en la base es blanco, en la punta rojo y en el medio es plenamente negro. Plinio agrega otras precisiones (VIII, 31):
 «Dan caza en la India a otra fiera: el Unicornio, semejante por el cuerpo al caballo, por la cabeza al ciervo, por las patas al elefante, por la cola al jabalí. Su mugido es grave; un largo y negro cuerno se eleva en medio de su frente. Se niega que pueda ser apresado vivo.»
 El orientalista Schrader, hacia 1892, pensó que el Unicornio pudo haber sido sugerido a los griegos por ciertos bajorrelieves persas, que representan toros de perfil, con un solo cuerno.
-En las Etimologías de Isidoro de Sevilla, redactadas a principios del siglo VII, se lee que una cornada del Unicornio suele matar al elefante; ello recuerda la análoga victoria del Karkadán (rinoceronte), en el segundo viaje de Simbad[18]. Otro adversario del Unicornio era el león, y una octava real del segundo libro de la inextricable epopeya The Faerie Queene conserva la manera de su combate. El león se arrima a un árbol; el Unicornio, con la frente baja, lo embiste; el león se hace a un lado, y el Unicornio queda clavado al tronco. La octava data del siglo XVI; a principios del XVIII, la unión del reino de Inglaterra con el reino de Escocia confrontaría en las armas de Gran Bretaña el Leopardo (león) inglés con el Unicornio escocés.
+En las Etimologías de Isidoro de Sevilla, redactadas a principios del siglo VII, se lee que una cornada del Unicornio suele matar al elefante; ello recuerda la análoga victoria del Karkadán (rinoceronte), en el segundo viaje de Simbad. Otro adversario del Unicornio era el león, y una octava real del segundo libro de la inextricable epopeya The Faerie Queene conserva la manera de su combate. El león se arrima a un árbol; el Unicornio, con la frente baja, lo embiste; el león se hace a un lado, y el Unicornio queda clavado al tronco. La octava data del siglo XVI; a principios del XVIII, la unión del reino de Inglaterra con el reino de Escocia confrontaría en las armas de Gran Bretaña el Leopardo (león) inglés con el Unicornio escocés.
 En la Edad Media, los bestiarios enseñan que el Unicornio puede ser apresado por una niña; en el Physiologus Graecus se lee: «Cómo lo apresan. Le ponen por delante una virgen y salta al regazo de la virgen y la virgen lo abriga con amor y lo arrebata al palacio de los reyes.» Una medalla de Pisanello y muchas y famosas tapicerías ilustran este triunfo, cuyas aplicaciones alegóricas son notorias. El Espíritu Santo, Jesucristo, el mercurio y el espacio sideral han sido figurados por el Unicornio. La obra de Jung Psychologie und Alchemie (Zurich, 1944) historia y analiza estos simbolismos.
 Un caballito blanco con patas traseras de antílope, barba de chivo y un largo y retorcido cuerno en la frente, es la representación habitual de este animal fantástico.
 Leonardo da Vinci atribuye la captura del Unicornio a su sensualidad; ésta le hace olvidar su fiereza y recostarse en el regazo de la doncella, y así lo apresan los cazadores.
@@ -1979,7 +1979,7 @@ Consideremos ahora un texto del siglo XIII. Lo escribió el cosmógrafo Al-Qazwi
 «En cuanto a la tortuga marina, es de tan desaforada grandeza que la gente del barco la toma por una isla. Uno de los mercaderes ha referido:
 »—Descubrimos en el mar una isla que se elevaba sobre el agua, con verdes plantas, y desembarcamos y en la tierra cavamos hoyos para cocinar, y la isla se movió, y los marineros dijeron: “Volved, porque es una tortuga, y el calor del fuego la ha despertado, y puede perdernos”.»
 En la Navegación de San Brandán se repite la historia:
-«… y entonces navegaron, y arribaron a aquella tierra, pero como en algunos lugares había escasa profundidad, y en otros, grandes rocas, fueron a una isla, que creyeron segura, e hicieron fuego para cocinar la cena; pero San Brandán no se movió del buque. Y cuando el fuego estaba caliente y la carne a punto de asarse, esta isla empezó a moverse, y los monjes se asustaron y huyeron al buque dejando el fuego y la carne, maravillándose del movimiento. Y San Brandán los reconfortó y les dijo que era un gran pez llamado Jasconye, que día y noche trata de morderse la cola, pero es tan largo que no puede»[19].
+«… y entonces navegaron, y arribaron a aquella tierra, pero como en algunos lugares había escasa profundidad, y en otros, grandes rocas, fueron a una isla, que creyeron segura, e hicieron fuego para cocinar la cena; pero San Brandán no se movió del buque. Y cuando el fuego estaba caliente y la carne a punto de asarse, esta isla empezó a moverse, y los monjes se asustaron y huyeron al buque dejando el fuego y la carne, maravillándose del movimiento. Y San Brandán los reconfortó y les dijo que era un gran pez llamado Jasconye, que día y noche trata de morderse la cola, pero es tan largo que no puede».
 En el bestiario anglosajón del Códice de Exeter, la peligrosa isla es una ballena, «astuta en el mal», que embauca deliberadamente a los hombres. Estos acampan en su lomo y buscan descanso de los trabajos de los mares; de pronto, el Huésped del Océano se sumerge y los marineros se ahogan. En el bestiario griego, la ballena quiere significar la ramera de los Proverbios («sus pies descienden a la muerte; sus pasos sustentan el sepulcro»); en el bestiario anglosajón, simboliza el Diablo y el Mal. Guardará ese valor simbólico en Moby Dick, que se escribirá diez siglos después.
 
 
